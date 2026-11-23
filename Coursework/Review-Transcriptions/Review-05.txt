@@ -1,9 +1,8 @@
 Transcription of pasted Maple worksheet text (including console output).
-Not directly executable. Name fields redacted.
+Not directly executable. 
 
 Review Questions - 05
 
-Note: Please answer the following questions to review Lecture 5. You may need to try some Maple commands and answer the review questions under the help of your lecture notes and the Maple built-in help menu.
   
 1. Use seq and rand to write a program to produce a sequence containing 1000 random 0's and 1's.
 
