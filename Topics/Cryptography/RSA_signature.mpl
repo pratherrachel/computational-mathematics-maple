@@ -1,4 +1,3 @@
-# Educational Maple example transcribed from the supplied worksheet.
 # This text-based .mpl file is readable on GitHub.
 # Original calculation order is retained where practical; no execution verified.
 # Demonstration only, not production cryptography.
@@ -13,4 +12,3 @@ s := m^d mod N;
 # Verification
 t := s^e mod N;
 evalb(t = m);
-# Expected from supplied screenshot: s = 327, t = 43.
