@@ -1,6 +1,5 @@
-# Educational Maple example transcribed from the supplied worksheet.
 # This text-based .mpl file is readable on GitHub.
-# Original calculation order is retained where practical; no execution verified.
+# Original calculation order is retained where practical; 
 # Demonstration only, not production cryptography.
 restart:
 # Pollard rho worked example (iterations shown in worksheet)
