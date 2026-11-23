@@ -1,4 +1,4 @@
-# Basic Maple functions — readable transcription of supplied commands
+# Basic Maple functions
 restart:
 2 + 2;
 2^231;
