@@ -1,0 +1,622 @@
+Transcription of pasted Maple worksheet text (including console output).
+Not directly executable. Name fields redacted.
+
+Assignment One
+[name redacted]
+Problem 1.
+It is easy to compute 
+Int(x^2*sqrt(-x^2 + 1), x = 0 .. 1);
+ using Maple. One simply types the command
+int(x^2*sqrt(-x^2 + 1), x = 0 .. 1);
+                             1    
+                             -- Pi
+                             16   
+
+To find the approximate floating point value of the integral we apply evalf as follows:
+evalf(%);
+                          0.1963495409
+
+x := int(x^2*sqrt(-x^2 + 1), x = 0 .. 1);
+                                1    
+                           x := -- Pi
+                                16   
+
+y := evalf(%);
+                       y := 0.1963495409
+
+Problem 2.
+Explain the different results of the following Maple commands:
+(a) x:y; (b) x:=y; (c) x=y; (d) x/y; (e) x\y; (f) x:='x';
+restart;
+x;
+y;
+x := y;
+x = y;
+x/y;
+x minus y;
+x := 'x';
+                               y
+
+                             x := y
+
+                             y = y
+
+                               1
+
+                               {}
+
+                             x := x
+
+Problem 3.
+(a) Show using Maple that sqrt(2)+sqrt(3)=Pi is correct to three decimal digits, but is not correct to more than 3. Use evalf[3](x) to obtain x to 3 decimal digits. 
+x := sqrt(2) + sqrt(3);
+evalf[3](x);
+evalf[4](x);
+evalf(Pi);
+restart;
+                            (1/2)    (1/2)
+                      x := 2      + 3     
+
+                              3.14
+
+                             3.146
+
+                          3.141592654
+
+(b) Factor the polynomial x^3-4x^2-4x-5.
+solve(x^3 - 4*x^2 - 4*x - 5 = 0);
+                  1   1    (1/2)    1   1    (1/2)
+             5, - - - - I 3     , - - + - I 3     
+                  2   2             2   2         
+
+(c) Assign the equation x^3-4x^2-4x-5=0 to the variable Eqn.
+Eqn := x^3 - 4*x^2 - 4*x - 5 = 0;
+                         3      2              
+                 Eqn := x  - 4 x  - 4 x - 5 = 0
+
+(d) Use solve to solve Eqn for the variable x. 
+solve(Eqn);
+                  1   1    (1/2)    1   1    (1/2)
+             5, - - - - I 3     , - - + - I 3     
+                  2   2             2   2         
+
+Problem 4.
+Use Maple to find the value of each of the following:
+(a) 
+int(sin(x)*cos(x)^2, x);
+ [indefinite integral]
+restart;
+int(sin(x)*cos(x)^2, x);
+                            1       3
+                          - - cos(x) 
+                            3        
+
+(b) 
+int(sin(x)*cos(x)^2, x = 1 .. 3);
+ [definite integral exact value]
+restart;
+int(sin(x)*cos(x)^2, x = 1 .. 3);
+                     1       3   1       3
+                     - cos(1)  - - cos(3) 
+                     3           3        
+
+(c)  the floating point value of the integral in (b) to 10 digits
+evalf[10](%);
+                          0.3760018477
+
+(d) 
+diff(x*exp(x)*sin(x), x);
+restart;
+Diff(x*exp(x)*sin(x), x) = diff(x*exp(x)*sin(x), x);
+     d                                                     
+    --- (x exp(x) sin(x)) = exp(x) sin(x) + x exp(x) sin(x)
+     dx                                                    
+
+       + x exp(x) cos(x)
+
+
+Problem 5.
+Let f be the function defined by the rule
+                 
+f(x) = sin(x)*(exp(x) + x^2 + x + 1);
+. 
+Use each of the three methods described in Lecture 1 (arrow, unapply and proc) to define this function in Maple and find the value of f(x) to 10 digits for each of the following values of x:  0,  1.  After each case execute the command restart; before doing the next case.
+restart;
+f := x -> sin(x)*(exp(x) + x^2 + x + 1);
+evalf[10](f(0));
+evalf[10](f(1));
+f := proc (x) options operator, arrow; sin(x)*(exp(x)+x^2+x+1) 
+
+   end proc
+
+
+                               0.
+
+                          4.811768241
+
+restart;
+f := unapply(sin(x)*(exp(x) + x^2 + x + 1), x);
+evalf[10](f(0));
+evalf[10](f(1));
+f := proc (x) options operator, arrow; sin(x)*(exp(x)+x^2+x+1) 
+
+   end proc
+
+
+                               0.
+
+                          4.811768241
+
+restart;
+f := proc(x) sin(x)*(exp(x) + x^2 + x + 1); end proc;
+evalf[10](f(0));
+evalf[10](f(1));
+         f := proc (x) sin(x)*(exp(x)+x^2+x+1) end proc
+
+                               0.
+
+                          4.811768241
+
+Assignment Two
+Problem 1.  
+(a) Write a program (not necessarily a procedure) using a do loop to compute the sum 
+sum((2/3)^n, n = 2 .. 100);
+.  Apply evalf to obtain a floating point approximation to the sum.
+x_sum := 0;
+for n from 2 to 100 do
+    x_sum := x_sum + evalf((2/3)^n);
+    evalf(x_sum);
+end do;
+x_sum;
+                          1.333333331
+
+(b) Write a program (not necessarily a procedure) that will find the set S of all positive integers less than 1000 that have 11 as a factor.  [n has 11 as a factor if and only if 
+n mod 11 = 0;
+.]
+S := ();
+for n to 1000 do
+    if modp(n, 11) = 0 then S := S union {[n]}; end if;
+end do;
+S;
+{[11], [22], [33], [44], [55], [66], [77], [88], [99], [110], 
+
+  [121], [132], [143], [154], [165], [176], [187], [198], [209], 
+
+  [220], [231], [242], [253], [264], [275], [286], [297], [308], 
+
+  [319], [330], [341], [352], [363], [374], [385], [396], [407], 
+
+  [418], [429], [440], [451], [462], [473], [484], [495], [506], 
+
+  [517], [528], [539], [550], [561], [572], [583], [594], [605], 
+
+  [616], [627], [638], [649], [660], [671], [682], [693], [704], 
+
+  [715], [726], [737], [748], [759], [770], [781], [792], [803], 
+
+  [814], [825], [836], [847], [858], [869], [880], [891], [902], 
+
+  [913], [924], [935], [946], [957], [968], [979], [990]}
+
+
+Problem 2. 
+Write a procedure ISPRIME whose input is a positive integer n and whose output is true if n is prime and false otherwise.  Test the procedure on the following numbers: 
+
+1, 2, 3, 4, 11, 111, 531, 7919, 15689, 262681
+
+The answers should be
+
+"false, true, true, false, true, false, false, true, false, true"
+
+.
+restart;
+ISPRIME := proc(n) local d; if n < 2 then return false; end if; if n = 2 then return true; end if; if 2 < n then for d from 2 to n - 1 do if n mod d = 0 then return false; end if; end do; return true; end if; end proc;
+ISPRIME(1);
+ISPRIME(2);
+ISPRIME(3);
+ISPRIME(4);
+ISPRIME(11);
+ISPRIME(111);
+ISPRIME(531);
+ISPRIME(7919);
+ISPRIME(15689);
+ISPRIME(262681);
+                             false
+
+                              true
+
+                              true
+
+                             false
+
+                              true
+
+                             false
+
+                             false
+
+                              true
+
+                             false
+
+                              true
+
+Problem 3. 
+If 
+n00*n;
+ is a positive integer greater than 2 that satisfies 
+modp(2^(n - 1), n) = 1;
+ and 
+n;
+ is not prime then 
+n;
+ is called a 2-pseudoprime. Find all 2-pseudoprimes less than 2000 and give the factorization of each one that you find. Hint: The smallest 2-pseudoprime is 341 = 11x31.
+restart;
+two_pseudoprime := proc(n) if 2 < n and modp(2^(n - 1), n) = 1 and isprime(n) = false then return true; end if; return false; end proc;
+S := ();
+for i to 2000 do
+    if two_pseudoprime(i) = true then S := S union {[i]}; end if;
+end do;
+S;
+     {[341], [561], [645], [1105], [1387], [1729], [1905]}
+
+Problem 4.  
+(a) Write a procedure, primesum, whose input is a positive integer 
+n;
+ and whose output is the sum of all primes 
+p;
+ such that 
+p <= n;
+. You may use either your procedure  ISPRIME from problem 2 or the built-in procedure isprime. Test the procedure for 
+n;
+ = 2, 4, 10, and 1000.
+PRIMESUM := proc(n) local SUM, k; SUM := 0; for k to n do if isprime(k) = true then SUM := SUM + k; end if; end do; return SUM; end proc;
+PRIMESUM(2);
+PRIMESUM(4);
+PRIMESUM(10);
+PRIMESUM(1000);
+                               2
+
+                               5
+
+                               17
+
+                             76127
+
+ (b) Write a procedure, primeset, whose input is  a positive integer 
+n;
+ and whose output is the set of all primes 
+p;
+ such that 
+p <= n;
+. You may use either your procedure  ISPRIME from problem 2  or the built-in procedure isprime. Test the procedure for 
+n;
+ = 2, 4, 10, and 1000.
+primeset := proc(n) local S, p; S := (); for p to n do if isprime(p) = true then S := S union {[p]}; end if; end do; print(S); end proc;
+primeset(2);
+primeset(4);
+primeset(10);
+primeset(1000);
+                             {[2]}
+
+                           {[2], [3]}
+
+                      {[2], [3], [5], [7]}
+
+{[2], [3], [5], [7], [11], [13], [17], [19], [23], [29], [31], 
+
+  [37], [41], [43], [47], [53], [59], [61], [67], [71], [73], 
+
+  [79], [83], [89], [97], [101], [103], [107], [109], [113], 
+
+  [127], [131], [137], [139], [149], [151], [157], [163], [167], 
+
+  [173], [179], [181], [191], [193], [197], [199], [211], [223], 
+
+  [227], [229], [233], [239], [241], [251], [257], [263], [269], 
+
+  [271], [277], [281], [283], [293], [307], [311], [313], [317], 
+
+  [331], [337], [347], [349], [353], [359], [367], [373], [379], 
+
+  [383], [389], [397], [401], [409], [419], [421], [431], [433], 
+
+  [439], [443], [449], [457], [461], [463], [467], [479], [487], 
+
+  [491], [499], [503], [509], [521], [523], [541], [547], [557], 
+
+  [563], [569], [571], [577], [587], [593], [599], [601], [607], 
+
+  [613], [617], [619], [631], [641], [643], [647], [653], [659], 
+
+  [661], [673], [677], [683], [691], [701], [709], [719], [727], 
+
+  [733], [739], [743], [751], [757], [761], [769], [773], [787], 
+
+  [797], [809], [811], [821], [823], [827], [829], [839], [853], 
+
+  [857], [859], [863], [877], [881], [883], [887], [907], [911], 
+
+  [919], [929], [937], [941], [947], [953], [967], [971], [977], 
+
+  [983], [991], [997]}
+
+
+Problem 5. 
+Three positive integers 
+x, y;
+ and 
+z;
+ form a Pathagorean triple (
+x, y, z;
+) if 
+x^2 + y^2 = z^2;
+. For example, (3,4,5) is a Pathagorean triple. Write a procedure Pathagoreantripleset, whose input is a positive integer 
+n;
+ and whose output is the set of all Pathagorean triples (
+x, y, z;
+) with 
+z <= n;
+. Test the procedure for 
+n = 10, 20, 30;
+.
+Pathagoreantripleset := proc(n) local S, z, y, x; S := (); for x to n do for y to n do for z to n do if x^2 + y^2 = z^2 then S := S union {[x, y, z]}; end if; end do; end do; end do; return S; end proc;
+Pathagoreantripleset(10);
+         {[3, 4, 5], [4, 3, 5], [6, 8, 10], [8, 6, 10]}
+
+Pathagoreantripleset(20);
+  {[3, 4, 5], [4, 3, 5], [5, 12, 13], [6, 8, 10], [8, 6, 10], 
+
+    [8, 15, 17], [9, 12, 15], [12, 5, 13], [12, 9, 15], 
+
+    [12, 16, 20], [15, 8, 17], [16, 12, 20]}
+
+
+Pathagoreantripleset(30);
+ {[3, 4, 5], [4, 3, 5], [5, 12, 13], [6, 8, 10], [7, 24, 25], 
+
+   [8, 6, 10], [8, 15, 17], [9, 12, 15], [10, 24, 26], 
+
+   [12, 5, 13], [12, 9, 15], [12, 16, 20], [15, 8, 17], 
+
+   [15, 20, 25], [16, 12, 20], [18, 24, 30], [20, 15, 25], 
+
+   [20, 21, 29], [21, 20, 29], [24, 7, 25], [24, 10, 26], 
+
+   [24, 18, 30]}
+
+
+Assignment Three
+Problem 1. 
+(a) Use a for-loop and a conditional statement to split the positive integers not greater than 20 into a set P of prime numbers and a set Q of non-prime numbers. Display the sets P and Q. 
+P := {};
+Q := {};
+for i to 20 do
+    if isprime(i) = true then P := P union {i}; else Q := Q union {i}; end if;
+end do;
+print('P' = P), 'Q' = Q;
+                P = {2, 3, 5, 7, 11, 13, 17, 19}
+
+        Q = {1, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20}
+
+(b) Use a for-loop and a conditional statement with break to compute the smallest positive prime number greater than 1000.
+for i from 1000 do if isprime(i) = true then print(i); break; end if; end do;
+isprime(1009);
+                              1009
+
+                              true
+
+(c) Write a for ... in loop that constructs from a set S a new set R consisting of each element n in S divided by n+1. Apply it to the sets P and Q defined in (a) above and display the results.
+P := {2, 3, 5, 7, 11, 13, 17, 19};
+Q := {1, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20};
+S := {};
+R := {};
+f := proc(S) local d, i, R; R := (); for d in S do i := d/(d + 1); R := R union {i}; end do; return R; end proc;
+f(P);
+               P := {2, 3, 5, 7, 11, 13, 17, 19}
+
+        Q := {1, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20}
+
+                            S := {}
+
+                            R := {}
+
+                  /2  3  5  7  11  13  17  19\ 
+                 { -, -, -, -, --, --, --, -- }
+                  \3  4  6  8  12  14  18  20/ 
+
+Problem 2.  
+Perhaps you have heard  the famous story about Ramanujan and Hardy's taxi number: Once when Ramanujan was ill in London, Hardy visited Ramanujan in the hospital. When Hardy remarked that he had taken taxi number 1729, a singularly unexceptional number, Ramanujan immediately responded that this number was actually quite remarkable: it is the smallest positive integer that can be represented in two ways by the sum of two cubes. [from Eric Weisstein's Treasure Trove of Scientific Biography]
+
+(a) Verify (using Maple) Ramanujan's statement that 1729 is the smallest positive integer that can be expressed in two different ways as a sum of two cubes. You should be able to use the ideas in the section above on perfect squares and sums of squares. [Use of the analogue of the procedure given there due to Robert Israel is recommended.] Only here we are talking of cubes instead of squares.  But there are other ways to do the problem that may occur to you. 
+sumcube := proc(n) local x, y, Sols; Sols := {}; for x to evalf(root(1/2*n, 3)) do y := root(n - x^3, 3); if type(y, posint) then Sols := Sols union {{x, y}}; end if; end do; return Sols; end proc;
+for n do
+    if 2 <= nops(sumcube(n)) then print(n, sumcube(n)); break; end if;
+end do;
+                    1729, {{1, 12}, {9, 10}}
+
+(b) Find the next number after 1729 that is a sum of two cubes in two different ways.
+for n from 1730 do
+    if 2 <= nops(sumcube(n)) then print(n, sumcube(n)); break; end if;
+end do;
+                    4104, {{2, 16}, {9, 15}}
+
+Problem 3. 
+Definition. A positive integer n is perfect if the sum of its proper positive divisors is n. 
+
+For example, the proper positive divisors of 6 are 1, 2, and 3. Further 6 = 1 + 2 + 3. So 6 is perfect. [If you have had number theory you may know about the structure of even perfect numbers. Do not use that knowledge for  this exercise. Use only the definition to write your programs.]
+ 
+(a) Write a procedure which takes as input a positive integer n and returns the sum of all proper divisors of n. Show how your procedure works for the following values of n: 2, 3, 4, 6, 30, 900.
+propdivisors := proc(n) local x, y, Divs; Divs := {}; for x to n - 1 do y := n/x; if type(y, posint) then Divs := Divs union {x}; end if; end do; return Divs; end proc;
+propdivisors(2);
+propdivisors(3);
+propdivisors(4);
+propdivisors(6);
+propdivisors(30);
+propdivisors(900);
+                              {1}
+
+                              {1}
+
+                             {1, 2}
+
+                           {1, 2, 3}
+
+                    {1, 2, 3, 5, 6, 10, 15}
+
+{1, 2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 25, 30, 36, 45, 50, 60, 
+
+  75, 90, 100, 150, 180, 225, 300, 450}
+
+
+(b) Using  the procedure you wrote in (a) write a procedure isperfect which takes as input a positive integer n and returns true if n is perfect and false if not. Note: proper divisors of n can  not be greater than n/2. Use the procedure to find all perfect numbers 
+n <= 1000;
+. 
+
+                             {8128}
+
+Problem 4 .  
+Definition. The order of an integer a modulo an integer m is defined to be the least positive integer e such that 
+                        "a^e mod m = 1"
+
+.  
+
+Write a procedure, call it Ord, such that Ord(a,m) returns FAIL if the order does not exist and the order of a modulo m if  it  exists.
+
+You may use the number theoretic result that the order of a modulo m exists if and only if igcd(a,m) = 1. Also you may use the fact that the order of a modulo m is never greater than m - 1. [Note that Maple uses igcd for the greatest common divisor of integers and gcd for greatest common divisor of polynomials.] 
+
+(a) Check that you obtain: 
+
+        Ord(0,11) = FAIL,    Ord(2,11) = 10,     Ord(4,11) = 5.
+Ord := proc(a, m) local d, e; if igcd(a, m) <> 1 then return FAIL; end if; for e do if modp(a^e, m) = 1 then return e; end if; end do; end proc;
+Ord(0, 11);
+Ord(2, 11);
+Ord(4, 11);
+                              FAIL
+
+                               10
+
+                               5
+
+(b) Compute Ord(a, 15) for a from 0 to 20.
+_local(a);
+for a from 0 to 20 do
+    Ord(a, 15);
+end do;
+                              FAIL
+
+                               1
+
+                               4
+
+                              FAIL
+
+                               2
+
+                              FAIL
+
+                              FAIL
+
+                               4
+
+                               4
+
+                              FAIL
+
+                              FAIL
+
+                               2
+
+                              FAIL
+
+                               4
+
+                               2
+
+                              FAIL
+
+                               1
+
+                               4
+
+                              FAIL
+
+                               2
+
+                              FAIL
+
+Problem 5. 
+For each prime p from 2 to 100 find the smallest positive integer a such that Ord(a,p) = p-1. Print out a table with p, a on each row. 
+
+Assignment Four
+Problem 1. 
+(a)  Prove that every prime p greater than 2 satisfies p mod 8 = r where r is 1, 3, 5, or 7. Thus primes > 2 may be divided into four classes depending on their remainders when divided by  8.  No Maple calculations are necessary here, but write out your proof using Maple as a word processor. 
+p mod 8=r means that p=8q+r .....(1) where r=0,1,2,3,4,5,6, or 7
+
+now as we know by euclidean division algorithm , if a=bq+r then gcd(a,b)=gcd(b,r)
+
+similarly gcd(p,8) and gcd(8,r) should be the same in equ(1)
+
+since p is a prime number then gcd(p,8)=1
+
+so the value of r will be the values with whom gcd(8,r) will be 1.
+
+hence r can be 1,3,5 or 7 as gcd(8,1)=gcd(8,3)=gcd(8,5)=gcd(8,7)=1
+
+QED
+(b)  Set N:=100. (i) Form four lists L[1], L[3], L[5], L[7] where L[r] contains all primes 2< p < N such that p mod 8 = r . (ii) Using Maple count the number of primes in each list.
+L[1] := [];
+L[3] := [];
+L[5] := [];
+L[7] := [];
+for i from 3 to 100 do
+    if isprime(i) = true then if i mod 8 = 1 then L[1] := [op(L[1]), i]; elif i mod 8 = 3 then L[3] := [op(L[3]), i]; elif i mod 8 = 5 then L[5] := [op(L[5]), i]; elif i mod 8 = 7 then L[7] := [op(L[7]), i]; end if; end if;
+end do;
+L[1];
+nops(L[1]);
+                      [17, 41, 73, 89, 97]
+
+                               5
+
+L[3];
+nops(L[3]);
+                  [3, 11, 19, 43, 59, 67, 83]
+
+                               7
+
+L[5];
+nops(L[5]);
+                    [5, 13, 29, 37, 53, 61]
+
+                               6
+
+L[7];
+nops(L[5]);
+                    [7, 23, 31, 47, 71, 79]
+
+                               6
+
+Problem 2.
+In the notation of Problem 1, make a procedure with input = arbitrary  positive integer N and output = the list [nops(L[1]), nops(L[3]), nops(L[5]), nops(L[7])]. Do some experiments to see for which (if any) r, L[r] is largest. (According to Dirichlet's Theorem on Primes in Arithmetic Progressions the numbers nops(L[r]) will be asymptotically the same.) 
+
+(a) Test your procedure on some small values of N where you can check by hand if the answer is correct.  
+
+b) Then try it on some larger values of N. Try, for example,  N = 
+                             "10^i"
+
+,  i = 2,3,4, 5.
+
+Problem 3. 
+ (a) Write a procedure whose input is a positive integer n and whose output is the set of all squares of positive integers less than or equal to n.  Write it in two different ways. (i) using seq and (ii) using a do loop. Show output for n = 4, 10, 20, 100 and 1000.
+
+(b) Write a procedure genseq whose input is the integer n and whose output is the list of all integers 7*i  mod 11 for i from 1 to n.  Note that each of these integers will be in the set {0, 1, 2, . . .  , 10}. Write it in two different ways (i) using seq and (ii) using a do loop. Test each procedures for n = 11 and 110.
+
+Problem 4.  
+(a) Write a procedure that will take as input a positive integer n and whose output will be the list [c[0], c[1], . . . , c[10]] where c[i] is the number of times that i appears in the list genseq(n) where genseq is as described in Problem 3.  Test the procedure for n =  100, 1000 and 10000. Do the numbers 0, 1, . . ., 10 appear to be equally distributed?
+
+(b) In the procedure genseq replace 7*i mod 11 by 8*i mod 22. Then repeat the instructions in part (a) with [c[0], c[1], . . . , c[10]] replaced by [c[0], c[1], . . . , c[21]]. Do the numbers 0, 1, . . ., 21 appear to be equally distributed? 
+
+Problem 5.
+(a) Write a procedure enumdigits to compute the number of times each digit appears in first n digits of e in base m, where e is the base of the natural logarithm. Test enumdigits(n,m) for n=10,100,1000,10000 and m=2,3,4 to see if enumdigits(n,m) changes around n/m as n and m change.
+
+(b) Define a function emaxmintrend of n and m to compute the difference between the maximum and the minimum in the list enumdigits(n,m) times m/n. Evaluate emaxmintrend(n,m) for n=10,100,1000,10000 and m=2,3,4 to see if the function has the zero limit for a fixed base m as n tends to infinity

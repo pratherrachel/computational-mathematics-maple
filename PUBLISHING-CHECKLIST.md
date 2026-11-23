@@ -1,13 +1,7 @@
-# Public repository publishing checklist
+# Checklist before publishing
 
-- [ ] Confirm that every included solution may be publicly shared under the course's policies.
-- [ ] Remove lecturer/instructor authored materials and exam solutions without redistribution rights.
-- [ ] Remove personal identifiers you do not want public (some worksheets have author fields).
-- [ ] Verify worksheets open correctly in Maple.
-- [ ] Add descriptions of techniques and outcomes; do not claim unverified performance.
-- [ ] Consider excluding the entire `Reference-Materials/` directory from the public repository.
-- [ ] If a file was already published and then deleted, remember it can remain in Git history.
-
-- [ ] Confirm permission to publish the new Maple fundamentals/session worksheets.
-- [ ] Confirm authorship and attribution for the Pollard rho, RSA signature, and ElGamal examples.
-- [ ] Avoid treating the cryptography examples as secure production implementations.
+- [ ] Do not publicly upload `Original-Worksheets/` without reviewing every file in Maple for embedded author names, metadata, and course materials.
+- [ ] Confirm you have permission to publish assignment prompts, instructor-created lecture materials, and test solutions.
+- [ ] Review the new `.mpl` transcriptions for correctness by running them in Maple.
+- [ ] Confirm no personal names, contact details, credentials, or confidential values appear in public-facing content.
+- [ ] If the repository was ever public with identifying details, remember Git history can retain old versions; deletion from a new commit alone does not erase past history.

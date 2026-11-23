@@ -1,0 +1,1920 @@
+{VERSION 6 0 "Windows 10" "6.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal260" -1 206 1
+ {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 1 0 0 1 }1 1 0 0 0 
+0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 207 1 {CSTYLE "" -1 -1
+ "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2
+ 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 208 1 {CSTYLE "" -1 -1 "Cou
+rier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 
+0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple \+
+Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Normal257" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Nor
+mal256" -1 210 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0
+ 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1
+ 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 
+2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1
+ 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE
+ "Title259" -1 211 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "No Name" -1 212 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 
+1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 
+1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 200 "Times" 1 12 175
+ 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Code" -1 201 "Courier New" 1 12
+ 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 
+1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times"
+ 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 
+1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier"
+ 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Ti
+mes" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 
+"Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "
+Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1
+ 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "T
+imes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 
+202 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 
+17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Dictionary H
+yperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "
+Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+2D Math Italic Small" -1 203 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Annotation Text" -1 204 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1
+ 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 205 "Times" 1 10 0 0
+ 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small203" -1 206 "Ti
+mes" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Time
+s" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder" -1 208 "
+Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Help Empha
+sized" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help I
+talic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt
+" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bo
+ld" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Te
+xt" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Und
+erlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2
+D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "He
+lp Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2
+D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2
+D Inert Output" -1 210 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 
+}{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1
+ }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 211 "Times" 1 12 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 212 "Times" 1 12 0 0 0 1 2 1 2 2
+ 2 2 0 0 0 1 }{CSTYLE "" -1 213 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0
+ 1 }{CSTYLE "" -1 214 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 215 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 216 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 217 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 218 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 219 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 220 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 221 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 222 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 223 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 224 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 225 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 226 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 227 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 228 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 229 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 230 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 231 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 232 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 233 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 234 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 235 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 236 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 237 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 238 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 239 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 240 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 241 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 242 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 243 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 244 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 245 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 246 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 247 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 248 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 249 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 250 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 251 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 252 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 253 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 254 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 255 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 256 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 257 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 258 "Times" 1 13 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 259 "T
+imes" 1 11 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 260 "Times" 1 11
+ 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 261 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 262 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 263 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 264 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 265 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 266 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 267 "Times" 1 12
+ 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 268 "Times" 1 12 0 0 0 1 2
+ 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 269 "Times" 1 12 0 0 0 1 2 2 1 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 270 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 271 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 272 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 273 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 274 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 275 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 276 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 277 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 278 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 279 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 280 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 281 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 282 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 283 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 284 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 285 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 286 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 287 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 288 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 289 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 290 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 291 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 292 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 293 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 294 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 295 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 296 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 297 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 298 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 299 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 300 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 301 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 302 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 303 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 304 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 305 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 306 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 307 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 308 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 309 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 310 "Times" 1 12 0 0 0 1 2
+ 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 311 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 312 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 313 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 314 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 315 "T
+imes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 316 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 317 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 318 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 319 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 320 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 321 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 322 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 323 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 324 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 325 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 326 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 327 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 328 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 
+329 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 330 "Times
+" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 331 "Times" 1 12
+ 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 332 "Times" 1 12 104 
+64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 333 "Times" 1 12 104 64 92 
+1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 334 "Times" 1 12 104 64 92 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "" -1 335 "Times" 1 12 104 64 92 1 2 1 2 2 2 
+2 0 0 0 1 }{CSTYLE "" -1 336 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 
+0 1 }{CSTYLE "" -1 337 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 338 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 339 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 340 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 341 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 342 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 343 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 344 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 345 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 346 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 347 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 348 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 349 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 350 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 351 "Times" 1 12
+ 0 0 0 1 2 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 352 "Times" 1 12 0 0 0 1 2
+ 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 353 "Times" 1 12 0 0 0 1 2 1 1 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 354 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 355 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 356 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 357 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 358 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 359 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 360 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 361 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 362 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 363 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 364 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 365 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 366 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 367 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 368 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 369 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 370 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 371 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 372 "Times" 1 12
+ 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 373 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 374 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 375 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 376 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 377 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 378 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 379 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 380 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 381 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 382 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 383 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 384 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 385 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 386 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 387 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 388 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 389 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 390 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 391 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 392 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 393 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 394 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 395 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 396 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 397 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 398 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 399 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 400 "Times" 1 12
+ 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 401 "Times" 1 12 0 0 0 1 2
+ 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 402 "Times" 1 12 0 0 0 1 1 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 403 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 404 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 405 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 406 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 407 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 408 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 409 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 410 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 411 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 412 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 413 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 414 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 415 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 416 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 417 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 418 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 419 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 420 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 421 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 422 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 423 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 424 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 425 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 426 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 427 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 428 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 429 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 430 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 431 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 432 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 433 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 434 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 435 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 436 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 437 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 211 "" 0 "" {TEXT 438 48 "Lecture 3 More Flow Co
+ntrol, Variables and Names" }}}{SECT 0 {PARA 3 "" 0 "" {TEXT 439 50 "i
+f ... then ... elif ... then ... else ... end if;" }}{PARA 0 "" 0 "" 
+{TEXT 440 0 "" }}{EXCHG {PARA 209 "" 0 "" {TEXT 207 49 "Such statement
+s  take one of the following forms:" }{TEXT 441 1 "\n" }{TEXT 441 1 "
+\n" }{TEXT 207 2 "if" }{TEXT 441 1 " " }{TEXT 207 18 "Boolean expressi
+on" }{TEXT 441 1 " " }{TEXT 207 4 "then" }{TEXT 441 2 " \n" }{TEXT 
+441 5 "     " }{TEXT 207 22 "sequence of statements" }}{PARA 212 "" 0 
+"" {TEXT 207 8 "end if;\n" }}{PARA 209 "" 0 "" {TEXT 441 38 "---------
+-----------------------------" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}
+{PARA 0 "" 0 "" {TEXT 212 2 "if" }{TEXT 440 21 " Boolean expression  "
+ }{TEXT 213 4 "then" }{TEXT 440 2 " \n" }{TEXT 440 25 "  sequence of s
+tatements\n" }{TEXT 214 4 "else" }}{PARA 0 "" 0 "" {TEXT 440 24 " sequ
+ence of statements\n" }{TEXT 215 7 "end if;" }{TEXT 440 1 "\n" }}
+{PARA 0 "" 0 "" {TEXT 440 38 "--------------------------------------" 
+}}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 216 2 "if" }
+{TEXT 440 24 "   Boolean expression1  " }{TEXT 217 4 "then" }{TEXT 
+440 2 " \n" }{TEXT 440 25 "  sequence of statements\n" }{TEXT 218 4 "e
+lif" }{TEXT 440 21 " Boolean expression2 " }{TEXT 219 4 "then" }}
+{PARA 0 "" 0 "" {TEXT 440 23 " sequence of statements" }}{PARA 0 "" 0 
+"" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 4 "    " }{TEXT 220 6 ".
+ . . " }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 221 4 
+"elif" }{TEXT 440 21 " Boolean expressionN " }{TEXT 222 4 "then" }
+{TEXT 440 1 "\n" }{TEXT 440 24 " sequence of statements\n" }{TEXT 223 
+4 "else" }{TEXT 440 1 "\n" }{TEXT 440 25 "  sequence of statements\n" 
+}{TEXT 224 7 "end if;" }}{PARA 0 "" 0 "" {TEXT 440 38 "---------------
+-----------------------" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 ""
+ 0 "" {TEXT 440 3 "By " }{TEXT 225 18 "Boolean expression" }{TEXT 440 
+36 " we mean a statement that is either " }{TEXT 226 4 "true" }{TEXT 
+440 4 " or " }{TEXT 227 5 "false" }{TEXT 440 52 ". (Note: Maple's Bool
+ean expressions have the value " }{TEXT 228 4 "true" }{TEXT 440 4 " or
+ " }{TEXT 229 5 "false" }{TEXT 440 8 " and not" }{TEXT 230 5 " True" }
+{TEXT 440 4 " or " }{TEXT 231 5 "False" }{TEXT 440 49 ".) Such stateme
+nts are usually constructed using " }{TEXT 232 18 "<, <=, >, >=, <>. "
+ }{TEXT 440 3 "or " }{TEXT 233 1 "=" }{TEXT 440 46 " together possibly
+ with the logical operators " }{TEXT 234 12 "and, or, not" }{TEXT 440 
+2 ". " }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 6 
+"Note  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Type
+setting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\"&ne;\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typese
+tting:-mi(\"y\", italic = \"true\", mathvariant = \"italic\")), Typese
+tting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslib
+GF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'
+italicF'-I#moGF$6-Q%&ne;F'/F8Q'normalF'/%&fenceGQ&falseF'/%*separatorG
+FB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'acce
+ntGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-F,6%Q\"yF'F4F7F+" }{TEXT 
+440 32 " is denoted by x <> y in Maple. " }}{PARA 0 "" 0 "" {TEXT 440 
+0 "" }}{PARA 0 "" 0 "" {TEXT 440 73 "Other types of Boolean expression
+s are formed by procedures which return " }{TEXT 235 4 "true" }{TEXT 
+440 4 " or " }{TEXT 236 5 "false" }{TEXT 440 17 ". And example is " }
+{TEXT 237 10 "isprime(n)" }{TEXT 440 43 ". For specific values of n, t
+his is either " }{TEXT 238 4 "true" }{TEXT 440 4 " or " }{TEXT 239 5 "
+false" }{TEXT 440 3 ". \n" }}{PARA 0 "" 0 "" {TEXT 440 55 "One can tes
+t a Boolean expression by using the command " }{TEXT 240 5 "evalb" }
+{TEXT 440 30 " as in the following examples:" }}{PARA 0 "" 0 "" {TEXT 
+440 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "1<2;" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "2\"\"\"\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "evalb(1<2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "I%trueG%
+*protectedG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "evalb(2<1);"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "I&falseG%*protectedG" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "evalb(z<w);\n" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "2I\"zG6\"I\"wGF$" }}}{PARA 0 "" 0 "" {TEXT 440 74 "   Thi
+s indicates that Maple doesn't know whether z < w is true or false. " 
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 2 
+"A " }{TEXT 241 10 "statement " }{TEXT 440 80 "is a command followed b
+y a colon or semicolon. The following is an example of a " }{TEXT 242 
+22 "sequence of statements" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0
+ "" 0 "" {TEXT 440 1 " " }{TEXT 243 10 "  y:=i^2;\n" }{TEXT 244 11 "  \+
+ z:=i^3;\n" }{TEXT 245 15 "   print(y,z);\n" }{TEXT 246 1 "\n" }{TEXT 
+440 75 "So far as Maple is concerned they could be all on the same lin
+e as follows:" }{TEXT 247 1 "\n" }{TEXT 248 1 "\n" }{TEXT 249 31 "  y:
+=i^2;  z:=i^3;  print(y,z);" }}{PARA 0 "" 0 "" {TEXT 440 1 "\n" }{TEXT
+ 440 106 "We now look at some examples. The first illustrates a common
+ error. Execute the commands to see the error." }}{PARA 0 "" 0 "" 
+{TEXT 440 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "if t > 1 then \n" }
+{MPLTEXT 1 0 9 "  x:=3; \n" }{MPLTEXT 1 0 8 "end if; " }}{PARA 207 "" 
+1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error, cannot determine if this ex
+pression is true or false: 1 < t" 4 "http://www.maplesoft.com/support/
+help/errors/view.aspx?path=Error,%20cannot%20determine%20if%20this%20e
+xpression%20is%20true%20or%20false%3A%201%20%3C%20t" "" }{TEXT 442 0 "
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 34 "The expression t  > 1 is cal
+led a " }{TEXT 250 18 "Boolean expression" }{TEXT 440 222 ".  The prob
+lem here is that Maple does not know the value of t so it cannot tell \+
+if t > 1 is true  or false.  This can be fixed by putting in a value o
+f t as we now do. Note that a print statement is not needed if we use \+
+\"" }{TEXT 251 7 "end if;" }{TEXT 440 2 "\"," }{TEXT 252 1 " " }{TEXT 
+440 16 " as opposed to \"" }{TEXT 253 7 "end if:" }{TEXT 440 2 "\"." }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 440 30 " Try to anticipate the output." }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 6 "t:=3:\n" }{MPLTEXT 1 0 15 "if t > 1 then \n" }
+{MPLTEXT 1 0 8 "  x:=2;\n" }{MPLTEXT 1 0 12 "  print(x);\n" }{MPLTEXT 
+1 0 7 "end if:" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"#" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "t:=3:\n" }{MPLTEXT 1 0 15 "if t > 1 \+
+then \n" }{MPLTEXT 1 0 8 "  x:=2;\n" }{MPLTEXT 1 0 7 "end if;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"xG6\"\"\"#" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 6 "t:=0:\n" }{MPLTEXT 1 0 15 "if t > 1 then \n" }
+{MPLTEXT 1 0 10 "   x:=2; \n" }{MPLTEXT 1 0 8 "end if; " }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 6 "t:=0:\n" }{MPLTEXT 1 0 15 "if t > 1 then \n" }{MPLTEXT 1 0 9 "  x
+:=2; \n" }{MPLTEXT 1 0 8 "end if;\n" }{MPLTEXT 1 0 6 "x:=3; " }}{PARA 
+11 "" 1 "" {XPPMATH 20 ">I\"xG6\"\"\"$" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 440 49 "The above can be accomplished with the following:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "t:=0:\n" }{MPLTEXT 1 0 15 "if
+ t > 1 then \n" }{MPLTEXT 1 0 9 "  x:=2; \n" }{MPLTEXT 1 0 5 "else\n" 
+}{MPLTEXT 1 0 8 "  x:=3;\n" }{MPLTEXT 1 0 7 "end if;" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ">I\"xG6\"\"\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 
+23 "Here we illustrate the " }{TEXT 254 52 "if .. then .. elif .. then
+ else... fi  construction." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+11 "f:=proc(y)\n" }{MPLTEXT 1 0 27 "  if y <= 1 then return 1;\n" }
+{MPLTEXT 1 0 31 "    elif y <= 2 then return 2;\n" }{MPLTEXT 1 0 31 " \+
+   elif y <= 3 then return 3;\n" }{MPLTEXT 1 0 31 "    elif y <= 4 the
+n return 4;\n" }{MPLTEXT 1 0 26 "    else return infinity;\n" }
+{MPLTEXT 1 0 10 "  end if;\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 109 "Note that a procedure returns on
+ly one value. When a value is returned the rest of the procedure is sk
+ipped.\n" }{TEXT 440 67 "The same result can be accomplished with the \+
+following procedure.:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "
+g:=proc(y)\n" }{MPLTEXT 1 0 35 "  if y <= 1 then return 1; end if;\n" 
+}{MPLTEXT 1 0 35 "  if y <= 2 then return 2; end if;\n" }{MPLTEXT 1 0 
+35 "  if y <= 3 then return 3; end if;\n" }{MPLTEXT 1 0 36 "  if y <= \+
+4 then return 4; end if; \n" }{MPLTEXT 1 0 20 "  return infinity; \n" 
+}{MPLTEXT 1 0 9 "end proc:" }{TEXT 440 7 "or end:" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 440 56 "We check a few values of x to see that f(x) = g(x
+): The " }{TEXT 255 5 "by .5" }{TEXT 440 36 " in the do loop causes in
+crements of" }{TEXT 256 3 " .5" }{TEXT 440 26 " instead of the default
+ by" }{TEXT 257 2 " 1" }{TEXT 440 1 "." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 28 "for x from 0 to 5 by .5 do \n" }{MPLTEXT 1 0 61 "  pr
+int(`If x = `,x,` then  f(x) = `,f(x),` g(x) = `,g(x)); \n" }{MPLTEXT 
+1 0 7 "end do;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6(I(If~x~=~G6\"\"\"!I/
+~then~~f(x)~=~GF$\"\"\"I)~g(x)~=~GF$F'" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "6(I(If~x~=~G6\"$\"\"&!\"\"I/~then~~f(x)~=~GF$\"\"\"I)~g(x)~=~GF$F)" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6(I(If~x~=~G6\"$\"#5!\"\"I/~then~~f(x)
+~=~GF$\"\"\"I)~g(x)~=~GF$F)" }}{PARA 11 "" 1 "" {XPPMATH 20 "6(I(If~x~
+=~G6\"$\"#:!\"\"I/~then~~f(x)~=~GF$\"\"#I)~g(x)~=~GF$F)" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "6(I(If~x~=~G6\"$\"#?!\"\"I/~then~~f(x)~=~GF$\"\"#I)
+~g(x)~=~GF$F)" }}{PARA 11 "" 1 "" {XPPMATH 20 "6(I(If~x~=~G6\"$\"#D!\"
+\"I/~then~~f(x)~=~GF$\"\"$I)~g(x)~=~GF$F)" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6(I(If~x~=~G6\"$\"#I!\"\"I/~then~~f(x)~=~GF$\"\"$I)~g(x)~
+=~GF$F)" }}{PARA 11 "" 1 "" {XPPMATH 20 "6(I(If~x~=~G6\"$\"#N!\"\"I/~t
+hen~~f(x)~=~GF$\"\"%I)~g(x)~=~GF$F)" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+(I(If~x~=~G6\"$\"#S!\"\"I/~then~~f(x)~=~GF$\"\"%I)~g(x)~=~GF$F)" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6(I(If~x~=~G6\"$\"#X!\"\"I/~then~~f(x)~=
+~GF$I)infinityG%*protectedGI)~g(x)~=~GF$F)" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6(I(If~x~=~G6\"$\"#]!\"\"I/~then~~f(x)~=~GF$I)infinityG%*
+protectedGI)~g(x)~=~GF$F)" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 154 "Le
+t's try to plot the function f (t) for t from 0 to 5.  The first plot \+
+fails, however, the second method works. You can see that we have a st
+ep function." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "plot(f(t),t
+=0..5,0..5);" }}{PARA 207 "" 1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error
+, (in plot) unexpected options: [0 = 0 .. 5, 0 .. 5]" 4 "http://www.ma
+plesoft.com/support/help/errors/view.aspx?path=Error,%20(in%20plot)%20
+unexpected%20options%3A%20%5B0%20%3D%200%20..%205,%200%20..%205%5D" ""
+ }{TEXT 442 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "plot(f,0
+..5,0..5);" }}{PARA 13 "" 1 "" {TEXT 443 0 "" }{GLPLOT2D 400.0 400.0 
+400.0 {PLOTDATA 2 "6*-%'CURVESG6$7dw7$$\"\"!!\"\"$\"#5!\"\"7$$\"19Gc7D
+!)GE!#<$\"#5!\"\"7$$\"1mIhA&4h\"\\!#<$\"#5!\"\"7$$\"1NpQxaU)[(!#<$\"#5
+!\"\"7$$\"2..17Czx+\"!#<$\"#5!\"\"7$$\"2W%)oPD&[l7!#<$\"#5!\"\"7$$\"1-
+/3;<T/:!#;$\"#5!\"\"7$$\"2i@V'Gi!=v\"!#<$\"#5!\"\"7$$\"1'=Pu)>m2?!#;$
+\"#5!\"\"7$$\"2\"Ryc8spiA!#<$\"#5!\"\"7$$\"2lGd9HK]_#!#<$\"#5!\"\"7$$
+\"29Fa3<(4cF!#<$\"#5!\"\"7$$\"2uV([(\\@i,$!#<$\"#5!\"\"7$$\"0*zf>RTxK!
+#:$\"#5!\"\"7$$\"2DS!3;77HN!#<$\"#5!\"\"7$$\"1#Qw_b&pdP!#;$\"#5!\"\"7$
+$\"1>Qw_D\\HS!#;$\"#5!\"\"7$$\"2F`18ES(fU!#<$\"#5!\"\"7$$\"1tX\"H3tv_%
+!#;$\"#5!\"\"7$$\"19Gc70lkZ!#;$\"#5!\"\"7$$\"1\">Qw-iZ-&!#;$\"#5!\"\"7
+$$\"1D]+,(\\CF&!#;$\"#5!\"\"7$$\"1,,-/e)3`&!#;$\"#5!\"\"7$$\"1T!3;#3@o
+d!#;$\"#5!\"\"7$$\"1kGd9z>Cg!#;$\"#5!\"\"7$$\"13:Igl4!H'!#;$\"#5!\"\"7
+$$\"1F`18@c@l!#;$\"#5!\"\"7$$\"1$Gc7D^:x'!#;$\"#5!\"\"7$$\"17BY#\\9)Hq
+!#;$\"#5!\"\"7$$\"16AW)ouCG(!#;$\"#5!\"\"7$$\"0*zf>k$p_(!#:$\"#5!\"\"7
+$$\"16BY#\\p$)z(!#;$\"#5!\"\"7$$\"1BX!4=kA/)!#;$\"#5!\"\"7$$\"1za4>Qn-
+$)!#;$\"#5!\"\"7$$\"1&*)ydlV'Q&)!#;$\"#5!\"\"7$$\"1y`2:5i'z)!#;$\"#5!
+\"\"7$$\"1Qw_0wNR!*!#;$\"#5!\"\"7$$\"1*f>RG(3$H*!#;$\"#5!\"\"7$$\"1`06
+AW:T&*!#;$\"#5!\"\"7$$\"1`18Ex&3!)*!#;$\"#5!\"\"7$$\"1'=PuG)405!#:$\"#
+?!\"\"7$$\"2AT#['>x1.\"!#;$\"#?!\"\"7$$\"28BY#*HWg0\"!#;$\"#?!\"\"7$$
+\"2U!3;KSNz5!#;$\"#?!\"\"7$$\"2Z\"He;'pg5\"!#;$\"#?!\"\"7$$\"2U%)oPNk*
+H6!#;$\"#?!\"\"7$$\"2Z$pQF6Wb6!#;$\"#?!\"\"7$$\"2E^-0lD)z6!#;$\"#?!\"
+\"7$$\"28C['H:!p?\"!#;$\"#?!\"\"7$$\"2y`2:DZ.B\"!#;$\"#?!\"\"7$$\"2#Qw
+_b$epD\"!#;$\"#?!\"\"7$$\"2&)pRz[67G\"!#;$\"#?!\"\"7$$\"2<LmKgSxI\"!#;
+$\"#?!\"\"7$$\"2/3;KuI1L\"!#;$\"#?!\"\"7$$\"2w^.2%**pc8!#;$\"#?!\"\"7$
+$\"2BY#\\)\\\")=Q\"!#;$\"#?!\"\"7$$\"2Y*)ydgYqS\"!#;$\"#?!\"\"7$$\"2&z
+e<N\">@V\"!#;$\"#?!\"\"7$$\"2sT$o')f?c9!#;$\"#?!\"\"7$$\"2kFb5^WA[\"!#
+;$\"#?!\"\"7$$\"2029G6hq]\"!#;$\"#?!\"\"7$$\"2*Rze<%zJ`\"!#;$\"#?!\"\"
+7$$\"2;KkGxAob\"!#;$\"#?!\"\"7$$\"2MmKl5`He\"!#;$\"#?!\"\"7$$\"2/29GT
+\")zg\"!#;$\"#?!\"\"7$$\"2u[(\\*z[Hj\"!#;$\"#?!\"\"7$$\"2<He;LF!f;!#;$
+\"#?!\"\"7$$\"2_/4=hYIo\"!#;$\"#?!\"\"7$$\"2_+,-kXwq\"!#;$\"#?!\"\"7$$
+\"29E_/*e![t\"!#;$\"#?!\"\"7$$\"14=OssRf<!#:$\"#?!\"\"7$$\"2[\"Hemla%y
+\"!#;$\"#?!\"\"7$$\"2`-05vA,\"=!#;$\"#?!\"\"7$$\"2lGd9CKO$=!#;$\"#?!\"
+\"7$$\"2[#\\)pf#pe=!#;$\"#?!\"\"7$$\"2kGd9>iN)=!#;$\"#?!\"\"7$$\"2'yc8
+F\\;5>!#;$\"#?!\"\"7$$\"2NsW*)oSO$>!#;$\"#?!\"\"7$$\"2\"=OsWosg>!#;$\"
+#?!\"\"7$$\"2:Ig?,q^)>!#;$\"#?!\"\"7$$\"2CY#\\[_N4?!#;$\"#I!\"\"7$$\"2
+2=Os9i`.#!#;$\"#I!\"\"7$$\"27BY#\\UZh?!#;$\"#I!\"\"7$$\"1V'GdRK_3#!#:$
+\"#I!\"\"7$$\"1*zf>\\i/6#!#:$\"#I!\"\"7$$\"2.+++g%3N@!#;$\"#I!\"\"7$$
+\"1sV([Av<;#!#:$\"#I!\"\"7$$\"2Y!4=O+([=#!#;$\"#I!\"\"7$$\"1:Hem_R6A!#
+:$\"#I!\"\"7$$\"1\">QwPIjB#!#:$\"#I!\"\"7$$\"1oNrUY-hA!#:$\"#I!\"\"7$$
+\"2nIhAbQdG#!#;$\"#I!\"\"7$$\"229Gc<X4J#!#;$\"#I!\"\"7$$\"2Gg?TxjwL#!#
+;$\"#I!\"\"7$$\"2V\"Gc7@;iB!#;$\"#I!\"\"7$$\"2%3<M=^M'Q#!#;$\"#I!\"\"7
+$$\"1)e<NN'>7C!#:$\"#I!\"\"7$$\"2/29GJ\"*zV#!#;$\"#I!\"\"7$$\"1:Ig?Q9h
+C!#:$\"#I!\"\"7$$\"1#Rycjp&)[#!#:$\"#I!\"\"7$$\"1['HfG=:^#!#:$\"#I!\"
+\"7$$\"1^-05$f$QD!#:$\"#I!\"\"7$$\"2MoOtYwRc#!#;$\"#I!\"\"7$$\"1'=Pu`
+\\oe#!#:$\"#I!\"\"7$$\"1D\\)ppsDh#!#:$\"#I!\"\"7$$\"2&e;LmjYQE!#;$\"#I
+!\"\"7$$\"0%zenpBkE!#9$\"#I!\"\"7$$\"2b4>QhH\")o#!#;$\"#I!\"\"7$$\"1x`
+2l!pGr#!#:$\"#I!\"\"7$$\"2Oxa4ka%QF!#;$\"#I!\"\"7$$\"2%Rycj\"eRw#!#;$
+\"#I!\"\"7$$\"1%yc8n\">!z#!#:$\"#I!\"\"7$$\"2B['Hf\")H8G!#;$\"#I!\"\"7
+$$\"1*zf>f5$RG!#:$\"#I!\"\"7$$\"2W&3<M)Ha'G!#;$\"#I!\"\"7$$\"1'4>Qc+1*
+G!#:$\"#I!\"\"7$$\"2OpQx*zX8H!#;$\"#I!\"\"7$$\"2tV([(pP1%H!#;$\"#I!\"
+\"7$$\"2$3<MoCmjH!#;$\"#I!\"\"7$$\"18D]]dW!*H!#:$\"#I!\"\"7$$\"2mLnM
+\\`T,$!#;$\"#S!\"\"7$$\"2V([(\\kk,/$!#;$\"#S!\"\"7$$\"2xb6BTL\\1$!#;$
+\"#S!\"\"7$$\"2`18E-x24$!#;$\"#S!\"\"7$$\"2(f=PC&4X6$!#;$\"#S!\"\"7$$
+\"1U$oOB3,9$!#:$\"#S!\"\"7$$\"117C)4)pmJ!#:$\"#S!\"\"7$$\"2%)e<NlW)*=$
+!#;$\"#S!\"\"7$$\"2NoOtcV[@$!#;$\"#S!\"\"7$$\"2iGd9*)p1C$!#;$\"#S!\"\"
+7$$\"1x_06f$fE$!#:$\"#S!\"\"7$$\"2W&3<%3#Q!H$!#;$\"#S!\"\"7$$\"1(Gd9RD
+vJ$!#:$\"#S!\"\"7$$\"2u],.'[\">M$!#;$\"#S!\"\"7$$\"1.17Ce&zO$!#:$\"#S!
+\"\"7$$\"1X*)y2Gb\"R$!#:$\"#S!\"\"7$$\"2Ff=Pa]tT$!#;$\"#S!\"\"7$$\"2&>
+Qw-UiTM!#;$\"#S!\"\"7$$\"2a,.1<(*pY$!#;$\"#S!\"\"7$$\"216AW)Q!=\\$!#;$
+\"#S!\"\"7$$\"1@T#[@ux^$!#:$\"#S!\"\"7$$\"29C['HnyUN!#;$\"#S!\"\"7$$\"
+1nMpQcOoN!#:$\"#S!\"\"7$$\"1(Gd9uKPf$!#:$\"#S!\"\"7$$\"1f=PuC/<O!#:$\"
+#S!\"\"7$$\"2(pRze!ePk$!#;$\"#S!\"\"7$$\"/*zfz_wm$!#8$\"#S!\"\"7$$\"0*
+zfp&HJp$!#9$\"#S!\"\"7$$\"2%oNr#49vr$!#;$\"#S!\"\"7$$\"2lHf=(**eWP!#;$
+\"#S!\"\"7$$\"1$f=PpN!oP!#:$\"#S!\"\"7$$\"2NpQxzYYz$!#;$\"#S!\"\"7$$\"
+1a2:I***)=Q!#:$\"#S!\"\"7$$\"1(Qxa/Ha%Q!#:$\"#S!\"\"7$$\"1OrU&=>$oQ!#:
+$\"#S!\"\"7$$\"1tX\"HQ)Q%*Q!#:$\"#S!\"\"7$$\"1=NqS*p&>R!#:$\"#S!\"\"7$
+$\"0&**)z/NZ%R!#9$\"#S!\"\"7$$\"2Y$pQxv!)pR!#;$\"#S!\"\"7$$\"1tW*)GW*Q
+*R!#:$\"#S!\"\"7$$\"1KjE`H$*>S!#:-%&FloatG6#%)infinityG7$$\"1E^-b&\\Z/
+%!#:-%&FloatG6#%)infinityG7$$\"1&**)zfy'32%!#:-%&FloatG6#%)infinityG7$
+$\"1x`2:7^%4%!#:-%&FloatG6#%)infinityG7$$\"1>Pu[:k?T!#:-%&FloatG6#%)in
+finityG7$$\"1E^-b)pc9%!#:-%&FloatG6#%)infinityG7$$\"1V&3<CP1<%!#:-%&Fl
+oatG6#%)infinityG7$$\"1Z$pQx:n>%!#:-%&FloatG6#%)infinityG7$$\"1,,-a]t?
+U!#:-%&FloatG6#%)infinityG7$$\"1h?T#3M`C%!#:-%&FloatG6#%)infinityG7$$
+\"2lJjEL%\\sU!#;-%&FloatG6#%)infinityG7$$\"1lGd9d3(H%!#:-%&FloatG6#%)i
+nfinityG7$$\"0(Rz3]BAV!#9-%&FloatG6#%)infinityG7$$\"1\"3;K>6yM%!#:-%&F
+loatG6#%)infinityG7$$\"1U$oOo?8P%!#:-%&FloatG6#%)infinityG7$$\"21)f>R5
+Q'R%!#;-%&FloatG6#%)infinityG7$$\"1U$oOj]7U%!#:-%&FloatG6#%)infinityG7
+$$\"1MnMpL&yW%!#:-%&FloatG6#%)infinityG7$$\"1zd:J\"H8Z%!#:-%&FloatG6#%
+)infinityG7$$\"1uY$pG:%)\\%!#:-%&FloatG6#%)infinityG7$$\"1d8Fa%eG_%!#:
+-%&FloatG6#%)infinityG7$$\"1=Nq!pVqa%!#:-%&FloatG6#%)infinityG7$$\"1Ps
+W*e]Id%!#:-%&FloatG6#%)infinityG7$$\"1(Gd9pi\"*f%!#:-%&FloatG6#%)infin
+ityG7$$\"1*pRz$3#Hi%!#:-%&FloatG6#%)infinityG7$$\"1b3<M4:[Y!#:-%&Float
+G6#%)infinityG7$$\"1b5@UIxsY!#:-%&FloatG6#%)infinityG7$$\"2vU&3nOY*p%!
+#;-%&FloatG6#%)infinityG7$$\"0'>Ry%eDs%!#9-%&FloatG6#%)infinityG7$$\"0
+(Rz3P3\\Z!#9-%&FloatG6#%)infinityG7$$\"1Z#\\)>)=Sx%!#:-%&FloatG6#%)inf
+inityG7$$\"1CY#\\38()z%!#:-%&FloatG6#%)infinityG7$$\"1iBZ%*pUB[!#:-%&F
+loatG6#%)infinityG7$$\"1'>RyhL'[[!#:-%&FloatG6#%)infinityG7$$\"1f;L;AN
+v[!#:-%&FloatG6#%)infinityG7$$\"1pQxa0&)**[!#:-%&FloatG6#%)infinityG7$
+$\"1kFbgN.C\\!#:-%&FloatG6#%)infinityG7$$\"1W'Gdz%))\\\\!#:-%&FloatG6#
+%)infinityG7$$\"2b7D]vzc(\\!#;-%&FloatG6#%)infinityG7$$\"#]!\"\"-%&Flo
+atG6#%)infinityG-%&COLORG6'%$RGBG$\")C)eq%!\")$\"\"!!\"\"$\"('>!\\&!\"
+)-%+_ATTRIBUTEG6#/%'sourceG%,mathdefaultG-%%VIEWG6$;$\"\"!!\"\"$\"#]!
+\"\";$\"\"!!\"\"$\"#]!\"\"-&%&_AXISG6#\"\"\"6&-%&COLORG6&%$RGBG$\"\"!!
+\"\"$\"\"!!\"\"$\"\"!!\"\"-%*LINESTYLEG6#\"\"!-%*THICKNESSG6#\"\"!-%-T
+RANSPARENCYG6#$\"\"!!\"\"-&%&_AXISG6#\"\"#6&-%&COLORG6&%$RGBG$\"\"!!\"
+\"$\"\"!!\"\"$\"\"!!\"\"-%*LINESTYLEG6#\"\"!-%*THICKNESSG6#\"\"!-%-TRA
+NSPARENCYG6#$\"\"!!\"\"-%+AXESLABELSG6$Q!6\"Q!6\"-%)_VISIBLEG6#\"\"\"-
+%%ROOTG6'-%)BOUNDS_XG6#$\"$!R!\"\"-%)BOUNDS_YG6#$\"$S\"!\"\"-%-BOUNDS_
+WIDTHG6#$\"%?N!\"\"-%.BOUNDS_HEIGHTG6#$\"%5M!\"\"-%)CHILDRENG6\"-%+ANN
+OTATIONG6'-%)BOUNDS_XG6#$\"\"!!\"\"-%)BOUNDS_YG6#$\"\"!!\"\"-%-BOUNDS_
+WIDTHG6#$\"%+S!\"\"-%.BOUNDS_HEIGHTG6#$\"%+S!\"\"-%)CHILDRENG6\"" 1 2 
+2 1 10 0 2 0 0 4 2 1.0 45.0 45.0 0 0 "Curve 1" }}{TEXT 443 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 65 "More examples: We create a Boolea
+n valued function which we call " }{TEXT 261 13 "is_increasing" }{TEXT
+ 440 1 "." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "is_increasing:
+=proc(a,b,c)\n" }{MPLTEXT 1 0 36 "  if a<b and b<c then return true; \+
+\n" }{MPLTEXT 1 0 23 "    else return false;\n" }{MPLTEXT 1 0 10 "  en
+d if;\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "is_increasing(1,2,3);\n" }{MPLTEXT 1 0 22 "is_increas
+ing(1,2,1);\n" }{MPLTEXT 1 0 21 "is_increasing(1,1,1);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "I%trueG%*protectedG" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"I&falseG%*protectedG" }}{PARA 11 "" 1 "" {XPPMATH 20 "I&falseG%*prote
+ctedG" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 55 "Note that we can get th
+ese on the same line as follows:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 63 "is_increasing(1,2,3),is_increasing(1,2,1),is_increasing(1,1,1
+);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6%I%trueG%*protectedGI&falseGF$F%"
+ }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 45 "Here's another example of a B
+oolean function." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "is_comp
+osite:=proc(n)\n" }{MPLTEXT 1 0 38 "  if n < 2 then return false; end \+
+if;\n" }{MPLTEXT 1 0 44 "  if isprime(n) = false then return true;  \n
+" }{MPLTEXT 1 0 24 "    else return false; \n" }{MPLTEXT 1 0 10 "  end
+ if;\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 50 "is_composite(1),is_composite(11),is_composite(10);" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6%I&falseG%*protectedGF#I%trueGF$" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 24 "Note that the statement " }{TEXT 
+262 16 "isprime(n)=false" }{TEXT 440 34 " may be replaced by the state
+ment " }{TEXT 263 15 "not(isprime(n))" }{TEXT 440 49 " in fact the pro
+cedure may be written as follows:" }{MPLTEXT 1 0 1 " " }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "is_composite2:=proc(n)\n" }{MPLTEXT
+ 1 0 38 "  if n < 2 then return false; end if;\n" }{MPLTEXT 1 0 26 "  \+
+return not(isprime(n));\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 55 "is_composite2(1), is_composite2(11)
+, is_composite2(10);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6%I&falseG%*prot
+ectedGF#I%trueGF$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{SECT 0 {PARA 3 "" 0 "" {TEXT 439 53 "for  ... while .. do ... by .. e
+nd do, next and break" }}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "" }}
+{PARA 0 "" 0 "" {TEXT 440 26 "We look at some examples: " }}{PARA 0 ""
+ 0 "" {TEXT 440 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "for \+
+i to 3 do \n" }{MPLTEXT 1 0 10 "  y:=i^2;\n" }{MPLTEXT 1 0 12 "  sin(y
+*z);\n" }{MPLTEXT 1 0 12 "  evalf(%);\n" }{MPLTEXT 1 0 7 "end do;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"yG6\"\"\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6\"6#I\"zGF'" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6\"6#I\"zGF'" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"yG6\"\"\"%" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6\"6#,$I\"zGF'\"\"%" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6\"6#,$I
+\"zGF'$\"\"%\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"yG6\"\"\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6\"6#,$I
+\"zGF'\"\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_s
+yslibG6\"6#,$I\"zGF'$\"\"*\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 
+29 "Note that this is the same as" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "for i from 1 to 3 do \n" }{MPLTEXT 1 0 10 "  y:=i^2;
+\n" }{MPLTEXT 1 0 12 "  sin(y*z);\n" }{MPLTEXT 1 0 12 "  evalf(%);\n" 
+}{MPLTEXT 1 0 7 "end do;" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"yG6\"\"
+\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6
+\"6#I\"zGF'" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_s
+yslibG6\"6#I\"zGF'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"yG6\"\"\"%" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6\"6#,$I
+\"zGF'\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_s
+yslibG6\"6#,$I\"zGF'$\"\"%\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"y
+G6\"\"\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_sys
+libG6\"6#,$I\"zGF'\"\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*pr
+otectedGI(_syslibG6\"6#,$I\"zGF'$\"\"*\"\"!" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 440 83 "If we use by 5.5 then the index is increased by 5.5 eac
+h time, as in the following:" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "for q from -10 to 10 by 5.5 \+
+do\n" }{MPLTEXT 1 0 12 "  print(q);\n" }{MPLTEXT 1 0 7 "end do:" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "$!#
+X!\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"#5!\"\"" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "$\"#l!\"\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 67 "Of c
+ourse, 5.5 may be replace by any number even a negative number." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "for j from 3 to 0 by -1 do\n
+" }{MPLTEXT 1 0 12 "  print(j);\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"#" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 29 "We now illustrate the
+ use of " }{TEXT 264 5 "break" }{TEXT 440 91 " in a loop. This program
+ will find the smallest integer w between 1 and 100 that satisfies " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typeset
+ting:-mn(\"10\", mathvariant = \"normal\"), Typesetting:-mn(\"6\", mat
+hvariant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"
+<\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em
+\", rspace = \"0.2777778em\"), Typesetting:-msup(Typesetting:-mn(\"2\"
+, mathvariant = \"normal\"), Typesetting:-mi(\"w\", italic = \"true\",
+ mathvariant = \"italic\"), superscriptshift = \"0\")), Typesetting:-m
+i(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#
+miGF$6#Q!F'-F#6&F+-F#6#-I%msupGF$6%-I#mnGF$6$Q#10F'/%,mathvariantGQ'no
+rmalF'-F76$Q\"6F'F:/%1superscriptshiftGQ\"0F'-I#moGF$6-Q\"<F'F:/%&fenc
+eGQ&falseF'/%*separatorGFI/%)stretchyGFI/%*symmetricGFI/%(largeopGFI/%
+.movablelimitsGFI/%'accentGFI/%'lspaceGQ,0.2777778emF'/%'rspaceGFX-F46
+%-F76$Q\"2F'F:-F,6%Q\"wF'/%'italicGQ%trueF'/F;Q'italicF'F@F+" }{TEXT 
+440 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "for w from 1 to
+ 100 do\n" }{MPLTEXT 1 0 21 "  if 2^w > 10^6 then\n" }{MPLTEXT 1 0 19 
+"    print(w, 2^w);\n" }{MPLTEXT 1 0 11 "    break;\n" }{MPLTEXT 1 0 
+10 "  end if;\n" }{MPLTEXT 1 0 8 "end do;\n" }{MPLTEXT 1 0 39 "print(`
+We are finished! and `,'w'=w );\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$
+\"#?\"(w&[5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I6We~are~finished!~and~
+G6\"/I\"wGF$\"#?" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 10 "Note that " 
+}{TEXT 265 5 "break" }{TEXT 440 64 " means to get out of the loop and \+
+go to the statement following " }{TEXT 266 6 "end do" }{TEXT 440 2 ". 
+" }{TEXT 267 5 "When " }{TEXT 268 5 "break" }{TEXT 269 82 " is execute
+d the value of the index w is the value at the time the loop is exited
+." }{TEXT 440 59 " Note that the same result is obtained if we leave o
+ut the " }{TEXT 270 6 "to 100" }{TEXT 440 101 " on the first line. Thi
+s may be useful if we don't know how far to search for the desired val
+ue of w." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "for w from 1 do
+\n" }{MPLTEXT 1 0 21 "  if 2^w > 10^6 then\n" }{MPLTEXT 1 0 19 "    pr
+int(w, 2^w);\n" }{MPLTEXT 1 0 11 "    break;\n" }{MPLTEXT 1 0 10 "  en
+d if;\n" }{MPLTEXT 1 0 8 "end do;\n" }{MPLTEXT 1 0 39 "print(`We are f
+inished! and `,'w'=w );\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"#?\"(w&
+[5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I6We~are~finished!~and~G6\"/I\"w
+GF$\"#?" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 95 "Let's write a program
+ to find the product of all primes less than 100: Try this program wit
+h a " }{TEXT 271 9 "semicolon" }{TEXT 440 7 " after " }{TEXT 272 6 "en
+d do" }{TEXT 440 15 " rather than a " }{TEXT 273 5 "colon" }{TEXT 440 
+44 ". Now see if you can guess what the command " }{TEXT 274 4 "next" 
+}{TEXT 440 6 " does." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "P:=1
+:\n" }{MPLTEXT 1 0 23 "for m from 1 to 100 do\n" }{MPLTEXT 1 0 30 "  i
+f isprime(m) = false then \n" }{MPLTEXT 1 0 11 "    next; \n" }
+{MPLTEXT 1 0 10 "  end if;\n" }{MPLTEXT 1 0 13 "  P:= P * m;\n" }
+{MPLTEXT 1 0 8 "end do:\n" }{MPLTEXT 1 0 3 "P; " }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"FqgvJt9-JvC%=b%R'zc0B" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+440 10 "Note that " }{TEXT 275 5 "next " }{TEXT 440 38 " means to go t
+o the next value of the " }{TEXT 276 5 "index" }{TEXT 440 25 " - in th
+e above case the " }{TEXT 277 5 "index" }{TEXT 440 4 " is " }{TEXT 
+278 1 "m" }{TEXT 440 25 " - if m is not prime. If " }{TEXT 279 4 "next
+" }{TEXT 440 53 " is executed then the commands in the loop following 
+" }{TEXT 280 3 "nex" }{TEXT 440 103 "t will be skipped over. In this p
+rogram, if  m is prime we replace P by the current value of P times m.
+" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 75 "In \+
+the following example we seek the smallest positive integer n such tha
+t " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-mn(\"1000\", mathvariant = \"normal\"), Typesett
+ing:-mo(\"&le;\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mrow(Typesettin
+g:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), Typesetting
+:-mo(\"!\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.111
+1111em\", rspace = \"0.1111111em\")), Typesetting:-mi(\"\")), Typesett
+ing:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF
+'6%-I#miGF$6#Q!F'-F#6&-I#mnGF$6$Q%1000F'/%,mathvariantGQ'normalF'-I#mo
+GF$6-Q%&le;F'F5/%&fenceGQ&falseF'/%*separatorGF>/%)stretchyGF>/%*symme
+tricGF>/%(largeopGF>/%.movablelimitsGF>/%'accentGF>/%'lspaceGQ,0.27777
+78emF'/%'rspaceGFM-F#6$-F,6%Q\"nF'/%'italicGQ%trueF'/F6Q'italicF'-F96-
+Q\"!F'F5F<F?FAFCFEFGFI/FLQ,0.1111111emF'/FOFhnF+F+" }{TEXT 440 21 ". N
+ote that in maple " }{TEXT 281 12 "factorial(n)" }{TEXT 440 5 " and " 
+}{TEXT 282 2 "n!" }{TEXT 440 85 "  give the same result. We put the pr
+int statements in just to see what is happening." }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 17 "for n from 1 do \n" }{MPLTEXT 1 0 15 "  print
+(n,n!);\n" }{MPLTEXT 1 0 21 "  if 1000 <= n! then\n" }{MPLTEXT 1 0 34 
+"    print(`The answer is `, n);  \n" }{MPLTEXT 1 0 11 "    break;\n" 
+}{MPLTEXT 1 0 10 "  end if;\n" }{MPLTEXT 1 0 8 "end do:\n" }{MPLTEXT 
+1 0 45 "print(`After the loop n has the value `, n);\n" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6$\"\"\"F#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"#F
+#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"$\"\"'" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$\"\"%\"#C" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"&\"$?
+\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"'\"$?(" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$\"\"(\"%S]" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I/The~ans
+wer~is~G6\"\"\"(" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I@After~the~loop~n
+~has~the~value~G6\"\"\"(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 35 "Anot
+her way to do this is by using " }{TEXT 283 6 "while " }{TEXT 284 18 "
+Boolean expression" }{TEXT 285 7 "  do:  " }{TEXT 207 31 "The loop is \+
+executed until the " }{TEXT 286 18 "Boolean expression" }{TEXT 207 16 
+" becomes false. " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "q:=0:\n
+" }{MPLTEXT 1 0 32 "for n from 1 while q <= 1000 do\n" }{MPLTEXT 1 0 
+10 "  q:= n!;\n" }{MPLTEXT 1 0 8 "end do;\n" }{MPLTEXT 1 0 8 "n,n-1,q;
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"qG6\"\"\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"qG6\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"qG6\"
+\"\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"qG6\"\"#C" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ">I\"qG6\"\"$?\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"q
+G6\"\"$?(" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"qG6\"\"%S]" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6%\"\")\"\"(\"%S]" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 287 214 "Note that the value of n at the end of the above loop i
+s 8. When a \"while\" loop is exited the index is increment by 1 as we
+ see above. However, when break causes us to exit from a loop the inde
+x is not incremented." }{TEXT 440 2 " \n" }{TEXT 440 1 "\n" }{TEXT 
+440 66 "See what happens if we omit the q:=0; statement at the beginni
+ng:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "for n from 1 while q < 1000 \+
+do\n" }{MPLTEXT 1 0 10 "  q:= n!;\n" }{MPLTEXT 1 0 7 "end do:" }}
+{PARA 207 "" 1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error, cannot determi
+ne if this expression is true or false: q < 1000" 4 "http://www.maples
+oft.com/support/help/errors/view.aspx?path=Error,%20cannot%20determine
+%20if%20this%20expression%20is%20true%20or%20false%3A%20q%20%3C%201000
+" "" }{TEXT 442 0 "" }}}{PARA 0 "" 0 "" {TEXT 440 119 "This is due to \+
+the fact that Maple does not know the value of q at the first step, so
+ cannot tell if  q < 1000 or not.\n" }{TEXT 440 1 "\n" }{TEXT 440 232 
+"An alternative way to write the program is the following. Note that i
+n this case nothing is done inside the loop, so when the condition n! \+
+< 1000  fails the value of n takes that value and the value of the ind
+ex is not incremented. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "f
+or n from 1 while n! < 1000 do\n" }{MPLTEXT 1 0 8 "end do;\n" }
+{MPLTEXT 1 0 2 "n;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"(" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 109 "[Generally use of break allows more con
+trol over the situation. So I tend to avoid use of while statements. ]
+" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 439 25 "for x in L do ... end do;"
+ }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT 440 
+118 "Here is another way to use do loops. Here we specify exactly whic
+h values of the index we want the loop to go through:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 31 "for x in [1,3,X,Y, t^2+t+1] do\n" }{MPLTEXT 1 0 16 
+"  print(x,x^2);\n" }{MPLTEXT 1 0 7 "end do:" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$\"\"\"F#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"$\"\"*"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I\"XG6\"*$F#\"\"#" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6$I\"YG6\"*$F#\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+$,(*$I\"tG6\"\"\"#\"\"\"F%F(F(F(*$F#F'" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 288 21 "[1,2,X,Y,t^2 + t + 1]" }{TEXT 440 20 " is an example of \+
+a " }{TEXT 289 5 "list " }{TEXT 440 70 "--- we will say more about lis
+ts later. You may also use set brackets " }{TEXT 290 3 "\{ \}" }{TEXT 
+440 13 " instead of  " }{TEXT 291 4 "[  ]" }{TEXT 440 118 " as in the \+
+following example. Be warned, however, that the order in sets is somet
+imes lost. If order is important use " }{TEXT 292 5 "[   ]" }{TEXT 
+440 12 " instead of " }{TEXT 293 3 "\{ \}" }{TEXT 440 1 "." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "for x in \{1,3,X,Y, t^2+t+1\} do\n"
+ }{MPLTEXT 1 0 16 "  print(x,x^2);\n" }{MPLTEXT 1 0 7 "end do:" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"\"F#" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6$\"\"$\"\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I\"XG6\"*$F#\"\"#"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I\"YG6\"*$F#\"\"#" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6$,(*$I\"tG6\"\"\"#\"\"\"F%F(F(F(*$F#F'" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 0 "" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 439 
+15 "Nested do loops" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{EXCHG {PARA 0
+ "" 0 "" {TEXT 440 21 "You may need to have " }{TEXT 294 27 "do loops \+
+inside of do loops" }{TEXT 440 115 ". Here are some examples.  The fir
+st allows us to generate all ordered pairs [i,j ] where i and j are in
+ \{1,2,3,4\}:" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 21 "for i from 1 to 4 do\n" }{MPLTEXT 1 0 23 "  for
+ j from 1 to 4 do\n" }{MPLTEXT 1 0 18 "    print([i,j]);\n" }{MPLTEXT 
+1 0 10 "  end do;\n" }{MPLTEXT 1 0 8 "end do;\n" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$\"\"\"F#" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"\"\"\"#
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"\"\"\"$" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$\"\"\"\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"#\"
+\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"#F#" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$\"\"#\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"#\"\"
+%" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"$\"\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$\"\"$\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"$F#" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"$\"\"%" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$\"\"%\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"%\"
+\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"%\"\"$" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$\"\"%F#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 21 "Note t
+hat if you use " }{TEXT 295 5 "(i,j)" }{TEXT 440 12 " instead of " }
+{TEXT 296 6 "[i,j] " }{TEXT 440 64 "in the above code the parentheses \+
+will not appear in the output." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 
+"" }}{PARA 0 "" 0 "" {TEXT 440 199 "The following allows us to generat
+e all 2 element subsets of  \{1,2,3,4\}. Note carefully that the index
+ j goes from i+1 to 4 so that j is always greater than i.  This is leg
+itimate in this case since " }{TEXT 297 13 "\{i,j\} = \{j,i\}" }{TEXT 
+440 27 " and so we may assume that " }{TEXT 298 5 "i < j" }{TEXT 440 
+2 ". " }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "for i from 1 to 4 do\n" }{MPLTEXT 1 0 26 "   for j fr
+om i+1 to 4 do\n" }{MPLTEXT 1 0 19 "     print(\{i,j\});\n" }{MPLTEXT 
+1 0 11 "   end do;\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "<$\"\"\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "<$\"\"\"\"
+\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "<$\"\"\"\"\"%" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "<$\"\"#\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "<$\"\"#\"
+\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "<$\"\"$\"\"%" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 440 50 "Of course, we may do other things other than just
+ " }{TEXT 299 12 "print(\{i,j\})" }{TEXT 440 187 ". We can take i,j an
+d perform various other operations. For example, here we form the set \+
+of all sums of i and j  where i < j and put them in a set called S whe
+n i + j  is a prime number " }{TEXT 300 3 "and" }{TEXT 440 94 " we cou
+nt the number of times that i + j is a prime. For this we need a \"cou
+nter\". We call it " }{TEXT 301 5 "count" }{TEXT 440 27 ". It could be
+ any variable." }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 440 55 "We set printlevel to 2 so we can see what is going on. "
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "printlevel:=2;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ">I+printlevelG6\"\"\"#" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 7 "S:=\{\}:\n" }{MPLTEXT 1 0 10 "count:=0:\n" }
+{MPLTEXT 1 0 21 "for i from 1 to 4 do\n" }{MPLTEXT 1 0 26 "   for j fr
+om i+1 to 4 do\n" }{MPLTEXT 1 0 33 "     print(`-----------------`);\n
+" }{MPLTEXT 1 0 17 "     print(i,j);\n" }{MPLTEXT 1 0 13 "     n:=i+j;
+\n" }{MPLTEXT 1 0 24 "     if isprime(n) then\n" }{MPLTEXT 1 0 29 "   \+
+    print(`prime found`);\n" }{MPLTEXT 1 0 23 "       count:=count+1;
+\n" }{MPLTEXT 1 0 33 "       print(`count = `,count); \n" }{MPLTEXT 1 
+0 23 "       S:=S union \{n\};\n" }{MPLTEXT 1 0 29 "       print(`S = \+
+`,S);     \n" }{MPLTEXT 1 0 13 "     end if;\n" }{MPLTEXT 1 0 11 "   e
+nd do;\n" }{MPLTEXT 1 0 8 "end do;\n" }{MPLTEXT 1 0 21 "print(`-------
+---`);\n" }{MPLTEXT 1 0 34 "print(`S = `,S, `count = `,count);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "I2-----------------G6\"" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "6$\"\"\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"nG
+6\"\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "I,prime~foundG6\"" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6$I)count~=~G6\"\"\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I%S~=~G6\"<#\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 "I2--
+---------------G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"\"\"\"$" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"nG6\"\"\"%" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "I2-----------------G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6$\"\"\"\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"nG6\"\"\"&" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "I,prime~foundG6\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I)count~=~G6\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$
+I%S~=~G6\"<$\"\"$\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 "I2------------
+-----G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"\"#\"\"$" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 ">I\"nG6\"\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 "I,p
+rime~foundG6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I)count~=~G6\"\"\"$"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I%S~=~G6\"<$\"\"$\"\"&" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "I2-----------------G6\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$\"\"#\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"nG6\"\"
+\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 "I2-----------------G6\"" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6$\"\"$\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+>I\"nG6\"\"\"(" }}{PARA 11 "" 1 "" {XPPMATH 20 "I,prime~foundG6\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$I)count~=~G6\"\"\"%" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6$I%S~=~G6\"<%\"\"$\"\"&\"\"(" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "I+----------G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6&I%S~=
+~G6\"<%\"\"$\"\"&\"\"(I)count~=~GF$\"\"%" }}}{PARA 0 "" 0 "" {TEXT 
+440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 54 "Why is count = 4, yet S only \+
+contains three elements?\n" }{TEXT 440 1 "\n" }{TEXT 440 143 "Later we
+ will show how to get rid of unwanted commas such as the commas in the
+ last output statement S = , \{ 3,5,7\}, count = , 4 by use of the " }
+{TEXT 302 6 "printf" }{TEXT 440 18 " comma instead of " }{TEXT 303 5 "
+print" }{TEXT 440 2 ".\n" }{TEXT 440 1 "\n" }{TEXT 440 140 "We can hav
+e do loops nested three levels deep as in the following example where \+
+we form the set of all binary sequences [lists] of length 3:" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 64 "Note that the pr
+int statement in the following program has been " }{TEXT 304 13 "comme
+nted out" }{TEXT 440 69 " by use of #. Try removing the # and seeing t
+he difference in output." }}}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "S:=\{\}:\n" }{MPLTEXT 1 0 22 "for x1
+ from 0 to 1 do\n" }{MPLTEXT 1 0 24 "  for x2 from 0 to 1 do\n" }
+{MPLTEXT 1 0 25 "   for x3 from 0 to 1 do\n" }{MPLTEXT 1 0 23 "     #p
+rint(x1,x2,x3);\n" }{MPLTEXT 1 0 32 "     S:=S union \{ [x1,x2,x3] \};
+\n" }{MPLTEXT 1 0 11 "   end do:\n" }{MPLTEXT 1 0 10 "  end do:\n" }
+{MPLTEXT 1 0 8 "end do:\n" }{MPLTEXT 1 0 2 "S;" }}}{EXCHG {PARA 0 "" 0
+ "" {TEXT 440 198 "We will learn other ways to define this set later. \+
+Clearly you would not want to use this method to produce the set of al
+l 1024 binary sequences of length 10. That would require 10 nested do \+
+loops. " }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 439 26 "Local and global va
+riables" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 305 10 "A variable" }{TEXT 440 257 " represents a data item stor
+ed in the computer memory, such as a numerical value or a character st
+ring, that can change its value during the execution of a program. Thi
+s section describes local variables, global variables, and their use i
+n Maple procedures." }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "
+" {TEXT 306 15 "Local variables" }{TEXT 440 29 " are variables that ar
+e used " }{TEXT 307 6 "inside" }{TEXT 440 99 " a procedure. After the \+
+procedure is executed the local variables revert to their original val
+ues. " }{TEXT 308 16 "Global variables" }{TEXT 440 121 " may be change
+d inside the procedure and the values will be retained after the proce
+dure is over. Here are some examples:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 97 "We f
+irst set the value of each of the four variables x1,x2,y1,y2 to 1 by e
+xecuting the following:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "
+(x1,x2,y1,y2):=(1,1,1,1);\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 89 "N
+ow we define a simple procedure called f: Take a minute to try to gues
+s what it will do:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "f:=pr
+oc(n)\n" }{MPLTEXT 1 0 16 "  global x1,x2;\n" }{MPLTEXT 1 0 15 "  loca
+l y1,y2;\n" }{MPLTEXT 1 0 9 "  x1:=2:\n" }{MPLTEXT 1 0 9 "  x2:=3:\n" 
+}{MPLTEXT 1 0 9 "  y1:=5:\n" }{MPLTEXT 1 0 9 "  y2:=7:\n" }{MPLTEXT 1 
+0 24 "  return n*x1*x2*y1*y2;\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 29 "Let's see what f(11) returns:" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "f(11);\n" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT 440 36 "It will help to factor this integer:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "ifactor(%);" }}}{EXCHG {PARA 0 "" 0
+ "" {TEXT 440 45 "Now let's see what happened to the variables " }
+{TEXT 309 14 "x1, x2, y1, y2" }{TEXT 440 1 ":" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 12 "x1,x2,y1,y2;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+440 151 "You can see that the global variables retain the changes made
+ inside the procedure f, but the local variables are unchanged by what
+ happened inside f. " }{TEXT 310 50 "I recommend using global variable
+s very sparingly." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 
+"" 0 "" {TEXT 440 118 "Here are two simple examples. Execute these com
+mands in order. Try to anticipate what the output will be in each case
+." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 159 "Note that a procedure may have no input
+. But to execute it one still needs a pair of parentheses.  Note that \+
+we use NULL as output. NULL is the empty sequence." }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 11 "f2:=proc()\n" }{MPLTEXT 1 0 12 "  global x;
+\n" }{MPLTEXT 1 0 10 "  x:=2*x;\n" }{MPLTEXT 1 0 15 "  return NULL;\n"
+ }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+11 "f3:=proc()\n" }{MPLTEXT 1 0 12 "  global x;\n" }{MPLTEXT 1 0 10 " \+
+ x:=3*x;\n" }{MPLTEXT 1 0 15 "  return NULL;\n" }{MPLTEXT 1 0 9 "end p
+roc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "x:=2;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "f2();" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 2 "x;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "f3();"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 2 "x;" }}}}{SECT 0 {PARA 3 "
+" 0 "" {TEXT 439 33 "print vs return inside procedures" }}{PARA 0 "" 0
+ "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 69 "It is very importan
+t that you know the difference between the use of " }{TEXT 311 5 "prin
+t" }{TEXT 440 5 " and " }{TEXT 312 6 "return" }{TEXT 440 116 " when us
+ed inside procedures. Note that return can only be used inside a proce
+dure, but print can be used elsewhere." }}{PARA 0 "" 0 "" {TEXT 440 0 
+"" }}{EXCHG {PARA 0 "" 0 "" {TEXT 440 50 "Consider carefully the follo
+wing procedures named " }{TEXT 313 6 "gprint" }{TEXT 440 5 " and " }
+{TEXT 314 7 "greturn" }{TEXT 440 25 ": Notice that the output " }{TEXT
+ 315 5 "seems" }{TEXT 440 60 " to be the same for each. However, see b
+elow for differences" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "rest
+art;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "gprint:=proc(x)\n" 
+}{MPLTEXT 1 0 11 "  local y;\n" }{MPLTEXT 1 0 10 "  y:=2*x;\n" }
+{MPLTEXT 1 0 12 "  print(y);\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "greturn:=proc(x)\n" }
+{MPLTEXT 1 0 11 "  local y;\n" }{MPLTEXT 1 0 10 "  y:=2*x;\n" }
+{MPLTEXT 1 0 12 "  return y;\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "gprint(3);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "gretu
+rn(3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"'" }}}{EXCHG {PARA 0 "" 0 
+"" {TEXT 440 13 "But note how " }{TEXT 316 6 "gprint" }{TEXT 440 38 " \+
+misbehaves in the following examples:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "y:=gprint(3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"'"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"yG6\"F$" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 12 "2+gprint(3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"
+\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&\"\"#\"\"\"6\"F$" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 4 "But " }{TEXT 317 7 "greturn" }{TEXT 440 
+26 " behaves as we would wish:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 14 "y:=greturn(3);" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"yG6\"\"\"'
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "2+greturn(3);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "\"\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 41 
+"The moral of this section is: DO NOT USE " }{TEXT 318 5 "print" }
+{TEXT 440 13 " INSTEAD OF  " }{TEXT 319 6 "return" }{TEXT 440 109 " WH
+EN CONSTRUCTING A PROCEDURE. The appropriate use of print in procedure
+s is explained in the next section. " }}}}{SECT 0 {PARA 3 "" 0 "" 
+{TEXT 439 57 "Use of print, debug, undebug and printlevel for debuggin
+g" }}{EXCHG {PARA 0 "" 0 "" {TEXT 440 56 "Consider the following attem
+pt to construct a procedure " }{TEXT 320 6 "binexp" }{TEXT 440 63 " wh
+ose input is n and whose output is the smallest k such that " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mo(\"&le;\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-msup
+(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typesetting:-mi(\"k
+\", italic = \"true\", mathvariant = \"italic\"), superscriptshift = \+
+\"0\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typese
+ttingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"nF'/%'italicGQ%trueF'/%
+,mathvariantGQ'italicF'-I#moGF$6-Q%&le;F'/F8Q'normalF'/%&fenceGQ&false
+F'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablel
+imitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-I%msupGF$6%-
+I#mnGF$6$Q\"2F'F>-F,6%Q\"kF'F4F7/%1superscriptshiftGQ\"0F'F+" }{TEXT 
+440 2 ". " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "binexp:=proc(n)\n" }{MPLTEXT
+ 1 0 11 "  local k;\n" }{MPLTEXT 1 0 24 "  for k from 1 to 10 do\n" }
+{MPLTEXT 1 0 21 "    if 2^k >= n then\n" }{MPLTEXT 1 0 16 "      retur
+n k;\n" }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 8 "end do;\n" }
+{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+14 "binexp(10000);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 163 "Note that
+ we get no output for binexp(10000). In this case you can no doubt see
+ the problem but let's illustrate a few debugging techniques to try to
+ find the bug." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 
+0 "" {TEXT 440 29 "First we set printlevel:=100;" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 16 "printlevel:=100;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I+printlevelG6\"\"$+\"" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 15 "binexp(10000);\n" }}{PARA 9 "" 1 "" {TEXT 444 31 "\{-
+-> enter binexp, args = 10000" }{TEXT 444 39 "\n<-- exit binexp (now a
+t top level) = \}" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 48 "This doesn'
+t help in this case. Next we try the " }{TEXT 321 5 "debug" }{TEXT 
+440 69 " command after setting the printlevel back to the default leve
+l of 1:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "printlevel:=1:" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "debug(binexp):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "binexp(10000);" }}{PARA 9 ""
+ 1 "" {TEXT 444 31 "\{--> enter binexp, args = 10000" }{TEXT 444 39 "
+\n<-- exit binexp (now at top level) = \}" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 440 25 "Again not much help. Use " }{TEXT 322 7 "undebug" }{TEXT
+ 440 53 " to turn off the debugger after you are done with it." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "undebug(binexp);" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "I'binexpG6\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+440 29 "Now let's try inserting some " }{TEXT 323 5 "print" }{TEXT 
+440 223 " statements in the procedure to see what the value of the var
+iables are as the procedure runs. (In practice you don't have to recop
+y the procedure to do this. Just insert the statements as you would wi
+th any wordprocessor.)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "b
+inexp:=proc(n)\n" }{MPLTEXT 1 0 11 "  local k;\n" }{MPLTEXT 1 0 24 "  \+
+for k from 1 to 10 do\n" }{MPLTEXT 1 0 21 "    print(`k= `,k); \n" }
+{MPLTEXT 1 0 25 "    print(`2^k = `,2^k);\n" }{MPLTEXT 1 0 20 "    pri
+nt(`n= `,n);\n" }{MPLTEXT 1 0 42 "    print(`-------------------------
+--`);\n" }{MPLTEXT 1 0 21 "    if 2^k >= n then\n" }{MPLTEXT 1 0 16 " \+
+     return k;\n" }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 10 " \+
+ end do;\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "binexp(10000);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$k
+=~G6\"\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k~=~G6\"\"\"#" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "I<---------------------------G6\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I$k=~G6\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k
+~=~G6\"\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "I<---------------------------G6\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$I$k=~G6\"\"\"$" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I'2^k~=~G6\"\"\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$
+n=~G6\"\"&++\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "I<--------------------
+-------G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$k=~G6\"\"\"%" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k~=~G6\"\"#;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "I<---
+------------------------G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$k=~G
+6\"\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k~=~G6\"\"#K" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "I<---------------------------G6\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I$k=~G6\"\"\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k
+~=~G6\"\"#k" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "I<---------------------------G6\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$I$k=~G6\"\"\"(" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I'2^k~=~G6\"\"$G\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I
+$n=~G6\"\"&++\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "I<-------------------
+--------G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$k=~G6\"\"\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k~=~G6\"\"$c#" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "I<---
+------------------------G6\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$k=~G
+6\"\"\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k~=~G6\"\"$7&" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "I<---------------------------G6\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$I$k=~G6\"\"#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I'2^k~
+=~G6\"\"%C5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I$n=~G6\"\"&++\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "I<---------------------------G6\"" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 87 "Here we see that k only goes up t
+o 10. So we look back and see that we need to increase" }}{PARA 0 "" 0
+ "" {TEXT 440 172 "the value of 10 in the upper limit of the do loop. \+
+When doing this it suffices to comment out the print statements by ins
+erting # before them as we now do as we change the " }{TEXT 324 2 "10"
+ }{TEXT 440 4 " to " }{TEXT 325 8 "infinity" }{TEXT 440 37 " -- or we \+
+could merely leave out the " }{TEXT 326 5 "to 10" }{TEXT 440 120 " par
+t and we would get equivalent results. But note that you must be assur
+ed that the procedure would eventually return " }{TEXT 327 9 "somethin
+g" }{TEXT 440 30 " else it could  go on forever." }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 16 "binexp:=proc(n)\n" }{MPLTEXT 1 0 11 "  local \+
+k;\n" }{MPLTEXT 1 0 30 "  for k from 1 to infinity do\n" }{MPLTEXT 1 
+0 19 "  #print(`k= `,k);\n" }{MPLTEXT 1 0 24 "  #print(`2^k = `,2^k);
+\n" }{MPLTEXT 1 0 19 "  #print(`n= `,n);\n" }{MPLTEXT 1 0 41 "  #print
+(`---------------------------`);\n" }{MPLTEXT 1 0 21 "    if 2^k >= n \+
+then\n" }{MPLTEXT 1 0 16 "      return k;\n" }{MPLTEXT 1 0 12 "    end
+ if;\n" }{MPLTEXT 1 0 10 "  end do;\n" }{MPLTEXT 1 0 9 "end proc:" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 17 "Now we try again:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "binexp(10000);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"#9" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 17 "Let's check
+ this." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "evalb(2^13 >= 100
+00), evalb(2^14 >=10000);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$I&falseG%
+*protectedGI%trueGF$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 153 "So the \+
+procedure seems to be okay. In general we might want to check more val
+ues of n, but in this case we can see clearly that the procedure is co
+rrect." }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 439 25 "Names and reserved w
+ords." }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT
+ 440 11 "In Maple a " }{TEXT 328 4 "name" }{TEXT 440 319 " is usually \+
+a letter followed by zero or more letters, digits, and underscores, wi
+th lowercase and uppercase letters distinct. The maximum length of a n
+ame is system dependent. It may even contain spaces if you enclose it \+
+in backquotes ` `. [Note that in output the backquotes are not shown.]
+ Here's an extreme example." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+36 "`this is the name of a variable`:=2;" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ">I?this~is~the~name~of~a~variableG6\"\"\"#" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 35 "`this is the name of a variable`^2;" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "\"\"%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 88 "I
+f you use underscores where spaces would be you don't need the back qu
+otes, for example" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 34 "this_is_the_name_of_a_variable:=3;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I?this_is_the_name_of_a_variableG6\"\"
+\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 60 "But note that the followi
+ng will not work due to the spaces:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 38 "this is not the name of a variable:=2;" }}{PARA 207 "
+" 1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error, missing operator or `;`" 
+4 "http://www.maplesoft.com/support/help/errors/view.aspx?path=Error,%
+20missing%20operator%20or%20%60%3B%60" "" }{TEXT 442 0 "" }}}{PARA 0 "
+" 0 "" {TEXT 440 0 "" }}{PARA 15 "" 0 "" {TEXT 329 8 "Keywords" }{TEXT
+ 445 141 " are reserved words that are used in forming Maple statement
+s. These words cannot be used as variable names. There are 11 operator
+ keywords: " }}{PARA 15 "" 0 "" {TEXT 330 8 "     and" }{TEXT 445 2 ",
+ " }{TEXT 331 2 "or" }{TEXT 445 2 ", " }{TEXT 332 3 "xor" }{TEXT 445 
+2 ", " }{TEXT 333 3 "not" }{TEXT 445 2 ", " }{TEXT 334 7 "implies" }
+{TEXT 445 2 ", " }{TEXT 335 5 "union" }{TEXT 445 2 ", " }{TEXT 336 9 "
+intersect" }{TEXT 445 2 ", " }{TEXT 337 6 "subset" }{TEXT 445 2 ", " }
+{TEXT 338 5 "minus" }{TEXT 445 2 ", " }{TEXT 339 3 "mod" }{TEXT 445 2 
+", " }{TEXT 340 8 "assuming" }{TEXT 445 2 ", " }}{PARA 15 "" 0 "" 
+{TEXT 445 81 "plus 35 additional language keywords, for a total of 46 \+
+reserved words in Maple: " }}{PARA 0 "" 0 "" {TEXT 440 7 "       " }
+{TEXT 341 56 "and              assuming   break    by        catch   \+
+\n" }{TEXT 342 66 "       description  do              done      elif \+
+      else    \n" }{TEXT 343 69 "       end              error        \+
+  export   fi          finally \n" }{TEXT 344 71 "       for          \+
+     from           global    if          implies \n" }{TEXT 345 67 " \+
+      in                 intersect    local      minus   mod     \n" }
+{TEXT 346 67 "       module        next           not        od       \+
+  option  \n" }{TEXT 347 69 "       options        or               pr
+oc     quit        read    \n" }{TEXT 348 65 "       return         sa
+ve           stop      subset   then    \n" }{TEXT 349 71 "       to  \+
+              try              union    use        while   \n" }{TEXT 
+350 46 "       xor                                    " }}{EXCHG 
+{PARA 206 "" 0 "" {TEXT 446 0 "" }}{PARA 206 "" 0 "" {TEXT 446 28 "Be \+
+especially wary of using " }{TEXT 351 4 "stop" }{TEXT 446 2 ", " }
+{TEXT 352 4 "quit" }{TEXT 446 4 " or " }{TEXT 353 4 "done" }{TEXT 446 
+76 ". This may cause Maple to quit and you may lose any thing you have
+n't saved!" }}}{PARA 0 "" 0 "" {TEXT 440 22 "                      " }
+}{PARA 0 "" 0 "" {TEXT 440 51 "You may find them at any time by using \+
+the command " }{MPLTEXT 1 0 9 "?reserved" }{TEXT 440 19 " . Note that \+
+since " }{TEXT 354 2 "in" }{TEXT 440 83 " is reserved it cannot be use
+d as a variable name. But `in` can be a variable name." }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "in:=2;" }}{PARA 207 "" 1 "" {TEXT 
+442 0 "" }{HYPERLNK 442 "Error, `:=` unexpected" 4 "http://www.mapleso
+ft.com/support/help/errors/view.aspx?path=Error,%20%60%3A%3D%60%20unex
+pected" "" }{TEXT 442 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 
+"`in`:=2;" }}{PARA 207 "" 1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error, a
+ttempting to assign to ``in`` which is protected.  Try declaring `loca
+l `in``; see ?protect for details." 4 "http://www.maplesoft.com/suppor
+t/help/errors/view.aspx?path=Error,%20attempting%20to%20assign%20to%20
+%60%60in%60%60%20which%20is%20protected.%20%20Try%20declaring%20%60loc
+al%20%60in%60%60%3B%20see%20%3Fprotect%20for%20details." "" }{TEXT 
+442 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "`in`^2;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "*$I#inG%*protectedG\"\"#" }}}{EXCHG {PARA 0 ""
+ 0 "" {TEXT 440 63 "But quit even with backquotes will not work as a v
+ariable name." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "`quit`:=3;
+" }}{PARA 207 "" 1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error, attempting
+ to assign to ``quit`` which is protected.  Try declaring `local `quit
+``; see ?protect for details." 4 "http://www.maplesoft.com/support/hel
+p/errors/view.aspx?path=Error,%20attempting%20to%20assign%20to%20%60%6
+0quit%60%60%20which%20is%20protected.%20%20Try%20declaring%20%60local%
+20%60quit%60%60%3B%20see%20%3Fprotect%20for%20details." "" }{TEXT 442 
+0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 34 "A name cannot begin with \+
+a number." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "1x:=2;" }}
+{PARA 207 "" 1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error, missing operat
+or or `;`" 4 "http://www.maplesoft.com/support/help/errors/view.aspx?p
+ath=Error,%20missing%20operator%20or%20%60%3B%60" "" }{TEXT 442 0 "" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 170 "Some letters are not allowed t
+o be used as variable names. For example the letter D cannot be used s
+ince it is the differential operator and I cannot be used since it is 
+" }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msqrt(Typesetting:-mr
+ow(Typesetting:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:
+-mn(\"1\", mathvariant = \"normal\"))));" "-I%mrowG6#/I+modulenameG6\"
+I,TypesettingGI(_syslibGF'6#-I&msqrtGF$6#-F#6$-I#moGF$6-Q*&uminus0;F'/
+%,mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF9/%)stretchyGF
+9/%*symmetricGF9/%(largeopGF9/%.movablelimitsGF9/%'accentGF9/%'lspaceG
+Q,0.2222222emF'/%'rspaceGFH-I#mnGF$6$Q\"1F'F4" }{TEXT 440 2 ". " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "D:=3;" }}{PARA 207 "" 1 "" 
+{TEXT 442 0 "" }{HYPERLNK 442 "Error, attempting to assign to `D` whic
+h is protected.  Try declaring `local D`; see ?protect for details." 4
+ "http://www.maplesoft.com/support/help/errors/view.aspx?path=Error,%2
+0attempting%20to%20assign%20to%20%60D%60%20which%20is%20protected.%20%
+20Try%20declaring%20%60local%20D%60%3B%20see%20%3Fprotect%20for%20deta
+ils." "" }{TEXT 442 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "I
+:=4;" }}{PARA 207 "" 1 "" {TEXT 442 0 "" }{HYPERLNK 442 "Error, illega
+l use of an object as a name" 4 "http://www.maplesoft.com/support/help
+/errors/view.aspx?path=Error,%20illegal%20use%20of%20an%20object%20as%
+20a%20name" "" }{TEXT 442 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "" }}}}{SECT 0 {PARA 3 ""
+ 0 "" {TEXT 439 13 "Indexed names" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 61 "We can use indexed names to creat
+e subscripted names such as " }{XPPEDIT 18 0 "Typesetting:-mrow(Typese
+tting:-msub(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \"
+italic\"), Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"no
+rmal\")), subscriptshift = \"0\"), Typesetting:-mo(\",\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"true\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em
+\"), Typesetting:-msub(Typesetting:-mi(\"x\", italic = \"true\", mathv
+ariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvar
+iant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\",\", m
+athvariant = \"normal\", fence = \"false\", separator = \"true\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"
+0.3333333em\"), Typesetting:-msub(Typesetting:-mi(\"x\", italic = \"tr
+ue\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"3
+\", mathvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-
+mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"t
+rue\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-msub(Typesetting:-mi(\"x\", i
+talic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typeset
+ting:-mn(\"4\", mathvariant = \"normal\")), subscriptshift = \"0\"));"
+ "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6)-I%msubGF$6%-
+I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF
+$6$Q\"1F'/F6Q'normalF'/%/subscriptshiftGQ\"0F'-I#moGF$6-Q\",F'F>/%&fen
+ceGQ&falseF'/%*separatorGF4/%)stretchyGFI/%*symmetricGFI/%(largeopGFI/
+%.movablelimitsGFI/%'accentGFI/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333
+emF'-F,6%F.-F#6#-F;6$Q\"2F'F>F@FC-F,6%F.-F#6#-F;6$Q\"3F'F>F@FC-F,6%F.-
+F#6#-F;6$Q\"4F'F>F@" }{TEXT 440 13 ". Here's how:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+440 10 "Note that " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(
+\"\"), Typesetting:-mrow(Typesetting:-mi(\"\")), Typesetting:-mi(\"\")
+);" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#
+Q!F'-F#6#F+F+" }{TEXT 440 29 " is denoted in Maple by x[i]:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "x[1], x[2], x[3], x[4];" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6&&I\"xG6\"6#\"\"\"&F$6#\"\"#&F$6#\"\"$&
+F$6#\"\"%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 41 "Such names can be u
+sed as ordinary names." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "x
+[1]:=2; \n" }{MPLTEXT 1 0 16 "x[3]:=x[1]*x[2];" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">&I\"xG6\"6#\"\"\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+>&I\"xG6\"6#\"\"$,$&F$6#\"\"#F+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 
+24 "Here's another example:\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 
+131 "We count the number of times each digit appears in an integer. We
+ first generate a large positive integer. Execute this assignment." }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "N:=2^100-1;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 ">I\"NG6\"\"@v`?.n\\,%H#G-g]wE\"" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 440 30 "Now we set up a variable name " }{XPPEDIT 18 0 "T
+ypesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"c\", italic = \"t
+rue\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mi(\"
+i\", italic = \"true\", mathvariant = \"italic\")), subscriptshift = \+
+\"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%m
+subGF$6%-I#miGF$6%Q\"cF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#
+6#-F/6%Q\"iF'F2F5/%/subscriptshiftGQ\"0F'" }{TEXT 440 18 " for each in
+teger " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"i\", itali
+c = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6
+\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"iF'/%'italicGQ%trueF'/%,mat
+hvariantGQ'italicF'" }{TEXT 440 47 ". This will hold the number of tim
+es the digit " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"i\"
+, italic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+module
+nameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"iF'/%'italicGQ%trueF'
+/%,mathvariantGQ'italicF'" }{TEXT 440 56 " appears in N. First we init
+ialize these variables to 0:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 37 "for i from 0 to 9 do c[i]:=0; end do;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">&I\"cG6\"6#\"\"!F'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I
+\"cG6\"6#\"\"\"\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"
+#\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"$\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"%\"\"!" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ">&I\"cG6\"6#\"\"&\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20
+ ">&I\"cG6\"6#\"\"'\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#
+\"\"(\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\")\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"*\"\"!" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT 440 132 "Now we count the number of times each digit a
+ppears using the following loop. Note that the least significant digit
+ of N is give by " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(
+\"\"), Typesetting:-mrow(Typesetting:-mi(\"N\", italic = \"true\", mat
+hvariant = \"italic\"), Typesetting:-mspace(height = \"0.0ex\", width \+
+= \"0.5em\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mo
+(\"mod\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mspace(height = \"0.0ex\", width = \"0.5em\", depth = \"0.0ex\", li
+nebreak = \"auto\"), Typesetting:-mn(\"10\", mathvariant = \"normal\")
+), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingG
+I(_syslibGF'6%-I#miGF$6#Q!F'-F#6'-F,6%Q\"NF'/%'italicGQ%trueF'/%,mathv
+ariantGQ'italicF'-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGQ&0.5emF'/%
+&depthGF?/%*linebreakGQ%autoF'-I#moGF$6/Q$modF'/%%boldGF6/F8Q%boldF'/%
++fontweightGFO/%&fenceGQ&falseF'/%*separatorGFT/%)stretchyGFT/%*symmet
+ricGFT/%(largeopGFT/%.movablelimitsGFT/%'accentGFT/%'lspaceGQ&0.0emF'/
+%'rspaceGF]oF:-I#mnGF$6$Q#10F'/F8Q'normalF'F+" }{TEXT 440 112 ".  Then
+ we can get rid of this digit by subtracting it and then dividing by 1
+0.  Usually we would place : after " }{TEXT 355 6 "end do" }{TEXT 440 
+54 ", but here we place ; so you can see what's happening." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 3 "N;\n" }{MPLTEXT 1 0 15 "while N > 0 \+
+do\n" }{MPLTEXT 1 0 15 "  k:=N mod 10;\n" }{MPLTEXT 1 0 16 "  c[k]:=c[
+k]+1;\n" }{MPLTEXT 1 0 18 "  N:=(N - k)/10; \n" }{MPLTEXT 1 0 8 "end d
+o;\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"@v`?.n\\,%H#G-g]wE\"" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20
+ ">&I\"cG6\"6#\"\"&\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"
+?P0Kq'\\,%H#G-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"(" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"(\"\"\"" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 ">I\"NG6\"\">`?.n\\,%H#G-g]wE\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"kG6\"\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"$\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"=0Kq'\\,%H
+#G-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"&" }}{PARA 11 
+"" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"&\"\"#" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"NG6\"\"<?.n\\,%H#G-g]wE\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"kG6\"\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"!\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\";Kq'\\,%H#
+G-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"#" }}{PARA 11 "
+" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"#\"\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"NG6\"\":.n\\,%H#G-g]wE\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"kG6\"\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"$\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"9q'\\,%H#G-
+g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"!" }}{PARA 11 "" 
+1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"!\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ">I\"NG6\"\"8n\\,%H#G-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"k
+G6\"\"\"(" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"(\"\"#" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"7'\\,%H#G-g]wE\"" }}{PARA 11 
+"" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">
+&I\"cG6\"6#\"\"'\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"6
+\\,%H#G-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"*\"\"\"" }}{PARA 11 "" 1
+ "" {XPPMATH 20 ">I\"NG6\"\"59SH#G-g]wE\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"kG6\"\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"%\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"4,%H#G-g]w
+E\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"\"" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ">&I\"cG6\"6#\"\"\"F'" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+>I\"NG6\"\"3SH#G-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"
+!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"!\"\"$" }}{PARA 11 
+"" 1 "" {XPPMATH 20 ">I\"NG6\"\"2%H#G-g]wE\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"kG6\"\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"%\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"1H#G-g]wE\"
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">&I\"cG6\"6#\"\"*\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">
+I\"NG6\"\"0AG-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"#" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"#F'" }}{PARA 11 "" 1 "
+" {XPPMATH 20 ">I\"NG6\"\"/#G-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+>I\"kG6\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"#\"\"$
+" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\".G-g]wE\"" }}{PARA 11 "" 
+1 "" {XPPMATH 20 ">I\"kG6\"\"\")" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I
+\"cG6\"6#\"\")\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"-A+1l
+n7" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"#" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 ">&I\"cG6\"6#\"\"#\"\"%" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+>I\"NG6\"\",-g]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"#" }
+}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"#\"\"&" }}{PARA 11 "" 1
+ "" {XPPMATH 20 ">I\"NG6\"\"++1ln7" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I
+\"kG6\"\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"!\"\"%" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"*g]wE\"" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 ">I\"kG6\"\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"!\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\")1ln7" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"'" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">&I\"cG6\"6#\"\"'\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">
+I\"NG6\"\"(]wE\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"!\"\"'" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ">I\"NG6\"\"'ln7" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"k
+G6\"\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"&\"\"$" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"&wE\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"kG6\"\"\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"'\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"%n7" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"(" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">&I\"cG6\"6#\"\"(\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 ">
+I\"NG6\"\"$E\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6\"\"\"'" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"'\"\"%" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ">I\"NG6\"\"#7" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"kG6
+\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"#\"\"'" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"kG6\"\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6
+\"6#\"\"\"\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"NG6\"\"\"!" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 50 "Now let's see what the values of \+
+the counters are:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "2^100-1
+;\n" }{MPLTEXT 1 0 22 "for i from 0 to 9 do \n" }{MPLTEXT 1 0 45 "  pr
+int(`digit`,i,`appears`, c[i], `times`);\n" }{MPLTEXT 1 0 7 "end do:" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "\"@v`?.n\\,%H#G-g]wE\"" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6'I&digitG6\"\"\"!I(appearsGF$&I\"cGF$6#F%I&timesGF$
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6'I&digitG6\"\"\"\"I(appearsGF$&I\"c
+GF$6#F%I&timesGF$" }}{PARA 11 "" 1 "" {XPPMATH 20 "6'I&digitG6\"\"\"#I
+(appearsGF$&I\"cGF$6#F%I&timesGF$" }}{PARA 11 "" 1 "" {XPPMATH 20 "6'I
+&digitG6\"\"\"$I(appearsGF$&I\"cGF$6#F%I&timesGF$" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6'I&digitG6\"\"\"%I(appearsGF$&I\"cGF$6#F%I&timesGF$" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6'I&digitG6\"\"\"&I(appearsGF$&I\"cGF$6#
+F%I&timesGF$" }}{PARA 11 "" 1 "" {XPPMATH 20 "6'I&digitG6\"\"\"'I(appe
+arsGF$&I\"cGF$6#F%I&timesGF$" }}{PARA 11 "" 1 "" {XPPMATH 20 "6'I&digi
+tG6\"\"\"(I(appearsGF$&I\"cGF$6#F%I&timesGF$" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6'I&digitG6\"\"\")I(appearsGF$&I\"cGF$6#F%I&timesGF$" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6'I&digitG6\"\"\"*I(appearsGF$&I\"cGF$6#
+F%I&timesGF$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 
+0 {PARA 3 "" 0 "" {TEXT 439 19 "Assigned and anames" }}{PARA 0 "" 0 ""
+ {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 12 "The command " }{TEXT 
+356 11 "assigned(n)" }{TEXT 440 9 " returns " }{TEXT 357 4 "true" }
+{TEXT 440 55 " if n has a value other than its own name, and returns "
+ }{TEXT 358 5 "false" }{TEXT 440 65 " otherwise. This will be useful i
+n the next section. For example:" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "assigned
+(x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "I&falseG%*protectedG" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 5 "x:=1;" }}{PARA 11 "" 1 "" {XPPMATH 
+20 ">I\"xG6\"\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "assi
+gned(x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "I%trueG%*protectedG" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 63 "The following command is a way to
+ unassign the variable name x:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 7 "x:='x':" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "assigned(
+x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "I&falseG%*protectedG" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 47 "This also works for indexed names. For e
+xample:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "for i from 1 to \+
+10 do\n" }{MPLTEXT 1 0 38 "  if isprime(i) then P[i]:=i; end if;\n" }
+{MPLTEXT 1 0 8 "end do:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+22 "for i from 1 to 10 do\n" }{MPLTEXT 1 0 43 "  if assigned(P[i]) the
+n print(i); end if;\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"$" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "\"\"&" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"(" }}}
+{EXCHG {PARA 15 "" 0 "" {TEXT 445 12 "The command " }{TEXT 359 8 "anam
+es()" }{TEXT 445 125 " returns an expression sequence of names that ar
+e currently assigned values other than their own name. Note that the c
+ommand " }{TEXT 360 8 "unames()" }{TEXT 445 127 " returns an expressio
+n sequence consisting of all the active names in the current Maple ses
+sion which are ``unassigned names''." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 9 "anames();" }}{PARA 11 "" 1 "" {XPPMATH 20 "6`oI4type/P
+hysicsVectorsG6$%*protectedGI(_syslibG6\"I*unprotectGF$I$cscGF$I(pdsol
+veGF$I$cotGF$I%cschGF$I(arccothGF$I'matrixGF$I)whattypeGF$I'arcsinGF$I
+'arctanGF$I&marchGF$I'arccosGF$I(arcsechGF$I)_UIUtilsGF&I\"DGF$I3debug
+ger/no_outputGF'I\"iGF'I&solveGF$I\"-GF$I(sprintfGF$I'dsolveGF$I%cothG
+F$I2Physics/UserSetupGF$I'arcsecGF$I'arccscGF$I'arccotGF$I+type/localG
+F&I5DifferentialGeometryGF&I%tanhGF$I#isGF$I-LibraryToolsGF$I2PackageM
+anagementGF$I&valueGF$I(nprintfGF$I'vectorGF$I-tools/gensymGF&I(arcsin
+hGF$I$cosGF$I$sinGF$I\"/GF$I,TypesettingGF$I$secGF$I,StringToolsGF$I%s
+echGF$I(isprimeGF$I7Physics/ModuleIsLoadedGF'I&indexGF$I*interfaceGF$I
+(arccoshGF$I%copyGF$I$tanGF$I)packagesGF$I*FileToolsGF$I(protectGF$I(v
+ersionGF$I(PhysicsGF$I\"PGF'I/convert/stringGF&I%coshGF$I+SolveToolsGF
+$I(arccschGF$I(arctanhGF$I.LinearAlgebraGF$I0simplify/nosizeGF&I*TypeT
+oolsGF$I%sinhGF$I&isdirGF$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+9 "unames();" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 361 10 "`isprime/w" }
+{TEXT 440 6 "` and " }{TEXT 362 7 "isprime" }{TEXT 440 29 " are names \+
+assigned by Maple." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 76 "If we rest
+art, you can see that there are no names that are assigned values." }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 9 "anames();" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+%I)_UIUtilsGI(_syslibG6\"I3debugger/no_outputGF%I&valueG6$%*protectedG
+F$" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 439 28 "Squares and sums of squa
+res." }}{EXCHG {PARA 0 "" 0 "" {TEXT 440 14 "The procedure " }{TEXT 
+363 10 "root(x,n) " }{TEXT 440 182 "when x is real or complex and n is
+ a positive integer) computes the nth root of x. If x is an integer th
+at is a perfect nth power then the nth root is returned; otherwise the
+ power  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msup(Typesett
+ing:-mi(\"x\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mfrac(Typesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"nor
+mal\")), Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", m
+athvariant = \"italic\")), linethickness = \"1\", denomalign = \"cente
+r\", numalign = \"center\", bevelled = \"false\"), superscriptshift = \+
+\"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%m
+supGF$6%-I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I&
+mfracGF$6(-F#6#-I#mnGF$6$Q\"1F'/F6Q'normalF'-F#6#-F/6%Q\"nF'F2F5/%.lin
+ethicknessGF@/%+denomalignGQ'centerF'/%)numalignGFL/%)bevelledGQ&false
+F'/%1superscriptshiftGQ\"0F'" }{TEXT 440 97 "  is returned unevaluated
+. We can tell if x is a positive integer by use of the Boolean functio
+n " }{TEXT 364 14 "type(x,posint)" }{TEXT 440 87 " which is true if x \+
+is a positive integer and false otherwise. Here are some examples: " }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 11 "root(8,3); " }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "root(2,3); " }
+}{PARA 11 "" 1 "" {XPPMATH 20 "*$\"\"##\"\"\"\"\"$" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 11 "root(27,3);" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "\"\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 32 "Compare this with the
+ following:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "27^(1/3);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "*$\"#F#\"\"\"\"\"$" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 12 "simplify(%);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "type(27^(1/3),pos
+int);" }}{PARA 11 "" 1 "" {XPPMATH 20 "I&falseG%*protectedG" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "type(root(27,3),posint);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "I%trueG%*protectedG" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 11 "root(28,3);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"*$\"#G#\"\"\"\"\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "type
+(%,posint);" }}{PARA 11 "" 1 "" {XPPMATH 20 "I&falseG%*protectedG" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 11 "The command" }{TEXT 365 5 " root"
+ }{TEXT 440 100 " also works for floating point numbers and complex nu
+mbers. Recall that I is the square root of -1. " }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 13 "root(28.0,3);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"$\"+s*)eOI!\"*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "root(1+2
+.0*I,3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "^$$\"+3lh>7!\"*$\"+xE6<Z!#5"
+ }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 26 "We now define a procedure " }
+{TEXT 366 6 "is_sqr" }{TEXT 440 127 " which determines whether or not \+
+a positive integer  is a  square, that is, whether or not it is the sq
+uare of another integer:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 
+"is_sqr:=n->type(root(n,2), posint):\n" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "is_sqr(16);" }}{PARA 11 "" 1 "" {XPPMATH 20 "I%trueG%
+*protectedG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "is_sqr(17);"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "I&falseG%*protectedG" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 130 "Now we want to determine whether or not
+ the positive integer n is a sum of two positive squares or not. If it
+ is, we want to find " }{TEXT 367 14 "all solutions " }{TEXT 440 17 "t
+o the equations " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"
+\"), Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathv
+ariant = \"italic\"), Typesetting:-mo(\"=\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), T
+ypesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:
+-msup(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshif
+t = \"0\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mrow(Typesetting:-msup(Typesetting:-mi(\"y\", italic = \"true\", ma
+thvariant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal
+\"), superscriptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-
+mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Type
+settingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q\"nF'/%'italicGQ%trueF'
+/%,mathvariantGQ'italicF'-I#moGF$6-Q\"=F'/F8Q'normalF'/%&fenceGQ&false
+F'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablel
+imitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-F#6'F+-F#6#-
+I%msupGF$6%-F,6%Q\"xF'F4F7-I#mnGF$6$Q\"2F'F>/%1superscriptshiftGQ\"0F'
+-F;6-Q\"+F'F>F@FCFEFGFIFKFM/FPQ,0.2222222emF'/FSFco-F#6#-FY6%-F,6%Q\"y
+F'F4F7FhnF\\oF+F+F+" }{TEXT 440 41 " where x and y are positive intege
+rs and " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Type
+setting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\"&le;\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typese
+tting:-mi(\"y\", italic = \"true\", mathvariant = \"italic\")), Typese
+tting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslib
+GF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'
+italicF'-I#moGF$6-Q%&le;F'/F8Q'normalF'/%&fenceGQ&falseF'/%*separatorG
+FB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'acce
+ntGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-F,6%Q\"yF'F4F7F+" }{TEXT 
+440 28 ". Note  we may assume that  " }{XPPEDIT 18 0 "Typesetting:-mro
+w(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"x\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&le;\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"false\", stre
+tchy = \"false\", symmetric = \"false\", largeop = \"false\", movablel
+imits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspac
+e = \"0.2777778em\"), Typesetting:-msqrt(Typesetting:-mfrac(Typesettin
+g:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"ital
+ic\")), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"norma
+l\")), linethickness = \"1\", denomalign = \"center\", numalign = \"ce
+nter\", bevelled = \"false\"))), Typesetting:-mi(\"\"));" "-I%mrowG6#/
+I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q
+\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q%&le;F'/F8Q
+'normalF'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGF
+B/%(largeopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'
+/%'rspaceGFQ-I&msqrtGF$6#-I&mfracGF$6(-F#6#-F,6%Q\"nF'F4F7-F#6#-I#mnGF
+$6$Q\"2F'F>/%.linethicknessGQ\"1F'/%+denomalignGQ'centerF'/%)numalignG
+Fdo/%)bevelledGFBF+" }{TEXT 440 0 "" }{TEXT 368 2 " ." }{TEXT 440 38 "
+  [Can you see why?  What happens if  " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msqrt(Typese
+tting:-mfrac(Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true
+\", mathvariant = \"italic\")), Typesetting:-mrow(Typesetting:-mn(\"2
+\", mathvariant = \"normal\")), linethickness = \"1\", denomalign = \"
+center\", numalign = \"center\", bevelled = \"false\")), Typesetting:-
+mo(\"<\", mathvariant = \"normal\", fence = \"false\", separator = \"f
+alse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.277777
+8em\", rspace = \"0.2777778em\"), Typesetting:-mi(\"x\", italic = \"tr
+ue\", mathvariant = \"italic\")), Typesetting:-mi(\"\"));" "-I%mrowG6#
+/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-I&msq
+rtGF$6#-I&mfracGF$6(-F#6#-F,6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ
+'italicF'-F#6#-I#mnGF$6$Q\"2F'/F@Q'normalF'/%.linethicknessGQ\"1F'/%+d
+enomalignGQ'centerF'/%)numalignGFO/%)bevelledGQ&falseF'-I#moGF$6-Q\"<F
+'FH/%&fenceGFT/%*separatorGFT/%)stretchyGFT/%*symmetricGFT/%(largeopGF
+T/%.movablelimitsGFT/%'accentGFT/%'lspaceGQ,0.2777778emF'/%'rspaceGFco
+-F,6%Q\"xF'F<F?F+" }{TEXT 440 46 "  ?] Here's one way to write such a \+
+procedure:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "sumsqrs:=proc
+(n)\n" }{MPLTEXT 1 0 20 "  local x, y, Sols;\n" }{MPLTEXT 1 0 12 "  So
+ls:=\{\};\n" }{MPLTEXT 1 0 38 "  for x from 1 to evalf(sqrt(n/2)) do\n
+" }{MPLTEXT 1 0 23 "    y:= root(n-x^2,2);\n" }{MPLTEXT 1 0 29 "    if
+ type(y,posint) then  \n" }{MPLTEXT 1 0 33 "      Sols:=Sols union \{
+\{x,y\}\}; \n" }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 10 "  en
+d do;\n" }{MPLTEXT 1 0 15 "  return Sols;\n" }{MPLTEXT 1 0 10 "end pro
+c: " }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 1 "\n" }{TEXT 440 33 "What ha
+ppens if we leave off the " }{TEXT 369 5 "evalf" }{TEXT 440 21 " in th
+e 4-th line of " }{TEXT 370 7 "sumsqrs" }{TEXT 440 66 "? Remove it and
+ try. Next we illustrate the use of this procedure:" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 12 "sumsqrs(50);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "<$<#\"\"&<$\"\"\"\"\"(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 50 "We
+ check these two answers. Note that \{5\} = \{5,5\}." }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 19 "1^2+7^2, 5^2 + 5^2;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$\"#]F#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 120 "What w
+ould happen in the definition of sumsqrs if you replaced the command \+
+\"Sols union \{\{x,y\}\};\" by \"Sols union \{x,y\};\"?" }{MPLTEXT 1 
+0 1 " " }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 46 "The number of elements
+ in a set S is given by " }{TEXT 371 7 "nops(S)" }{TEXT 440 2 ". " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "nops(\{\}); " }}{PARA 11 "" 
+1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "
+nops(\{a,b,c,d\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"%" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 70 "We use this to find the number of differ
+ent solutions to the equation " }{XPPEDIT 18 0 "Typesetting:-mrow(Type
+setting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\"=\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-msup(Typesetting:-mi(\"x\", italic = \"true\", mathva
+riant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"),
+ superscriptshift = \"0\")), Typesetting:-mo(\"+\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"false\", stretchy = \"false\"
+, symmetric = \"false\", largeop = \"false\", movablelimits = \"false
+\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222
+em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"y\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2\", mathv
+ariant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"\"
+)), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q\"nF'/
+%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\"=F'/F8Q'normalF
+'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(larg
+eopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'rspac
+eGFQ-F#6'F+-F#6#-I%msupGF$6%-F,6%Q\"xF'F4F7-I#mnGF$6$Q\"2F'F>/%1supers
+criptshiftGQ\"0F'-F;6-Q\"+F'F>F@FCFEFGFIFKFM/FPQ,0.2222222emF'/FSFco-F
+#6#-FY6%-F,6%Q\"yF'F4F7FhnF\\oF+F+F+" }{TEXT 440 28 " where x and y ar
+e integers " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), \+
+Typesetting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", mathvarian
+t = \"italic\"), Typesetting:-mo(\"&le;\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typ
+esetting:-mi(\"y\", italic = \"true\", mathvariant = \"italic\")), Typ
+esetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sys
+libGF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"xF'/%'italicGQ%trueF'/%,mathvariant
+GQ'italicF'-I#moGF$6-Q%&le;F'/F8Q'normalF'/%&fenceGQ&falseF'/%*separat
+orGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'a
+ccentGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-F,6%Q\"yF'F4F7F+" }{TEXT
+ 440 14 ". For example:" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "nops(sumsqrs(50));" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "\"\"#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 36 "Let's \+
+find the smallest n for which " }{XPPEDIT 18 0 "Typesetting:-mrow(Type
+setting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\"=\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-msup(Typesetting:-mi(\"x\", italic = \"true\", mathva
+riant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"),
+ superscriptshift = \"0\")), Typesetting:-mo(\"+\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"false\", stretchy = \"false\"
+, symmetric = \"false\", largeop = \"false\", movablelimits = \"false
+\", accent = \"false\", lspace = \"0.2222222em\", rspace = \"0.2222222
+em\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"y\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2\", mathv
+ariant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"\"
+)), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q\"nF'/
+%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\"=F'/F8Q'normalF
+'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(larg
+eopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'rspac
+eGFQ-F#6'F+-F#6#-I%msupGF$6%-F,6%Q\"xF'F4F7-I#mnGF$6$Q\"2F'F>/%1supers
+criptshiftGQ\"0F'-F;6-Q\"+F'F>F@FCFEFGFIFKFM/FPQ,0.2222222emF'/FSFco-F
+#6#-FY6%-F,6%Q\"yF'F4F7FhnF\\oF+F+F+" }{TEXT 440 36 " has at least 2 d
+ifferent solutions:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "for \+
+n from 1 do \n" }{MPLTEXT 1 0 34 "  if nops(sumsqrs(n)) >= 2  then \n"
+ }{MPLTEXT 1 0 26 "     print(n,sumsqrs(n));\n" }{MPLTEXT 1 0 13 "    \+
+ break; \n" }{MPLTEXT 1 0 10 "  end if;\n" }{MPLTEXT 1 0 7 "end do;" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6$\"#]<$<#\"\"&<$\"\"\"\"\"(" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 36 "Let's find the smallest n for whi
+ch " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesett
+ing:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mo(\"=\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-
+mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typese
+tting:-mi(\"x\", italic = \"true\", mathvariant = \"italic\"), Typeset
+ting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")),
+ Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mrow(Type
+setting:-msup(Typesetting:-mi(\"y\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), supersc
+riptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\")), T
+ypesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_s
+yslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q\"nF'/%'italicGQ%trueF'/%,mathvaria
+ntGQ'italicF'-I#moGF$6-Q\"=F'/F8Q'normalF'/%&fenceGQ&falseF'/%*separat
+orGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'a
+ccentGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-F#6'F+-F#6#-I%msupGF$6%-
+F,6%Q\"xF'F4F7-I#mnGF$6$Q\"2F'F>/%1superscriptshiftGQ\"0F'-F;6-Q\"+F'F
+>F@FCFEFGFIFKFM/FPQ,0.2222222emF'/FSFco-F#6#-FY6%-F,6%Q\"yF'F4F7FhnF
+\\oF+F+F+" }{TEXT 440 37 " has at least 3 different solutions: " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "for n from 1  do \n" }
+{MPLTEXT 1 0 34 "  if nops(sumsqrs(n)) >= 3  then \n" }{MPLTEXT 1 0 
+25 "    print(n,sumsqrs(n));\n" }{MPLTEXT 1 0 12 "    break; \n" }
+{MPLTEXT 1 0 10 "  end if;\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6$\"$D$<%<$\"\"\"\"#=<$\"\"'\"#<<$\"#5\"#:" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 92 "Here's a much more efficient prog
+ram due to Robert Israel for the determination of integers " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mo(\"&le;\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mrow
+(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msup(Typesettin
+g:-mn(\"20\", mathvariant = \"normal\"), Typesetting:-mn(\"2\", mathva
+riant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"+\"
+, mathvariant = \"normal\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.2222222em\", r
+space = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msup(Typesett
+ing:-mn(\"20\", mathvariant = \"normal\"), Typesetting:-mn(\"2\", math
+variant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"
+\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+m
+odulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-F,6%Q\"nF
+'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q%&le;F'/F8Q'nor
+malF'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(
+largeopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'r
+spaceGFQ-F#6'F+-F#6#-I%msupGF$6%-I#mnGF$6$Q#20F'F>-Ffn6$Q\"2F'F>/%1sup
+erscriptshiftGQ\"0F'-F;6-Q\"+F'F>F@FCFEFGFIFKFM/FPQ,0.2222222emF'/FSFc
+oFVF+F+F+" }{TEXT 440 72 " that can be expressed as the sum of two squ
+ares in more than two ways. " }{TEXT 372 112 "You should use this tech
+nique when solving one of the homework exercises. So don't skip trying
+ to understand it:" }{TEXT 440 1 " " }}{PARA 0 "" 0 "" {TEXT 440 1 "\n
+" }{TEXT 440 41 "Note the use of the subscripted variable " }{TEXT 
+373 4 "T[m]" }{TEXT 440 17 " and the command " }{TEXT 374 8 "assigned"
+ }{TEXT 440 84 " which tells us whether or not  something has already \+
+been assigned to the variable " }{TEXT 375 5 "T[m]." }{TEXT 440 51 "  \+
+Note that this will cover all integers from 1 to " }{XPPEDIT 18 0 "Typ
+esetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-m
+n(\"1800\", mathvariant = \"normal\"), Typesetting:-mo(\"=\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"
+0.2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-
+mrow(Typesetting:-msup(Typesetting:-mn(\"30\", mathvariant = \"normal
+\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptshif
+t = \"0\")), Typesetting:-mo(\"+\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typesettin
+g:-mrow(Typesetting:-msup(Typesetting:-mn(\"30\", mathvariant = \"norm
+al\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), superscriptsh
+ift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\")), Typeset
+ting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6%-I#miGF$6#Q!F'-F#6&-I#mnGF$6$Q%1800F'/%,mathvariantGQ'normalF'-I#m
+oGF$6-Q\"=F'F5/%&fenceGQ&falseF'/%*separatorGF>/%)stretchyGF>/%*symmet
+ricGF>/%(largeopGF>/%.movablelimitsGF>/%'accentGF>/%'lspaceGQ,0.277777
+8emF'/%'rspaceGFM-F#6'F+-F#6#-I%msupGF$6%-F26$Q#30F'F5-F26$Q\"2F'F5/%1
+superscriptshiftGQ\"0F'-F96-Q\"+F'F5F<F?FAFCFEFGFI/FLQ,0.2222222emF'/F
+OF^oFRF+F+F+" }{TEXT 440 2 ". " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 9 "restart:\n" }{MPLTEXT 1 0 22 "for i from 1 to 30 do\n" }
+{MPLTEXT 1 0 23 "  for j from 1 to i do\n" }{MPLTEXT 1 0 19 "    m:= i
+^2 + j^2;\n" }{MPLTEXT 1 0 64 "    if assigned(T[m]) then T[m]:= T[m],
+[i,j]; else T[m]:= [i,j]\n" }{MPLTEXT 1 0 12 "    end if:\n" }{MPLTEXT
+ 1 0 11 "  end do: \n" }{MPLTEXT 1 0 7 "end do:" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT 440 23 "Here are some examples:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 6 "T[1];\n" }{MPLTEXT 1 0 7 "T[13]
+;\n" }{MPLTEXT 1 0 7 "T[50];\n" }{MPLTEXT 1 0 7 "T[325];" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "&I\"TG6\"6#\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"7$\"\"$\"\"#" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$7$\"\"&F$7$\"\"(\"\"
+\"" }}{PARA 11 "" 1 "" {XPPMATH 20 "6%7$\"#:\"#57$\"#<\"\"'7$\"#=\"\"
+\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 78 "We can get the number of s
+olutions for, say, T[325], by the following command:" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 15 "nops([T[325]]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 39 "Using this
+ we see which integers up to " }{XPPEDIT 18 0 "Typesetting:-mrow(Types
+etting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant
+ = \"normal\"), Typesetting:-mo(\"&InvisibleTimes;\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mrow(Typesetting:-msup(Typesetting:-mn(\"30\", mathvariant = \+
+\"normal\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), supersc
+riptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));" 
+"-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'
+-F#6&-I#mnGF$6$Q\"2F'/%,mathvariantGQ'normalF'-I#moGF$6-Q1&InvisibleTi
+mes;F'F5/%&fenceGQ&falseF'/%*separatorGF>/%)stretchyGF>/%*symmetricGF>
+/%(largeopGF>/%.movablelimitsGF>/%'accentGF>/%'lspaceGQ&0.0emF'/%'rspa
+ceGFM-F#6#-I%msupGF$6%-F26$Q#30F'F5F1/%1superscriptshiftGQ\"0F'F+F+" }
+{TEXT 440 68 " can be express as a sum of square in three or more diff
+erent ways: " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 26 "for m from \+
+1 to 2*30^2 do\n" }{MPLTEXT 1 0 50 "  if nops([T[m]]) >=3 then print(m
+,T[m]); end if;\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6&\"$D$7$\"#:\"#57$\"#<\"\"'7$\"#=\"\"\"" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "6&\"$D%7$\"#;\"#87$\"#>\"\")7$\"#?\"\"&" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6&\"$]'7$\"#>\"#<7$\"#B\"#67$\"#D\"\"&" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "6&\"$D(7$\"#B\"#97$\"#D\"#57$\"#E\"\"(" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6&\"$X)7$\"#A\"#>7$\"#E\"#87$\"#H\"\"#" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6&\"$])7$\"#D\"#:7$\"#F\"#67$\"#H\"\"$" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6&\"$D*7$\"#A\"#@7$\"#F\"#97$\"#I\"\"&
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 3 ""
+ 0 "" {TEXT 439 9 "Exercises" }}{EXCHG }{EXCHG {PARA 0 "" 0 "" {TEXT 
+440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }{TEXT 376 10 "Problem 1." }
+{TEXT 440 1 " " }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 377 3 "(a)" }{TEXT 440 185 " Use a for-loop and a conditional st
+atement to split the positive integers not greater than 20 into a set \+
+P of prime numbers and a set Q of non-prime numbers. Display the sets \+
+P and Q. " }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 
+378 3 "(b)" }{TEXT 440 49 " Use a for-loop and a conditional statement
+ with " }{TEXT 379 5 "break" }{TEXT 440 65 " to compute the smallest p
+ositive prime number greater than 1000." }}{PARA 0 "" 0 "" {TEXT 440 
+0 "" }}{PARA 0 "" 0 "" {TEXT 380 3 "(c)" }{TEXT 440 156 " Write a for \+
+... in loop that constructs from a set S a new set R consisting of eac
+h element n in S divided by n+1. Apply it to the sets P and Q defined \+
+in " }{TEXT 381 3 "(a)" }{TEXT 440 31 " above and display the results.
+" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 382 10 "Pro
+blem 2." }{TEXT 440 3 "  \n" }}{PARA 0 "" 0 "" {TEXT 440 431 "Perhaps \+
+you have heard  the famous story about Ramanujan and Hardy's taxi numb
+er: Once when Ramanujan was ill in London, Hardy visited Ramanujan in \+
+the hospital. When Hardy remarked that he had taken taxi number 1729, \+
+a singularly unexceptional number, Ramanujan immediately responded tha
+t this number was actually quite remarkable: it is the smallest positi
+ve integer that can be represented in two ways by the sum of two cubes
+. [" }{TEXT 383 60 "from Eric Weisstein's Treasure Trove of Scientific
+ Biography" }{TEXT 440 1 "]" }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 
+0 "" 0 "" {TEXT 384 4 "(a) " }{TEXT 440 459 "Verify (using Maple) Rama
+nujan's statement that 1729 is the smallest positive integer that can \+
+be expressed in two different ways as a sum of two cubes. You should b
+e able to use the ideas in the section above on perfect squares and su
+ms of squares. [Use of the analogue of the procedure given there due t
+o Robert Israel is recommended.] Only here we are talking of cubes ins
+tead of squares.  But there are other ways to do the problem that may \+
+occur to you. " }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 385 3 "(b)" }{TEXT 440 82 " Find the next number after 1729 that
+ is a sum of two cubes in two different ways." }}{PARA 0 "" 0 "" {TEXT
+ 440 1 " " }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 
+386 0 "" }{TEXT 207 11 "Problem 3. " }}{PARA 0 "" 0 "" {TEXT 440 0 "" 
+}}{PARA 0 "" 0 "" {TEXT 387 11 "Definition." }{TEXT 388 25 " A positiv
+e integer n is " }{TEXT 389 7 "perfect" }{TEXT 390 49 " if the sum of \+
+its proper positive divisors is n." }{TEXT 440 1 " " }}{PARA 0 "" 0 ""
+ {TEXT 440 1 "\n" }{TEXT 440 287 "For example, the proper positive div
+isors of 6 are 1, 2, and 3. Further 6 = 1 + 2 + 3. So 6 is perfect. [I
+f you have had number theory you may know about the structure of even \+
+perfect numbers. Do not use that knowledge for  this exercise. Use onl
+y the definition to write your programs.]" }}{PARA 0 "" 0 "" {TEXT 
+391 2 " \n" }{TEXT 392 4 "(a) " }{TEXT 440 108 "Write a procedure whic
+h takes as input a positive integer n and returns the sum of all prope
+r divisors of n." }{TEXT 393 1 " " }{TEXT 440 81 "Show how your proced
+ure works for the following values of n: 2, 3, 4, 6, 30, 900." }}
+{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 394 4 "(b) " }
+{TEXT 207 34 "Using  the procedure you wrote in " }{TEXT 395 3 "(a)" }
+{TEXT 207 1 " " }{TEXT 440 18 "write a procedure " }{TEXT 396 9 "isper
+fect" }{TEXT 440 55 " which takes as input a positive integer n and re
+turns " }{TEXT 397 4 "true" }{TEXT 440 21 " if n is perfect and " }
+{TEXT 398 5 "false" }{TEXT 440 9 " if not. " }{TEXT 399 4 "Note" }
+{TEXT 440 53 ": proper divisors of n can  not be greater than n/2. " }
+{TEXT 400 46 "Use the procedure to find all perfect numbers " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mo(\"&le;\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mn(
+\"1000\", mathvariant = \"normal\")), Typesetting:-mi(\"\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-F
+,6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q%&le;F'
+/F8Q'normalF'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetr
+icGFB/%(largeopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778
+emF'/%'rspaceGFQ-I#mnGF$6$Q%1000F'F>F+" }{TEXT 401 2 ". " }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 402 17 "Interes
+ting Fact:" }{TEXT 403 293 " It is an open question whether or not the
+re are any odd perfect numbers. So far no one has found one. In number
+ theory you learn the structure of the even perfect numbers. So far on
+ly a finite number of even perfect numbers have been found. But it is \+
+suspected that there are infinitely many." }{TEXT 440 1 " " }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 440 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "
+" }{TEXT 404 11 "Problem 4 ." }{TEXT 440 3 "  \n" }}{PARA 0 "" 0 "" 
+{TEXT 405 10 "Definition" }{TEXT 440 6 ". The " }{TEXT 406 5 "order" }
+{TEXT 440 1 " " }{TEXT 407 13 "of an integer" }{TEXT 440 3 " a " }
+{TEXT 408 17 "modulo an integer" }{TEXT 440 59 " m is defined to be th
+e least positive integer e such that " }{XPPEDIT 18 0 "Typesetting:-mr
+ow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"\"), Typ
+esetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"a\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mi(\"e\", italic = \"true
+\", mathvariant = \"italic\"), superscriptshift = \"0\"), Typesetting:
+-mi(\"\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.5em\", \+
+depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mo(\"mod\", bol
+d = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mspace(he
+ight = \"0.0ex\", width = \"0.5em\", depth = \"0.0ex\", linebreak = \"
+auto\"), Typesetting:-mi(\"m\", italic = \"true\", mathvariant = \"ita
+lic\")), Typesetting:-mo(\"=\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-
+mn(\"1\", mathvariant = \"normal\")), Typesetting:-mi(\"\"));" "-I%mro
+wG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&F+
+-F#6(-I%msupGF$6%-F,6%Q\"aF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF
+'-F,6%Q\"eF'F9F</%1superscriptshiftGQ\"0F'F+-I'mspaceGF$6&/%'heightGQ&
+0.0exF'/%&widthGQ&0.5emF'/%&depthGFJ/%*linebreakGQ%autoF'-I#moGF$6/Q$m
+odF'/%%boldGF;/F=Q%boldF'/%+fontweightGFZ/%&fenceGQ&falseF'/%*separato
+rGFin/%)stretchyGFin/%*symmetricGFin/%(largeopGFin/%.movablelimitsGFin
+/%'accentGFin/%'lspaceGQ&0.0emF'/%'rspaceGFhoFE-F,6%Q\"mF'F9F<-FT6-Q\"
+=F'/F=Q'normalF'FgnFjnF\\oF^oF`oFboFdo/FgoQ,0.2777778emF'/FjoFdp-I#mnG
+F$6$Q\"1F'FapF+" }{TEXT 440 4 ".  \n" }{TEXT 440 1 "\n" }{TEXT 440 27 
+"Write a procedure, call it " }{TEXT 409 3 "Ord" }{TEXT 440 12 ", such
+ that " }{TEXT 410 8 "Ord(a,m)" }{TEXT 440 9 " returns " }{TEXT 411 4 
+"FAIL" }{TEXT 440 46 " if the order does not exist and the order of " 
+}{TEXT 412 10 "a modulo m" }{TEXT 440 17 " if  it  exists.\n" }{TEXT 
+440 1 "\n" }{TEXT 413 91 "You may use the number theoretic result that
+ the order of a modulo m exists if and only if " }{TEXT 414 13 "igcd(a
+,m) = 1" }{TEXT 415 46 ". Also you may use the fact that the order of 
+" }{TEXT 416 10 "a modulo m" }{TEXT 417 23 " is never greater than " }
+{TEXT 418 5 "m - 1" }{TEXT 419 24 ". [Note that Maple uses " }{TEXT 
+420 4 "igcd" }{TEXT 421 49 " for the greatest common divisor of intege
+rs and " }{TEXT 422 3 "gcd" }{TEXT 423 46 " for greatest common diviso
+r of polynomials.] " }{TEXT 440 1 "\n" }{TEXT 440 1 "\n" }{TEXT 424 4 
+"(a) " }{TEXT 440 23 "Check that you obtain: " }{TEXT 425 1 "\n" }
+{TEXT 426 1 "\n" }{TEXT 427 63 "        Ord(0,11) = FAIL,    Ord(2,11)
+ = 10,     Ord(4,11) = 5." }}{PARA 0 "" 0 "" {TEXT 440 0 "" }}{PARA 0 
+"" 0 "" {TEXT 428 3 "(b)" }{TEXT 440 9 " Compute " }{TEXT 429 10 "Ord(
+a, 15)" }{TEXT 440 20 " for a from 0 to 20." }}{PARA 0 "" 0 "" {TEXT 
+207 0 "" }}{PARA 0 "" 0 "" {TEXT 207 11 "Problem 5. " }}{PARA 0 "" 0 "
+" {TEXT 440 0 "" }}{PARA 0 "" 0 "" {TEXT 440 15 "For each prime " }
+{TEXT 430 1 "p" }{TEXT 440 50 " from 2 to 100 find the smallest positi
+ve integer " }{TEXT 431 1 "a" }{TEXT 440 11 " such that " }{TEXT 432 
+14 "Ord(a,p) = p-1" }{TEXT 440 25 ". Print out a table with " }{TEXT 
+433 4 "p, a" }{TEXT 440 15 " on each row. \n" }{TEXT 440 1 "\n" }{TEXT
+ 440 23 "[Such an a is called a " }{TEXT 434 27 "primitive elements mo
+dulo p" }{TEXT 440 47 " and plays an important role in number theory.]
+" }}{PARA 0 "" 0 "" {TEXT 440 1 " " }}{PARA 0 "" 0 "" {TEXT 435 5 "Hin
+t:" }{TEXT 440 82 " You might use a loop for p from 2 to 100. If p is \+
+not prime then use the command " }{TEXT 436 5 "next;" }{TEXT 440 195 "
+ to go to the next value of p. If p is prime then go into another loop
+ for a from 1 to p - 1 looking for an a which has order 1 modulo p. Wh
+en you find one, print it out and then use the command " }{TEXT 437 6 
+"break;" }{TEXT 440 20 " to leave the loop.\n" }}{PARA 0 "" 0 "" {TEXT
+ 440 0 "" }}}{EXCHG {PARA 210 "" 0 "" {TEXT 447 8 "- End - " }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 440 0 "" }}}{PARA 0 "" 0 "" {TEXT 440 0 "
+" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 0 0 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

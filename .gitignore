@@ -1,5 +1,6 @@
+# Maple temporary/backup files
 *.bak
+*.asv
 *.tmp
-*~
 .DS_Store
 Thumbs.db

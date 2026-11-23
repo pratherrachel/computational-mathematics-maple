@@ -1,0 +1,1773 @@
+Transcription of pasted Maple worksheet text (including console output).
+Not directly executable. Name fields redacted.
+
+Assignment Five
+[name redacted]
+ Problem 1.   
+
+Generate 8 random 3 by 3 matrices using the RandomMatrix command from the  LinearAlgebra package. As each matrix is generated use Eigenvalues to compute its eigenvalues. Then take the product of the eigenvalues, and check that for each matrix, this product is equal to the determinant of the matrix.  
+
+[Hint: The product will be complicated algebraically and you will need to apply first expand, then simplify to reduce the product of the eigenvalues to an integer. First try to do for a single matrix , then make a loop to do it 8 times.]  
+restart:
+with(LinearAlgebra):
+A:=RandomMatrix(3,3);
+EvA:=simplify(evalf(Eigenvalues(A)));
+B:=RandomMatrix(3,3);
+EvB:=simplify(evalf(Eigenvalues(B)));
+C:=RandomMatrix(3,3);
+EvC:=simplify(evalf(Eigenvalues(C)));
+E:=RandomMatrix(3,3);
+EvE:=simplify(evalf(Eigenvalues(E)));
+F:=RandomMatrix(3,3);
+EvF:=simplify(evalf(Eigenvalues(F)));
+G:=RandomMatrix(3,3);
+EvG:=simplify(evalf(Eigenvalues(G)));
+H:=RandomMatrix(3,3);
+EvH:=simplify(evalf(Eigenvalues(H)));
+J:=RandomMatrix(3,3);
+EvJ:=simplify(evalf(Eigenvalues(J)));
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(27, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(99, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(92, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(8, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(29, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(uminus031, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(69, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(44, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(67, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[                   /                /                /
+[Typesetting:-mtable\Typesetting:-mtr\Typesetting:-mtd\
+
+                     -8                                     
+  105.2496696 - 3. 10   I, rowalign = "", columnalign = "", 
+
+                                                  \  
+  groupalign = "", rowspan = "1", columnspan = "1"/, 
+
+                                                  \  
+  rowalign = "", columnalign = "", groupalign = ""/, 
+
+                  /                /
+  Typesetting:-mtr\Typesetting:-mtd\
+
+                                  -9                   
+  uminus047.58707854+2.67949192 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                  /                /
+  groupalign = ""/, Typesetting:-mtr\Typesetting:-mtd\
+
+                            -8                   
+  65.33740896+3.732050808 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                                              
+  groupalign = ""/, foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "center", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+                           \]
+  minlabelspacing = "0.8em"/]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(52, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(72, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus059, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus013, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(42, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(12, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(82, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(18, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(uminus062, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(
+
+  38.46259915, rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus03.23129958+46.39102354 I, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus03.23129958 - 46.39102354 I, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), foreground = "[0,0,0]", 
+
+  readonly = "false", align = "axis", rowalign = "baseline", 
+
+  columnalign = "center", groupalign = "{left}", 
+
+  alignmentscope = "true", columnwidth = "auto", width = "auto", 
+
+  rowspacing = "1.0ex", columnspacing = "0.8em", 
+
+  rowlines = "none", columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(80, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus082, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(91, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(19, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(uminus070, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(29, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(88, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(41, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(70, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[                   /                /                /
+[Typesetting:-mtable\Typesetting:-mtr\Typesetting:-mtd\
+
+                     -8                                     
+  160.0611341 - 3. 10   I, rowalign = "", columnalign = "", 
+
+                                                  \  
+  groupalign = "", rowspan = "1", columnspan = "1"/, 
+
+                                                  \  
+  rowalign = "", columnalign = "", groupalign = ""/, 
+
+                  /                /
+  Typesetting:-mtr\Typesetting:-mtd\
+
+                                     -8                   
+  uminus076.45542641 - 5.928203230 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                  /                /
+  groupalign = ""/, Typesetting:-mtr\Typesetting:-mtd\
+
+                                  -8                   
+  uminus03.60570765+7.928203230 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                                              
+  groupalign = ""/, foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "center", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+                           \]
+  minlabelspacing = "0.8em"/]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(uminus015, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(99, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus044, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(2, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(uminus059, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(26, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(uminus088, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(10, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(uminus03, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[                   /                /                /
+[Typesetting:-mtable\Typesetting:-mtr\Typesetting:-mtd\
+
+                     -8                                     
+  30.77707781 - 4. 10   I, rowalign = "", columnalign = "", 
+
+                                                  \  
+  groupalign = "", rowspan = "1", columnspan = "1"/, 
+
+                                                  \  
+  rowalign = "", columnalign = "", groupalign = ""/, 
+
+                  /                /
+  Typesetting:-mtr\Typesetting:-mtd\
+
+                                  -9                   
+  uminus0106.8971337+2.67949192 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                  /                /
+  groupalign = ""/, Typesetting:-mtr\Typesetting:-mtd\
+
+                                  -8                   
+  uminus00.87994417+3.732050808 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                                              
+  groupalign = ""/, foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "center", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+                           \]
+  minlabelspacing = "0.8em"/]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(13, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus060, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus046, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(32, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(51, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(35, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(48, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(20, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(uminus054, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(
+
+  uminus048.24599344, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(29.12299673 - 50.96064050 I, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(29.12299673+50.96064050 I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "center", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(92, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus029, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(35, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus02, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(9, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(80, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(uminus046, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(81, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(20, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(
+
+  uminus057.25344704, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(89.12672353 - 13.49264410 I, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(89.12672353+13.49264410 I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "center", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(uminus045, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus043, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(19, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(68, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(uminus085, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(25, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(58, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(uminus085, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(17, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(
+
+  uminus014.31310442, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(
+
+  uminus049.34344780+41.40903669 I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), Typesetting:-mtr(Typesetting:-mtd(
+
+  uminus049.34344780 - 41.40903669 I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "center", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(uminus010, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(uminus054, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(75, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus05, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(uminus072, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(uminus085, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(47, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(uminus079, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(uminus019, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[                   /                /                /
+[Typesetting:-mtable\Typesetting:-mtr\Typesetting:-mtd\
+
+                     -8                                     
+  82.08015613 - 3. 10   I, rowalign = "", columnalign = "", 
+
+                                                  \  
+  groupalign = "", rowspan = "1", columnspan = "1"/, 
+
+                                                  \  
+  rowalign = "", columnalign = "", groupalign = ""/, 
+
+                  /                /
+  Typesetting:-mtr\Typesetting:-mtd\
+
+                                     -8                   
+  uminus0131.3438228 - 3.330127020 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                  /                /
+  groupalign = ""/, Typesetting:-mtr\Typesetting:-mtd\
+
+                                   -8                   
+  uminus051.73633331+5.330127020 10   I, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+                  \                                   
+  columnspan = "1"/, rowalign = "", columnalign = "", 
+
+                 \                                              
+  groupalign = ""/, foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "center", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+                           \]
+  minlabelspacing = "0.8em"/]
+
+
+restart:
+with(LinearAlgebra):
+Check:=proc(A::Matrix);
+is(`*`(convert(Eigenvalues(A), list)[ ])=Determinant(A));
+end proc:
+for i from 1 to 8 do:
+  (i,Check(RandomMatrix(3,3))):
+end do;
+                            1, true
+
+                            2, true
+
+                            3, true
+
+                            4, true
+
+                            5, true
+
+                            6, true
+
+                            7, true
+
+                            8, true
+
+`?`;
+Problem 2.
+
+For each natural number n, the n-th square matrix 
+                             "A[n]"
+
+ is defined by 
+                             "A[n]"
+
+(
+                             "i, j"
+
+) =0 if 
+                            "i = j"
+
+, 
+                             "A[n]"
+
+(
+                             "i, j"
+
+) =1 if 
+                            "i <> j"
+
+. Carry out the following computations for n=3,4 and 5.
+
+(a) Compute the determinant of 
+                             "A[n]"
+
+.
+
+(b) Compute the characteristic polynomial of  
+                             "A[n]"
+
+.
+
+(c) Determine all eigenvalues of  
+                             "A[n]"
+
+ and determine for each eigenvalue a basis of the corresponding eigenspace.
+A3:=Matrix([[0,1,1],[1,0,1],[1,1,0]]);
+A4:=Matrix([[0,1,1,1],[1,0,1,1],[1,1,0,1],[1,1,1,0]]);
+A5:=Matrix([[0,1,1,1,1],[1,0,1,1,1],[1,1,0,1,1],[1,1,1,0,1],[1,1,1,1,0]]);
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(0, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(0, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(0, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(0, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(0, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(0, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), Typesetting:-mtr(Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(0, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), foreground = "[0,0,0]", 
+
+  readonly = "false", align = "axis", rowalign = "baseline", 
+
+  columnalign = "right", groupalign = "{left}", 
+
+  alignmentscope = "true", columnwidth = "auto", width = "auto", 
+
+  rowspacing = "1.0ex", columnspacing = "0.8em", 
+
+  rowlines = "none", columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(0, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(0, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(0, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(1, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), Typesetting:-mtr(Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(0, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(1, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(0, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  foreground = "[0,0,0]", readonly = "false", align = "axis", 
+
+  rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+D_A3:=Determinant(A3); D_A4:=Determinant(A4); D_A5:=Determinant(A5);
+                           D_A3 := 2
+
+                           D_A4 := -3
+
+                           D_A5 := 4
+
+CP_A3:=CharacteristicPolynomial(A3,x); CP_A4:=CharacteristicPolynomial(A4,x); CP_A5:=CharacteristicPolynomial(A5,x);
+                               3          
+                     CP_A3 := x  - 3 x - 2
+
+                            4      2          
+                  CP_A4 := x  - 6 x  - 8 x - 3
+
+                       5       3       2           
+             CP_A5 := x  - 10 x  - 20 x  - 15 x - 4
+
+A3_E:=Eigenvalues(A3); A4_E:=Eigenvalues(A4);A5_E:=Eigenvalues(A5);
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(2, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus01, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(uminus01, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(3, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus01, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(uminus01, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), Typesetting:-mtr(Typesetting:-mtd(uminus01, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), foreground = "[0,0,0]", 
+
+  readonly = "false", align = "axis", rowalign = "baseline", 
+
+  columnalign = "right", groupalign = "{left}", 
+
+  alignmentscope = "true", columnwidth = "auto", width = "auto", 
+
+  rowspacing = "1.0ex", columnspacing = "0.8em", 
+
+  rowlines = "none", columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(4, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus01, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(uminus01, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), Typesetting:-mtr(Typesetting:-mtd(uminus01, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(uminus01, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  foreground = "[0,0,0]", readonly = "false", align = "axis", 
+
+  rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+
+Problem 3..  
+
+There is a one-to-one correspondence between subsets of {1, 2, . . . , n} and binary lists of length n, that is, lists L = [x1, x2 , . . . , xn] where x1, x2, . . . , xn are elements of the set {0,1}.  The correspondence is given by associating to the set S the list L where xi = 1 if i is in S and 0 if not. For example, the set {1,3,5} corresponds to the list [1,0,1,0,1,0,0] if n = 7.
+
+(a) Write a procedure list_to_set whose input is a binary list and whose output is the corresponding set. E. g., list_to_set([1,0,1,0,1]) will return the set {1,3,5}. Note that nops(L) is the length of a list.
+
+(b) Write a procedure set_to_list whose input is a pair S,n where S is a subset of {1, 2, . . . , n} and n is a positive integer and whose output is the binary list of length n corresponding to the set S. E. g., if n = 5 then set_to_list({1,3,5},5) will return [1,0,1,0,1].
+
+(c) Show by a few tests that each procedure works. Then apply set_to_list to each set in the powerset of {1, 2, 3, 4} to form all binary lists of length 4. Make a program to print out a table of the following form. (But the order need not be the same as that started below.)
+
+   [0,0,0,0] <-->  {  }
+   [1,0,0 0] <--> { 1 }
+   [0,1,0,0] <--> { 2 } 
+    ........
+    etc
+
+Some extra commas in the output is okay. You may obtain the power set of the set {1,2,...,n} by the command powerset(n); but you must first load the package combinat.
+list_to_set:=proc(n::list)
+local a, S, i;
+a:=nops(n);
+S:={};
+for i to a do
+if n[i]=1 then S:= S union {i}; end if;
+end do;
+return S;
+end proc:
+list_to_set([1,0,1,0,1]);
+                           {1, 3, 5}
+
+restart:
+set_to_list:=proc(s::set,n)
+local i, L;
+#a:=nops(s);
+#b:=max(s);
+#L:=[];
+for i from 1 to n do 
+  if i in s then L[i]:=1;
+  else L[i]:= 0; end if;
+end do;
+return [seq(L[i],i=1..n)];
+end proc:
+set_to_list({1,5,7},10);
+[r];
+r:=[1,2,3,4,5];
+has([r],2);
+                 [1, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+
+                              [r]
+
+                      r := [1, 2, 3, 4, 5]
+
+                              true
+
+Problem  4. 
+
+Note that if i is an integer then convert(i,base, 2) will convert i to a binary list (the binary representation of i in reverse order). Then you may use list_to_set to convert  this list to a set. Note that if i runs from 0 to 
+                           "2^n - 1"
+
+ then list_to_set(convert(i,base,2) )  will run through all subsets of {1, 2, . . ., n}. 
+
+(a) Use this idea to make your own procedure PowerSet which will given n,  produce the powerset of {1, 2, . . . , n}. Show by several examples that your procedure works. For your examples you should get nops(PowerSet(n)) = 2^(n). Check that this is the case.
+ 
+(b) Use this idea to make a procedure RandSet which given n produces a random subset of {1, 2, . . . , n}. [Use rand to produce a random integer in the range 0..2^n-1 and then convert it to a subset of {1, 2, . . . , n}.]  Do NOT use PowerSet or powerset. Show by examples that it works for small n such as 5, 10, and 20 as well as for large n such as 100. It will even work for n = 1000, but the output will be rather large. On average a random subset of {1,2,...,n} will contain n/2 elements.
+[Remark: The powerset of a set with 1000 elements contains more than 
+                            "10^300"
+
+ elements. This is, according to current estimates, more than the number of atoms in the whole universe. So you cannot expect your computer to be able to store such a set.]
+
+Problem 5.
+
+Construct an original example of each of the following types of Maple expressions. Check each using both type and whattype. Note that in the case of whattype you may need to use eval as illustrated in the lecture. To separate the examples make a line using dashes like the following (in text mode) between the examples for each type.
+----------------------------------------------------------------------
+
+list
+set
+array
+matrix
+Matrix
+Vector
+table
+integer
+procedure
+function
+L:=[1,2,3,4,5,6,7,8,9]; whattype(L); whattype(eval(L));
+                L := [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+                              list
+
+                              list
+
+-----------------------------------------------------------------------------------------------------------------------
+S:={1,2,3,4,5,6}; whattype(S); whattype(eval(S));
+                    S := {1, 2, 3, 4, 5, 6}
+
+                              set
+
+                              set
+
+------------------------------------------------------------------------------------------------------------------------
+A:=Array([1,2,3]); whattype(A); whattype(eval(A));
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), foreground = "[0,0,0]", 
+
+  readonly = "false", align = "axis", rowalign = "baseline", 
+
+  columnalign = "right", groupalign = "{left}", 
+
+  alignmentscope = "true", columnwidth = "auto", width = "auto", 
+
+  rowspacing = "1.0ex", columnspacing = "0.8em", 
+
+  rowlines = "none", columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+                             Array
+
+                             Array
+
+-------------------------------------------------------------------------------------------------------------------------
+matrix
+--------------------------------------------------------------------------------------------------------------------------
+M:=Matrix([[1,1,1],[2,2,2],[3,3,3]]); whattype(M); whattype(eval(M));
+[Typesetting:-mtable(Typesetting:-mtr(Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), Typesetting:-mtd(1, 
+
+  rowalign = "", columnalign = "", groupalign = "", 
+
+  rowspan = "1", columnspan = "1"), rowalign = "", 
+
+  columnalign = "", groupalign = ""), Typesetting:-mtr(
+
+  Typesetting:-mtd(2, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(2, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  Typesetting:-mtd(2, rowalign = "", columnalign = "", 
+
+  groupalign = "", rowspan = "1", columnspan = "1"), 
+
+  rowalign = "", columnalign = "", groupalign = ""), 
+
+  Typesetting:-mtr(Typesetting:-mtd(3, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(3, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), Typesetting:-mtd(3, rowalign = "", 
+
+  columnalign = "", groupalign = "", rowspan = "1", 
+
+  columnspan = "1"), rowalign = "", columnalign = "", 
+
+  groupalign = ""), foreground = "[0,0,0]", readonly = "false", 
+
+  align = "axis", rowalign = "baseline", columnalign = "right", 
+
+  groupalign = "{left}", alignmentscope = "true", 
+
+  columnwidth = "auto", width = "auto", rowspacing = "1.0ex", 
+
+  columnspacing = "0.8em", rowlines = "none", 
+
+  columnlines = "none", frame = "none", 
+
+  framespacing = "0.4em 0.5ex", equalrows = "false", 
+
+  equalcolumns = "false", displaystyle = "false", side = "right", 
+
+  minlabelspacing = "0.8em")]
+
+
+                             Matrix
+
+                             Matrix
+
+
+Assignment Six
+Problem 1. 
+
+If n people (numbered 1 to n) stand in a circle and someone starts going around the circle and eliminating every other person till only one person is left, the number J(n) of the person left at the end is given by 
+
+    J(n) = 1                           if n = 1
+    J(n) = 2*J(n/2) - 1          if n > 1 and n is even
+    J(n) = 2*J((n-1)/2) + 1   if  n > 1 and n is odd
+
+(i) Write a recursive procedure to compute J. [As a check the first 16 values (starting with 1) of J(n) are 1,1,3,1,3,5,7,1,3,5,7,9,11,13,15,1]. 
+(ii)Compute the value of J(10000). 
+(iii) Can you explain why this is so much faster than our recursive procedure to compute the n-th Fibonacci number?
+J:=proc(n)
+local i, even, odd, Sol;
+if n=1 then
+  return n;
+end if;
+even:=0;
+odd:=0;
+for i from 1 to n do
+  if type(i, even)=true then
+    even:=(2*(i/2))-1;
+    Sol:=even;
+  else 
+    odd:=(2*((i-1)/2))+1;
+    Sol:=odd
+  end if;
+end do;
+ even; odd;
+end proc:
+J(1); J(3);
+                               1
+
+                               3
+
+Problem 2. 
+
+Write a procedure using the variable args that will take an unspecified finite number of numbers, delete the smallest and the largest, and return the average of the rest as a floating point number. If there are fewer than 3 arguments have an error message say: "There are not enough arguments. There should be at least three." 
+
+You should have no input parameters in the definition of the procedure. You may write it directly or you may use the Maple command sort as a part of your program. Do ?sort to see how sort works. Test your procedure with each of the following argument sequences:  
+
+   50,40,40, 40, 40, 10
+
+   1,2
+
+   seq(100 - i, i = 1..100)
+
+   seq(modp(n,111), n=1..1000).
+probtwo:=proc()
+  local i, L, A, SUM;
+  L:=sort([args]):
+  SUM:=0;
+  for i from 2 to nargs-1 do
+    SUM:=SUM+L[i];
+  end do;
+  return evalf(SUM/(nargs-2));
+end proc:
+probtwo(50, 40, 40, 40, 40, 22, 37, 1002, 25, 10);
+                          36.75000000
+
+Problem 3.
+
+The expression 
+                             "X^n"
+
+, for an interger power n and any 
+                              "X"
+
+, can be computed using the following formulae, which represent a negative power in terms of a positive power (-n), and a positive power in terms of a smaller non-negative power (either n/2 ot n-1), and use only multiplication and division: 
+    
+                           "X^n = 1"
+
+/
+                            "X^(-n)"
+
+               if n < 0
+   
+                           "X^n = Id"
+
+                           if n = 0
+   
+                        "X^n = X^(n/2)"
+
+
+                           "X^(n/2)"
+
+          if n is even
+    
+                           "X^n = X"
+
+
+                          "X^(n - 1)"
+
+           if n is odd.
+These formulae lead to an efficient recursive algorithm for computing integer powers using the minimal number of multiplications. 
+
+(a) Write a procedure MatPow(X,n::integer) to implement this algorithm for computing powers of matrices. Test MatPow(<<1|2>,<3|4>>,12) and MatPow(<<1|2>,<3|4>>,-12).
+
+(b) Write a procedure PolyPow(X,n::integer) to implement this algorithm for computing powers of numbers and polynomials. Your procedure needs to exapnd each product of polynomials in order to be effective. Test PolyPow(123,12), PolyPow(123,-12), PolyPow(x^2+1,12) and PolyPow(x^2+1,-12). 
+
+Problem 4.  
+
+Happy numbers are positive integers which end up at 1 under iteration of the "sum of squares of digits map". That is, if one defines f(x) to be the sum of the squares of the decimal digits of  the positive integer x, then  x  is happy if for some positive integer n we have (f@@n)(x) = 1.  
+
+For example, 
+
+f(7) = 7^2=49,  
+f(49) = 4^2+9^2=97,  
+f(97) = 9^2+7^2=130,  
+f(130) = 1^2+3^2+0^2 = 10,
+f(10) = 1^2+0^2 = 1. 
+
+So 7 is happy.
+
+The first few happy numbers are 
+
+1,7,10,13,19,23,28,31,32,44,49,68,70,79,82,86,91,94,97,100. 
+
+Write a  procedure that will declare a positive integer  x to be happy (i.e., returns true) if the n-th iterate of f starting with x gives 1 for some 
+                           "n <= 20"
+
+ --else returns false. Find the first 50 such happy numbers. Print them out in a sequence. 
+
+Hints:  Note that convert(x,base,10) will give you the decimal digits of x in a list. It should help if you first write a procedure to compute f(x) for any positive integer x. 
+
+Problem 5. 
+
+Show that if you increase the upper bound for n in Problem 4  from 20 to a higher value you will not obtain any additional happy numbers less than 320. This also implies that the previously computed 50 happy numbers are the first 50 happy numbers, indeed. 
+
+ Hints: Show that if in the sequence 
+
+             n, f(n), (f@@2)(n), . . ., (f@@20)(n)
+
+a 4 is reached before a 1 is reached then a 1 will never be reached, so the number n will not be happy. What happens to the sequence once 4 is reached? Look at some examples. Then show that in 20 iterations a 1 or a 4 is reached for n less than 320.

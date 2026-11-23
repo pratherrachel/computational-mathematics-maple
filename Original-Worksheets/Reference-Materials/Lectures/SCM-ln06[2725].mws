@@ -1,0 +1,1443 @@
+{VERSION 6 0 "Windows 10" "6.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal260" -1 206 1
+ {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 
+0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 207 1 {CSTYLE "" -1 -1
+ "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2
+ 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 208 1 {CSTYLE "" -1 -1 "Cou
+rier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 
+0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple \+
+Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Normal259" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 1 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Nor
+mal258" -1 210 1 {CSTYLE "" -1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal257" -1 211 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2
+ 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 
+1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 
+12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Title256" -1 212 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 
+2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Author" -1 
+19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 
+0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 
+128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 200 "Times" 1 
+12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Code" -1 201 "Courier New
+" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "
+Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "T
+imes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Co
+urier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Output Labels" -1 
+29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" 
+-1 44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" 
+-1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic B
+old" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" 
+-1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Labe
+l" -1 202 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink
+" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Maple I
+nput257" -1 203 "Courier" 1 12 255 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0
+ 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Math Italic Small" -1 204 "Times" 1 1 0 0 0 1 1 2 2 2 
+2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 
+2 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 205 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 
+0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Courier" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Emphasis" -1 206 "Times" 1 12 
+128 0 128 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "T
+imes" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Time
+s" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times
+" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 207
+ "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Sma
+ll204" -1 208 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Mat
+h Italic Small203" -1 209 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Text" -1 210 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Maple Input Placeholder" -1 211 "Courier New" 1 12 200 0 200 
+1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 
+0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small204208" -1 212
+ "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 
+"Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Couri
+er" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Tim
+es" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 213 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold"
+ -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" 
+-1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 
+19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Heading" 
+-1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1
+ 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Outp
+ut" -1 214 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "He
+lp Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "H
+elp Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Caption Reference" -1 215 "Times" 1 12 0 0 0 1 2 1 2 
+2 2 2 0 0 0 1 }{CSTYLE "" -1 216 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 
+0 1 }{CSTYLE "" -1 217 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 218 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 219 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 220 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 221 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 222 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 223 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 224 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 225 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 226 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 227 "T
+imes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 228 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 229 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 230 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 231 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 232 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 233 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 234 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 235 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 236 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 237 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 238 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 239 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 240 "Times" 1 12 0 0 0 1 2 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 241 "T
+imes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 242 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 243 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 244 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 245 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 246 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 247 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 248 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 249 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 250 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 251 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 252 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 253 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 254 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 255 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 256 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 257 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 258 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 259 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 260 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 261 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 262 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 263 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 264 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 265 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 266 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 267 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 268 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 269 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 270 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 271 "Times" 1 12 0 0 0 1 2
+ 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 272 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 273 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 274 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 275 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 276 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 277 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 278 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 279 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 280 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 281 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 282 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 283 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 284 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 285 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 286 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 287 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 288 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 289 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 290 "T
+imes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 291 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 292 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 293 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 294 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 295 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 296 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 297 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 298 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 299 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 300 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 301 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 302 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 303 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 304 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 305 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 306 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 307 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 308 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 309 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 310 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 311 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 312 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 313 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 314 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 315 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 316 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 317 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 318 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 319 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 320 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 321 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 322 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 323 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 324 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 325 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 326 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 327 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 328 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 329 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 330 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 331 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 332 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 333 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 334 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 335 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 336 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 337 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 338 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 339 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 340 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 341 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 342 "Times" 1 12 0 0 0 1 2 2 1 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 343 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 344 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 345 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 346 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 347 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 348 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 349 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 350 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 351 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 352 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 353 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 354 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 355 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 356 "Times" 1 12 0 0 0 1 2 2 1 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 357 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 358 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 359 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 360 "T
+imes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 361 "Times" 1 12
+ 0 0 0 1 2 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 362 "Times" 1 12 0 0 0 1 2
+ 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 363 "Times" 1 12 0 0 0 1 2 1 1 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 364 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 365 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 366 "Times" 1 12 0 0 0 1 2 1 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 367 "T
+imes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 368 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 369 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 370 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 371 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 372 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 373 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 374 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 375 "Times" 1 12
+ 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 376 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 377 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 378 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 379 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 380 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 381 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 382 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 383 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 384 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 385 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 386 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 387 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 388 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 389 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 390 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 391 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 392 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 393 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 394 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 395 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 396 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 397 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 398 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 399 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 400 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 401 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 402 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 403 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 404 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 405 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 406 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 407 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 408 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 409 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 410 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 411 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 212 "" 0 "" {TEXT 412 37 "Lecture 6 Procedures a
+nd 3x+1 Problem" }}}{SECT 0 {PARA 3 "" 0 "" {TEXT 413 33 "The general \+
+syntax of a procedure" }}{EXCHG {PARA 0 "" 0 "" {TEXT 414 48 "The gene
+ral syntax of a procedure is as follows:" }}{PARA 0 "" 0 "" {TEXT 414 
+0 "" }}}{PARA 0 "" 0 "" {TEXT 216 4 "name" }{TEXT 414 2 ":=" }{TEXT 
+217 4 "proc" }{TEXT 414 17 "(P1, P2, ..., Pn)" }}{PARA 0 "" 0 "" {TEXT
+ 414 3 "   " }{TEXT 218 5 "local" }{TEXT 414 19 " L1, L2, ..., Lu; \n"
+ }{TEXT 414 3 "   " }{TEXT 219 6 "global" }{TEXT 414 19 " G1, G2, ...,
+ Gv; \n" }{TEXT 414 3 "   " }{TEXT 220 7 "options" }{TEXT 414 19 " O1,
+ O2, ..., Ow; \n" }{TEXT 414 3 "   " }{TEXT 221 11 "description" }
+{TEXT 414 94 " \"something here to describe the procedure\" (or `somet
+hing here to describe the procedure`); \n" }{TEXT 414 11 "       S1;\n
+" }{TEXT 414 11 "       S2;\n" }{TEXT 414 10 "      ----" }}{PARA 0 ""
+ 0 "" {TEXT 414 12 "       Sm; \n" }{TEXT 222 8 "end proc" }{TEXT 414 
+1 ";" }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 34 
+"In the above:                    \n" }{TEXT 414 1 "\n" }{TEXT 223 4 "
+name" }{TEXT 414 29 " is the name of the procedure" }}{PARA 0 "" 0 "" 
+{TEXT 414 1 " " }}{PARA 0 "" 0 "" {TEXT 414 33 "P1, P2, ..., Pn is a s
+equence of " }{TEXT 224 9 "arguments" }{TEXT 414 6 " (aka " }{TEXT 
+225 10 "parameters" }{TEXT 414 71 ") that represent the input to the p
+rocedure. As we shall see later the " }{TEXT 226 20 "type of a paramet
+er." }{TEXT 414 3 " P " }{TEXT 227 69 "may be declared by replacing a \+
+parameter by an expression of the form" }{TEXT 414 2 " \n" }{TEXT 414 
+1 "\n" }{TEXT 414 16 "             P::" }{TEXT 228 4 "type" }{TEXT 
+414 3 ", \n" }{TEXT 414 1 "\n" }{TEXT 414 28 "for example, we could ha
+ve \n" }{TEXT 414 1 "\n" }{TEXT 414 12 "        P1::" }{TEXT 229 7 "in
+teger" }{TEXT 414 6 ", P2::" }{TEXT 230 6 "matrix" }{TEXT 414 6 ", P3:
+:" }{TEXT 231 7 "numeric" }{TEXT 414 7 ", etc.\n" }}{PARA 0 "" 0 "" 
+{TEXT 414 187 "This means, for example,  that the parameter P1 must be
+ an integer, if it is not you will get a warning message when you atte
+mpt to use the procedure. Examples below will make this clear." }}
+{PARA 0 "" 0 "" {TEXT 414 1 "\n" }{TEXT 414 40 "L1, L2, ..., Lu repres
+ent a sequence of " }{TEXT 232 5 "local" }{TEXT 414 12 " variables.\n"
+ }{TEXT 414 1 "\n" }{TEXT 414 40 "G1, G2, ..., Gv represent a sequence
+ of " }{TEXT 233 6 "global" }{TEXT 414 12 " variables.\n" }{TEXT 414 
+1 "\n" }{TEXT 414 42 "O1, O2, ..., Ow represent options such as " }
+{TEXT 234 6 "trace " }{TEXT 414 3 "and" }{TEXT 235 10 " remember." }
+{TEXT 414 32 "   We will discuss these below.\n" }}{PARA 0 "" 0 "" 
+{TEXT 414 6 "After " }{TEXT 236 11 "description" }{TEXT 414 107 " you \+
+may write anything enclosed in \"   \". This is to help document what \+
+the purpose of the procedure is. \n" }{TEXT 414 1 "\n" }{TEXT 414 41 "
+S1; S2; ... , Sm represent a sequence of " }{TEXT 237 10 "statements" 
+}{TEXT 414 67 " which tell the procedure what to do. These may or may \+
+not contain " }{TEXT 238 6 "return" }{TEXT 414 56 " statements which p
+rovide the output of the procedure. \n" }{TEXT 414 1 "\n" }{TEXT 239 
+68 "Note that the last thing to be computed is returned unless previou
+s " }{TEXT 240 6 "return" }{TEXT 241 106 " statements are executed. So
+ if the output is computed on the last line before end; then that is r
+eturned." }{TEXT 414 1 "\n" }{TEXT 414 1 "\n" }{TEXT 414 67 "As we hav
+e seen a procedure need not contain all of these elements." }}{PARA 0 
+"" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 22 "For more detail
+s see ?" }{TEXT 242 9 "procedure" }{TEXT 414 4 ",  ?" }{TEXT 243 7 "op
+tions" }{TEXT 414 4 ",  ?" }{TEXT 244 10 "parameters" }{TEXT 414 6 ", \+
+etc." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 3
+ "" 0 "" {TEXT 413 50 "Example of a procedure (member with error warni
+ng)" }}{EXCHG {PARA 0 "" 0 "" {TEXT 414 47 "We have seen that Maple ha
+s a built-in program " }{TEXT 245 7 "member " }{TEXT 414 104 "to test \+
+whether or not x is an element of a list or set. Here we construct suc
+h a procedure and call it " }{TEXT 246 6 "Member" }{TEXT 414 41 " to d
+istinguish it from Maple's built-in " }{TEXT 247 6 "member" }{TEXT 
+414 12 ". Note that " }{TEXT 248 10 "x::integer" }{TEXT 414 41 " decla
+res that x must be an integer, and " }{TEXT 249 7 "L::list" }{TEXT 
+414 32 " declares that L must be a list." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "Member:=proc(x::integer, L::list)\n" }{MPLTEXT 1 0 
+11 "  local i;\n" }{MPLTEXT 1 0 91 "  description \"this procedure ret
+urns true if x is an integer, L is a list and x is in L\";\n" }
+{MPLTEXT 1 0 29 "  for i from 1 to nops(L) do\n" }{MPLTEXT 1 0 42 "   \+
+ if x = L[i] then return true; end if;\n" }{MPLTEXT 1 0 10 "  end do;
+\n" }{MPLTEXT 1 0 9 "  false;\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 26 "Now lets see how it works." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "Member(5,[1,2,3]);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "I&falseG%*protectedG" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 12 "Member(5,5);" }}{PARA 207 "" 1 "" {TEXT 415 0 "" 
+}{HYPERLNK 415 "Error, invalid input: Member expects its 2nd argument,
+ L, to be of type list, but received 5" 4 "http://www.maplesoft.com/su
+pport/help/errors/view.aspx?path=Error,%20invalid%20input%3A%20Member%
+20expects%20its%202nd%20argument,%20L,%20to%20be%20of%20type%20list,%2
+0but%20received%205" "" }{TEXT 415 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "Member(5,[1,2,3,4,5]);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "I%trueG%*protectedG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "
+Member(5, \{1,2,3,4,5\});" }}{PARA 207 "" 1 "" {TEXT 415 0 "" }
+{HYPERLNK 415 "Error, invalid input: Member expects its 2nd argument, \+
+L, to be of type list, but received \{1, 2, 3, 4, 5\}" 4 "http://www.m
+aplesoft.com/support/help/errors/view.aspx?path=Error,%20invalid%20inp
+ut%3A%20Member%20expects%20its%202nd%20argument,%20L,%20to%20be%20of%2
+0type%20list,%20but%20received%20%7B1,%202,%203,%204,%205%7D" "" }
+{TEXT 415 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "Member(2.2
+,[2.3,2.2]);" }}{PARA 207 "" 1 "" {TEXT 415 0 "" }{HYPERLNK 415 "Error
+, invalid input: Member expects its 1st argument, x, to be of type int
+eger, but received 2.2" 4 "http://www.maplesoft.com/support/help/error
+s/view.aspx?path=Error,%20invalid%20input%3A%20Member%20expects%20its%
+201st%20argument,%20x,%20to%20be%20of%20type%20integer,%20but%20receiv
+ed%202.2" "" }{TEXT 415 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 126 "
+We can correct this by changing Member as follows.  This time we leave
+ off the type checking. We do type checking another way:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 18 "Member:=proc(x,Y)\n" }{MPLTEXT 1 0 11 "  local i;\n
+" }{MPLTEXT 1 0 96 "  description \"this procedure returns true if x i
+s anything, Y is a set or list and x is in Y\";\n" }{MPLTEXT 1 0 45 " \+
+ if not(type(Y, set) or type(Y,list)) then \n" }{MPLTEXT 1 0 57 "    e
+rror \"the second argument must be a set or a list\";\n" }{MPLTEXT 1 
+0 10 "  end if;\n" }{MPLTEXT 1 0 29 "  for i from 1 to nops(Y) do\n" }
+{MPLTEXT 1 0 42 "    if x = Y[i] then return true; end if;\n" }
+{MPLTEXT 1 0 10 "  end do;\n" }{MPLTEXT 1 0 9 "  false;\n" }{MPLTEXT 
+1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "Member(
+2.2, \{1,2,z,sqrt(2), 2.2\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "I%trueG
+%*protectedG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "A:=matrix([
+[1,2],[3,4]]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I%mrowG6#/I+modulenam
+eG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q\"AF'/%'italicGQ%trueF'/%,
+mathvariantGQ'italicF'-I#moGF$6-Q+~&Assign;~F'/F3Q'normalF'/%&fenceGQ&
+falseF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.mov
+ablelimitsGF=/%'accentGF=/%'lspaceGQ&0.0emF'/%'rspaceGFL-I(mfencedGF$6
+&-F#6#-I'mtableGF$66-I$mtrGF$6'-I$mtdGF$6(-I#mnGF$6$Q\"1F'F9/%)rowalig
+nGQ!F'/%,columnalignGF]o/%+groupalignGF]o/%(rowspanGFjn/%+columnspanGF
+jn-Fen6(-Fhn6$Q\"2F'F9F[oF^oF`oFboFdoF[oF^oF`o-FX6'-Fen6(-Fhn6$Q\"3F'F
+9F[oF^oF`oFboFdo-Fen6(-Fhn6$Q\"4F'F9F[oF^oF`oFboFdoF[oF^oF`o/%&alignGQ
+%axisF'/F\\oQ)baselineF'/F_oQ&rightF'/FaoQ'|frleft|hrF'/%/alignmentsco
+peGF1/%,columnwidthGQ%autoF'/%&widthGFdq/%+rowspacingGQ&1.0exF'/%.colu
+mnspacingGQ&0.8emF'/%)rowlinesGQ%noneF'/%,columnlinesGF_r/%&frameGF_r/
+%-framespacingGQ,0.4em~0.5exF'/%*equalrowsGF=/%-equalcolumnsGF=/%-disp
+laystyleGF=/%%sideGF]q/%0minlabelspacingGF\\rF9/%%openGQ\"[F'/%&closeG
+Q\"]F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "Member(1,A);" }}
+{PARA 207 "" 1 "" {TEXT 415 0 "" }{HYPERLNK 415 "Error, (in Member) th
+e second argument must be a set or a list" 4 "http://www.maplesoft.com
+/support/help/errors/view.aspx?path=Error,%20(in%20Member)%20the%20sec
+ond%20argument%20must%20be%20a%20set%20or%20a%20list" "" }{TEXT 415 0 
+"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 59 "Alternative we could have w
+ritten the procedure as follows:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 40 "Member:=proc(x::anything,Y::\{set,list\})\n" }{MPLTEXT 1 0 
+11 "  local i;\n" }{MPLTEXT 1 0 96 "  description \"this procedure ret
+urns true if x is anything, Y is a set or list and x is in Y\";\n" }
+{MPLTEXT 1 0 29 "  for i from 1 to nops(Y) do\n" }{MPLTEXT 1 0 42 "   \+
+ if x = Y[i] then return true; end if;\n" }{MPLTEXT 1 0 10 "  end do;
+\n" }{MPLTEXT 1 0 9 "  false;\n" }{MPLTEXT 1 0 9 "end proc:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "Member(2,\{1,2,3\});" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "I%trueG%*protectedG" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 18 "Member(2,[1,2,3]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "I%trueG%*protectedG" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 18 "Member(2,2*x^3+3);" }}{PARA 207 "" 1 "" {TEXT 415 0 "" }
+{HYPERLNK 415 "Error, invalid input: Member expects its 2nd argument, \+
+Y, to be of type \{list, set\}, but received 2*x^3+3" 4 "http://www.ma
+plesoft.com/support/help/errors/view.aspx?path=Error,%20invalid%20inpu
+t%3A%20Member%20expects%20its%202nd%20argument,%20Y,%20to%20be%20of%20
+type%20%7Blist,%20set%7D,%20but%20received%202*x%5E3+3" "" }{TEXT 415 
+0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 106 "Note Well: You don't hav
+e to construct your own member procedure. You may use the Maple builti
+n procedure " }{TEXT 250 7 "member " }{TEXT 414 38 "or for more genera
+l uses the procedure" }{TEXT 251 5 " has." }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 413 41 "Recursive
+ procedures: (Fibonacci numbers)" }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 2 "A " }{TEXT 252 9 "recursive" }
+{TEXT 414 48 " procedure is a procedure which \"calls itself\". " }
+{TEXT 253 85 "This means that the name of the procedure is used in the
+ definition of the procedure." }{TEXT 414 64 "  In this section we giv
+e examples of such. First a definition. " }}{PARA 0 "" 0 "" {TEXT 414 
+0 "" }}{PARA 0 "" 0 "" {TEXT 414 4 "The " }{TEXT 254 17 "Fibonacci num
+bers" }{TEXT 414 184 ":  The Fibonacci numbers form a sequence 0, 1, 1
+, 2, 3, 5,  8, 13, ...  It starts with 0, 1 and thereafter the n-th te
+rm is the sum of the (n-2)-nd and (n-1)-st terms in the sequence. " }}
+{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 136 "We wil
+l show several ways to produce Fibonacci numbers. Each procedure will \+
+give the n-th Fibonacci number. We call the first procedure " }{TEXT 
+255 4 "fib1" }{TEXT 414 12 ". Note that " }{TEXT 256 4 "fib1" }{TEXT 
+414 36 " is used twice in the definition of " }{TEXT 257 4 "fib1" }
+{TEXT 414 2 ". " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 9 "restart;\n" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "fib1:=proc(n)\n" }{MPLTEXT 1 0 27 " if n = 0 or n = 1
+ then n;\n" }{MPLTEXT 1 0 33 "   else fib1(n-2) + fib1(n-1);  \n" }
+{MPLTEXT 1 0 9 " end if;\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "fib1(2);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "fib1(
+3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"#" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 21 "seq(fib1(i),i=0..20);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "67\"\"!\"\"\"F$\"\"#\"\"$\"\"&\"\")\"#8\"#@\"#M\"#b\"#*)\"$W\"\"$L
+#\"$x$\"$5'\"$()*\"%(f\"\"%%e#\"%\"=%\"%ln" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 24 "Note from n = 2 onward, " }{TEXT 258 4 "fib1" }{TEXT 
+414 16 "(n) is equal to " }{TEXT 259 4 "fib1" }{TEXT 414 8 "(n-2) + " 
+}{TEXT 260 3 "fib" }{TEXT 414 0 "" }{TEXT 261 1 "1" }{TEXT 414 28 "(n-
+1). Note that to compute " }{TEXT 262 4 "fib1" }{TEXT 414 6 "(20), " }
+{TEXT 263 4 "fib1" }{TEXT 414 20 " must first compute " }{TEXT 264 4 "
+fib1" }{TEXT 414 9 "(19) and " }{TEXT 265 4 "fib1" }{TEXT 414 52 "(18)
+,  but to compute each of these it must compute " }{TEXT 266 4 "fib1" 
+}{TEXT 414 9 "(18) and " }{TEXT 267 4 "fib1" }{TEXT 414 9 "(17) and " 
+}{TEXT 268 4 "fib1" }{TEXT 414 9 "(17) and " }{TEXT 269 4 "fib1" }
+{TEXT 414 54 "(16), and so on. This takes a lot of time and storage." 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 14 "By putting in " }{TEXT 270 15 "option remember" }{TEXT 
+414 30 ", as we now do, the procedure " }{TEXT 271 9 "remembers" }
+{TEXT 414 66 " the values already computed -- it puts them in a table,
+ called a " }{TEXT 272 14 "remember table" }{TEXT 414 140 "-- and does
+ not have to recompute them. The only problem with this is it sometime
+s uses a lot of memory to store the computed values in the " }{TEXT 
+273 15 "remember table." }{TEXT 414 20 " We illustrate with " }{TEXT 
+274 4 "fib2" }{TEXT 414 2 ":\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 14 "fib2:=proc(n)\n" }{MPLTEXT 1 0 19 "  option remember:\n" }
+{MPLTEXT 1 0 29 "  if n = 0 or n = 1 then n; \n" }{MPLTEXT 1 0 33 "   \+
+ else fib2(n-2) + fib2(n-1); \n" }{MPLTEXT 1 0 10 "  end if;\n" }
+{MPLTEXT 1 0 10 "end proc:\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 275 28 "
+Comparison of running times." }{TEXT 414 11 " Note that " }{TEXT 276 
+6 "time()" }{TEXT 414 188 "; gives the  total CPU time used since the \+
+start of the Maple session your computer in seconds. So the following \+
+method gives the time used for the given computation. Note how much fa
+ster " }{TEXT 277 4 "fib2" }{TEXT 414 4 " is." }}{PARA 0 "" 0 "" {TEXT
+ 414 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "starttime:=time
+():\n" }{MPLTEXT 1 0 12 "  fib1(25);\n" }{MPLTEXT 1 0 31 "elapsedtime:
+=time()-starttime;\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"&D](" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ">I,elapsedtimeG6\"$\"$D\"!\"$" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "starttime:=time():\n" }{MPLTEXT 1 
+0 12 "  fib2(25);\n" }{MPLTEXT 1 0 31 "elapsedtime:=time()-starttime;
+\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"&D](" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I,elapsedtimeG6\"$\"\"!F&" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 65 " Here's how we find the values stored in the remember ta
+ble. For " }{TEXT 278 4 "fib1" }{TEXT 414 31 " there is no remember ta
+ble:   " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "op(4,eval(fib1))
+;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 4 "But " }{TEXT 279 4 "fib2" }
+{TEXT 414 46 " has a large remember table after calculating " }{TEXT 
+280 8 "fib2(25)" }{TEXT 414 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 19 "op(4,eval(fib2));  " }}{PARA 11 "" 1 "" {XPPMATH 20 "KI&TABLE
+G%*protectedG6#7</\"\"!F(/\"\"\"F*/\"\"#F*/\"\"$F,/\"\"&F0/\"\"%F./\"
+\"(\"#8/\"\"'\"\")/\"#5\"#b/\"#6\"#*)/F8\"#@/\"\"*\"#M/\"#:\"$5'/\"#9
+\"$x$/F5\"$L#/\"#7\"$W\"/F@\"&Y4\"/\"#?\"%ln/\"#B\"&d'G/\"#A\"&6x\"/\"
+#;\"$()*/\"#<\"%(f\"/\"#=\"%%e#/\"#>\"%\"=%/\"#C\"&oj%/\"#D\"&D](Q(ppr
+int06\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 21 "Let's try to compute 
+" }{TEXT 281 10 "fib2(4000)" }{TEXT 414 58 ". I suppress the output si
+nce it is a rather large number." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 19 "starttime:=time():\n" }{MPLTEXT 1 0 12 "fib2(4000):\n" }
+{MPLTEXT 1 0 30 "elapsedtime:=time()-starttime;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I,elapsedtimeG6\"$\"\"!F&" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 17 "Now the value of " }{TEXT 282 10 "fib2(4000)" }{TEXT 
+414 95 " is in the remember table so it doesn't have to be recomputed.
+ Thus it is returned immediately:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "starttime:=time():\n" }{MPLTEXT 1 0 12 "fib2(4000):\n
+" }{MPLTEXT 1 0 30 "elapsedtime:=time()-starttime;" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 ">I,elapsedtimeG6\"$\"\"!F&" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 10 "Note that " }{TEXT 283 4 "fib2" }{TEXT 414 22 "(4000) is
+ quicker the " }{TEXT 284 6 "second" }{TEXT 414 50 " time you call it \+
+since it has already calculated " }{TEXT 285 4 "fib2" }{TEXT 414 35 "(
+4000) and just looks it up in its " }{TEXT 286 16 "remember table. " }
+{TEXT 414 88 "Such tables can clog up one's memory so to clear it out \+
+when no longer needed using the " }{TEXT 287 6 "forget" }{TEXT 414 20 
+" command as follows:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "fo
+rget(fib2);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 57 "See that the reme
+mber table for fib2 is really empty now:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 18 "op(4,eval(fib2));\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+414 276 "Recursive procedures can be written as non-recursive procedur
+es--although usually with more effort. For example,  here is a way to \+
+generate the Fibonacci numbers by a procedure which doesn't call itsel
+f. It is a little harder to understand, but requires much less memory \+
+than " }{TEXT 288 6 "fib2. " }{TEXT 414 9 "I call it" }{TEXT 289 7 " f
+ib3. " }{TEXT 290 50 "Read it carefully and try to see what it is doin
+g." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "fib3:=proc(n)\n" }
+{MPLTEXT 1 0 30 "  local minus1,minus2,temp,i;\n" }{MPLTEXT 1 0 26 "  \+
+if n = 0 or n = 1 then \n" }{MPLTEXT 1 0 15 "    return n; \n" }
+{MPLTEXT 1 0 10 "  end if;\n" }{MPLTEXT 1 0 13 "  minus2:=0;\n" }
+{MPLTEXT 1 0 13 "  minus1:=1:\n" }{MPLTEXT 1 0 23 "  for i from 2 to n
+ do\n" }{MPLTEXT 1 0 27 "    temp:=minus2 + minus1;\n" }{MPLTEXT 1 0 
+20 "    minus2:=minus1;\n" }{MPLTEXT 1 0 18 "    minus1:=temp;\n" }
+{MPLTEXT 1 0 10 "  end do;\n" }{MPLTEXT 1 0 8 "  temp;\n" }{MPLTEXT 1 
+0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "seq(fib3(
+i),i=0..20);" }}{PARA 11 "" 1 "" {XPPMATH 20 "67\"\"!\"\"\"F$\"\"#\"\"
+$\"\"&\"\")\"#8\"#@\"#M\"#b\"#*)\"$W\"\"$L#\"$x$\"$5'\"$()*\"%(f\"\"%%
+e#\"%\"=%\"%ln" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 37 "Compare the ti
+me it takes to compute " }{TEXT 291 10 "fib3(1000)" }{TEXT 414 35 " wi
+th the time it takes to compute " }{TEXT 292 8 "fib1(20)" }{TEXT 414 
+5 " and " }{TEXT 293 10 "fib2(1000)" }{TEXT 414 71 ": Notice which is \+
+the fastest.  Note that we don't dare try to compute " }{TEXT 294 10 "
+fib1(1000)" }{TEXT 414 23 " due to how slow it is." }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 19 "starttime:=time():\n" }{MPLTEXT 1 0 12 "fib
+3(1000);\n" }{MPLTEXT 1 0 32 "elapsedtime:=time() - starttime;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"\\xv)G#\\o;&zPhZ/P+;&G*\\'p*)HQz=Ll!4W
+'*Hkh6ZAL()RKi*o4_xMEK!3$fAfHp^Dz+%)zQS!*=0\\zTbl`*3H<[-/yrt^gYc-eiS]n
+F&)oNkXPpodlYV" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I,elapsedtimeG6\"$\"#
+;!\"$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "starttime:=time():
+\n" }{MPLTEXT 1 0 9 "fib1(0);\n" }{MPLTEXT 1 0 32 "elapsedtime:=time()
+ - starttime;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 
+"" {XPPMATH 20 ">I,elapsedtimeG6\"$\"\"!F&" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 19 "starttime:=time():\n" }{MPLTEXT 1 0 12 "fib2(1000);
+\n" }{MPLTEXT 1 0 32 "elapsedtime:=time() - starttime;" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "\"\\xv)G#\\o;&zPhZ/P+;&G*\\'p*)HQz=Ll!4W'*Hkh6ZAL()R
+Ki*o4_xMEK!3$fAfHp^Dz+%)zQS!*=0\\zTbl`*3H<[-/yrt^gYc-eiS]nF&)oNkXPpodl
+YV" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I,elapsedtimeG6\"$\"\"!F&" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 3 "" 0 ""
+ {TEXT 413 22 "Remember table for sin" }}{EXCHG {PARA 0 "" 0 "" {TEXT 
+414 14 "The procedure " }{TEXT 295 3 "sin" }{TEXT 414 239 " will give \+
+slightly different output for Maple V and Maple 6,7, or 8 due to a cha
+nged remember table for sin.  In particular in Maple 6, 7, or 8 it doe
+s not contain the value for sin(Pi/12). But this value may be obtained
+ with the command " }{TEXT 296 27 "convert(sin(Pi/12),radical)" }{TEXT
+ 414 129 ";  We first look at the remember table for sin. Note that an
+y procedure may have a remember table not just a recursive procedure."
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "op(4,eval(sin));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "KI&CacheG6$%*protectedGI(_syslibG6\"6$\"
+$7&/.I*permanentGF'7+/\"\"!F//,$*&#\"\"\"\"\"#F4I#PiGF%F4F4F4/F6F//,$*
+&#F4\"\"$F4F6F4F4,$*&F3F4)F<F3F4F4/I)infinityGF%I*undefinedGF%/^#F4*&F
+DF4-I%sinhGF$6#F4F4/,$*&#F4\"\"%F4F6F4F4,$*&F3F4)F5F3F4F4/,$FA!\"\"FB/
+,$*&#F4\"\"'F4F6F4F4F3Q(pprint0F'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 98 "sin(0),sin(infinity), sin(I), sin(Pi/6), sin(-infinit
+y), sin(Pi/2), sin(Pi/4), sin(Pi), sin(Pi/3);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6+\"\"!I*undefinedG%*protectedG*&^#\"\"\"F(-I%sinhG6$F%I(
+_syslibG6\"6#F(F(#F(\"\"#F$F(,$*&F/F()F0F/F(F(F#,$*&F/F()\"\"$F/F(F(" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "sin(Pi/12);" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_syslibG6\"6#,$*&#\"\"\"\"#
+7F,I#PiGF%F,F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "convert(%
+,radical);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(#\"\"\"\"\"%F%)\"\"##F
+%F(F%,&*$)\"\"$F)F%F%F%!\"\"F%F%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 
+52 "But this doesn't work for all rational multiples of " }{XPPEDIT 18
+ 0 "Typesetting:-mrow(Typesetting:-mi(\"&pi;\", italic = \"false\", ma
+thvariant = \"normal\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI
+(_syslibGF'6#-I#miGF$6%Q%&pi;F'/%'italicGQ&falseF'/%,mathvariantGQ'nor
+malF'" }{TEXT 414 1 "." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "s
+in(Pi/17);" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I$sinG6$%*protectedGI(_sy
+slibG6\"6#,$*&#\"\"\"\"#<F,I#PiGF%F,F," }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "convert(%,radical);" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+-I$sinG6$%*protectedGI(_syslibG6\"6#,$*&#\"\"\"\"#<F,I#PiGF%F,F," }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 57 "We could add it to the remember t
+able for sin as follows:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 
+"sin(Pi/12) := sqrt(2)/4 *(sqrt(3) -1):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 11 "sin(Pi/12);" }{TEXT 414 0 "" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",$*(#\"\"\"\"\"%F%)\"\"##F%F(F%,&*$)\"\"$F)F%F%F%!\"\"F%F
+%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 52 "Note that this is now in th
+e remember table for sin." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+17 "op(4, eval(sin));" }}{PARA 11 "" 1 "" {XPPMATH 20 "KI&CacheG6$%*pr
+otectedGI(_syslibG6\"6%\"$7&/.I*temporaryGF'7$/,$*&#\"\"\"\"#<F2I#PiGF
+%F2F2-I$sinGF$6#F//,$*&#F2\"#7F2F4F2F2,$*(#F2\"\"%F2)\"\"##F2FBF2,&*$)
+\"\"$FCF2F2F2!\"\"F2F2/.I*permanentGF'7+/\"\"!FN/,$*&FCF2F4F2F2F2/F4FN
+/,$*&#F2FGF2F4F2F2,$*&FCF2FFF2F2/I)infinityGF%I*undefinedGF%/^#F2*&Fgn
+F2-I%sinhGF$6#F2F2/,$*&F?F2F4F2F2,$*&FCF2FAF2F2/,$FZFHFen/,$*&#F2\"\"'
+F2F4F2F2FCQ(pprint0F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }
+}}{PARA 0 "" 0 "" {TEXT 414 0 "" }}}{SECT 0 {PARA 3 "" 0 "" {TEXT 413 
+41 "Two more examples of recursive procedures" }}{EXCHG {PARA 0 "" 0 "
+" {TEXT 414 91 "Study carefully the procedures ADD and MUL defined in \+
+this section. The special identifier " }{TEXT 297 8 "procname" }{TEXT 
+414 119 " to make the recursive calls, which allows the name of the pr
+ocedure to be changed without changing the procedure body." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 38 "ADD:=proc(f::procedure, n::nonnegint)\n" }{MPLTEXT 
+1 0 19 "  option remember;\n" }{MPLTEXT 1 0 68 "  description `this co
+mputes the sum f(0) + f(1) + f(2) +...+f(n)`;\n" }{MPLTEXT 1 0 30 "  i
+f n = 0 then return f(0); \n" }{MPLTEXT 1 0 39 "    else return procna
+me(f,n-1)+f(n); \n" }{MPLTEXT 1 0 10 "  end if;\n" }{MPLTEXT 1 0 9 "en
+d proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "ADD(cos,4);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",,\"\"\"F#-I$cosG6$%*protectedGI(_syslib
+G6\"6#F#F#-F%6#\"\"#F#-F%6#\"\"$F#-F%6#\"\"%F#" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 12 "ADD(cos,-4);" }}{PARA 207 "" 1 "" {TEXT 415 0 "
+" }{HYPERLNK 415 "Error, invalid input: ADD expects its 2nd argument, \+
+n, to be of type nonnegint, but received -4" 4 "http://www.maplesoft.c
+om/support/help/errors/view.aspx?path=Error,%20invalid%20input%3A%20AD
+D%20expects%20its%202nd%20argument,%20n,%20to%20be%20of%20type%20nonne
+gint,%20but%20received%20-4" "" }{TEXT 415 0 "" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 38 "MUL:=proc(f::procedure, n::nonnegint)\n" }
+{MPLTEXT 1 0 19 "  option remember;\n" }{MPLTEXT 1 0 67 "  description
+ `this computes the product f(0)*f(1)*f(2)*...*f(n)`;\n" }{MPLTEXT 1 
+0 30 "  if n = 0 then return f(0); \n" }{MPLTEXT 1 0 39 "    else retu
+rn procname(f,n-1)*f(n); \n" }{MPLTEXT 1 0 11 "  end if; \n" }{MPLTEXT
+ 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "MUL(ex
+p,4);" }}{PARA 11 "" 1 "" {XPPMATH 20 "**-I$expG6$%*protectedGI(_sysli
+bG6\"6#\"\"\"F*-F$6#\"\"#F*-F$6#\"\"$F*-F$6#\"\"%F*" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 9 "MUL(g,5);" }}{PARA 207 "" 1 "" {TEXT 415 0 
+"" }{HYPERLNK 415 "Error, invalid input: MUL expects its 1st argument,
+ f, to be of type procedure, but received g" 4 "http://www.maplesoft.c
+om/support/help/errors/view.aspx?path=Error,%20invalid%20input%3A%20MU
+L%20expects%20its%201st%20argument,%20f,%20to%20be%20of%20type%20proce
+dure,%20but%20received%20g" "" }{TEXT 415 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 9 "ADD(g,5);" }}{PARA 207 "" 1 "" {TEXT 415 0 "" }
+{HYPERLNK 415 "Error, invalid input: ADD expects its 1st argument, f, \+
+to be of type procedure, but received g" 4 "http://www.maplesoft.com/s
+upport/help/errors/view.aspx?path=Error,%20invalid%20input%3A%20ADD%20
+expects%20its%201st%20argument,%20f,%20to%20be%20of%20type%20procedure
+,%20but%20received%20g" "" }{TEXT 415 0 "" }}}{EXCHG {PARA 209 "" 0 ""
+ {TEXT 416 77 "We can make Maple think g is a procedure if we execute \+
+the following command:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "g(
+-1):=2;" }}{PARA 11 "" 1 "" {XPPMATH 20 ">-I\"gG6\"6#!\"\"\"\"#" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 112 "Note that this not only makes g \+
+into a procedure, but sets up a remember table for it containing the e
+ntry -1=2." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "op(4,eval(g))
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "KI&TABLEG%*protectedG6#7#/!\"\"\"\"
+#Q(pprint06\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "MUL(g,5);" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "*.-I\"gG6\"6#\"\"!\"\"\"-F$6#F(F(-F$6#
+\"\"#F(-F$6#\"\"$F(-F$6#\"\"%F(-F$6#\"\"&F(" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 9 "ADD(g,5);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",.-I\"gG
+6\"6#\"\"!\"\"\"-F$6#F(F(-F$6#\"\"#F(-F$6#\"\"$F(-F$6#\"\"%F(-F$6#\"\"
+&F(" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 414 114 "Both procedures can also be written with a do lo
+op as we have seen before. Actually Maple has built-in procedures " }
+{TEXT 298 3 "sum" }{TEXT 414 2 ", " }{TEXT 299 3 "add" }{TEXT 414 2 ",
+ " }{TEXT 300 7 "product" }{TEXT 414 5 " and " }{TEXT 301 3 "mul" }
+{TEXT 414 178 " which do more or less what these procedures do (and ar
+e more efficiently) as we will discuss in the next lecture. These two \+
+procedures were just for the purpose of illustration." }}{PARA 0 "" 0 
+"" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 302 4 "NOTE" }{TEXT 414 34 "
+: Executing a command of the form " }{TEXT 303 11 "name(x):=y " }{TEXT
+ 414 5 "make " }{TEXT 304 4 "name" }{TEXT 414 58 " into a procedure wh
+ereas executing a command of the form " }{TEXT 305 10 "name[x]:=y" }
+{TEXT 414 7 " makes " }{TEXT 306 4 "name" }{TEXT 414 14 " into a table
+." }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 
+413 25 "Viewing maple source code" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 8 "restart:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 114 "For program
+mers, a tremendous benefit of Maple is its \"open-architecture\". You \+
+can access the source code to over " }{TEXT 206 3 "95%" }{TEXT 414 
+217 " of the math routines available.  This allows you to see what's g
+oing on and in some cases you may want to change procedures to make th
+em more suitable for your needs.   One way to view the code is to use \+
+the command " }{TEXT 307 8 "showstat" }{TEXT 414 95 " as follows. This
+ is also useful for debugging. Note that it numbers the lines of the p
+rogram. " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "showstat(rand);" }}
+{PARA 6 "" 1 "" {TEXT 417 1 "\n" }{TEXT 417 49 "rand := proc(r::\{posi
+nt, numeric .. numeric\}, $)\n" }{TEXT 417 25 "   1   if nargs = 0 the
+n\n" }{TEXT 417 59 "   2       RandomTools:-MersenneTwister:-GenerateI
+nteger()\n" }{TEXT 417 12 "       else\n" }{TEXT 417 15 "   3       tr
+y\n" }{TEXT 417 58 "   4           if type(r,('numeric') .. ('numeric'
+)) then\n" }{TEXT 417 43 "   5               if rhs(r) < lhs(r) then\n
+" }{TEXT 417 74 "   6                   error \"invalid range, end poi
+nts are out of order\"\n" }{TEXT 417 68 "                   elif not t
+ype(r,('integer') .. ('integer')) then\n" }{TEXT 417 105 "   7        \+
+           return () -> RandomTools:-Generate(float(('range') = r,('me
+thod') = ('uniform')))\n" }{TEXT 417 26 "                   end if\n" 
+}{TEXT 417 23 "               end if;\n" }{TEXT 417 80 "   8          \+
+ return RandomTools:-MersenneTwister:-NewGenerator(('range') = r)\n" }
+{TEXT 417 19 "           catch :\n" }{TEXT 417 21 "   9           erro
+r\n" }{TEXT 417 19 "           end try\n" }{TEXT 417 14 "       end if
+\n" }{TEXT 417 9 "end proc\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 1 "
+\n" }{TEXT 414 26 "Another way is to use the " }{TEXT 308 10 "interfac
+e " }{TEXT 414 37 "command as follows. First we execute:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "interface(verboseproc=2);" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "\"\"\"" }}}{PARA 0 "" 0 "" {TEXT 414 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 96 "Then we can view the code for var
+ious  procedures. For example, let's look at isprime. Applying " }
+{TEXT 309 5 "eval " }{TEXT 414 4 " or " }{TEXT 310 6 "print " }{TEXT 
+414 25 "returns the source code. " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+15 "print(isprime);" }}{PARA 11 "" 1 "" {XPPMATH 20 "`6\"I,_m101064908
+GF#6(I,ModuleApplyG6$I&:-234GQPC:\\Program~Files~(x86)\\Maple~2018\\li
+b\\maple.mlaF#/I'_localG%*protectedGI,_n102351020GF#I*cyclotestG6$I&:-
+235GF)/F+I,_n102351048GF#I(sumxtorG6$I&:-236GF)/F+I,_n101228980GF#I+Tr
+aceModQFG6$I&:-237GF)/F+I,_n102351076GF#I\"iG6$I&:-238GF)/F+I,_n101064
+928GF#I/special_primesG6$I&:-239GF)/F+I,_n104055076GF#" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 414 95 "You may find it difficult to copy and pa
+ste from the output above.  If so use  use the command " }{TEXT 311 
+22 "lprint(eval(isprime));" }{TEXT 414 88 " as follows. Then you shoul
+d be able to select, copy and paste into Maple input regions." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "lprint(eval(isprime));" }}
+{PARA 6 "" 1 "" {TEXT 417 11 "_m101064908" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 156 "Now selecting the first large number in the program, we
+ paste it in and factor it using ifactor. We see that it is the produc
+t of all primes from 2 to 100. " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 47 "ifactor(2305567963945518424753102147331756070);" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "*T-I!G6\"6#\"\"#\"\"\"-F$6#\"\"$F(-F$6#\"\"&F(-F$6#
+\"\"(F(-F$6#\"#6F(-F$6#\"#8F(-F$6#\"#<F(-F$6#\"#>F(-F$6#\"#BF(-F$6#\"#
+HF(-F$6#\"#JF(-F$6#\"#PF(-F$6#\"#TF(-F$6#\"#VF(-F$6#\"#ZF(-F$6#\"#`F(-
+F$6#\"#fF(-F$6#\"#hF(-F$6#\"#nF(-F$6#\"#rF(-F$6#\"#tF(-F$6#\"#zF(-F$6#
+\"#$)F(-F$6#\"#*)F(-F$6#\"#(*F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 
+46 "Notice that this procedure used the procedure " }{TEXT 312 4 "igcd
+" }{TEXT 414 44 " as well as other procedures. The procedure " }{TEXT 
+313 4 "igcd" }{TEXT 414 120 " is \"builtin\" and not available--as you
+ see if you try the following command. A few of the more basic command
+s are like " }{TEXT 314 4 "igcd" }{TEXT 414 44 " and the code is not a
+vailable to the user. " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "e
+val(igcd);" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6\"F#6#/I(builtinGF#I%ig
+cdG%*protectedGF#F#F#F#F#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+10 "eval(seq);" }}{PARA 11 "" 1 "" {XPPMATH 20 "f*6\"F#6#/I(builtinGF#
+I$seqG%*protectedGF#F#F#F#F#" }}}{PARA 0 "" 0 "" {TEXT 414 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 65 "When done looking at the source c
+ode it is a good idea to  reset " }{TEXT 315 11 "verboseproc" }{TEXT 
+414 29 " to the default output level." }}{PARA 0 "> " 0 "" {MPLTEXT 1 
+0 25 "interface(verboseproc=1);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"#
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 3 ""
+ 0 "" {TEXT 413 12 "Option trace" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 316 14 "option trace:
+ " }{TEXT 414 163 "This option causes maple to print out more details \+
+about the behavior of the procedure and may be useful during debugging
+. It seems to have the same effect as the " }{TEXT 317 14 "debug, unde
+bug" }{TEXT 414 5 " and " }{TEXT 318 5 "trace" }{TEXT 414 2 ", " }
+{TEXT 319 7 "untrace" }{TEXT 414 55 " command mentioned previously. He
+re's a simple example." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "t
+est:=proc(n)\n" }{MPLTEXT 1 0 13 "  local i,S;\n" }{MPLTEXT 1 0 16 "  \+
+option trace;\n" }{MPLTEXT 1 0 8 "  S:=0:\n" }{MPLTEXT 1 0 23 "  for i
+ from 1 to n do\n" }{MPLTEXT 1 0 34 "    if i > 2 then S:=S+i; end if;
+\n" }{MPLTEXT 1 0 10 "  end do;\n" }{MPLTEXT 1 0 5 "  S;\n" }{MPLTEXT 
+1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "test(6);
+" }}{PARA 9 "" 1 "" {TEXT 418 25 "\{--> enter test, args = 6" }}{PARA 
+11 "" 1 "" {XPPMATH 20 ">I\"SG6#/I'_localG%*protectedGI+_n72669020G6\"
+\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"SG6#/I'_localG%*protectedGI
++_n72669020G6\"\"\"$" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"SG6#/I'_loca
+lG%*protectedGI+_n72669020G6\"\"\"(" }}{PARA 11 "" 1 "" {XPPMATH 20 ">
+I\"SG6#/I'_localG%*protectedGI+_n72669020G6\"\"#7" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"SG6#/I'_localG%*protectedGI+_n72669020G6\"\"#=" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "\"#=" }}{PARA 9 "" 1 "" {TEXT 418 38 "<-
+- exit test (now at top level) = 18\}" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"\"#=" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 31 "Remove or comment out t
+he line " }{TEXT 320 12 "option trace" }{TEXT 414 56 "; and Re-enter t
+he procedure to get back in normal mode." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "test:=proc(n)\n" }{MPLTEXT 1 0 13 "  local i,S;\n" }
+{MPLTEXT 1 0 17 "  #option trace;\n" }{MPLTEXT 1 0 8 "  S:=0:\n" }
+{MPLTEXT 1 0 23 "  for i from 1 to n do\n" }{MPLTEXT 1 0 34 "    if i \+
+> 2 then S:=S+i; end if;\n" }{MPLTEXT 1 0 10 "  end do;\n" }{MPLTEXT 
+1 0 5 "  S;\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 8 "test(4);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"(" }}}}
+{SECT 0 {PARA 3 "" 0 "" {TEXT 413 15 " args and nargs" }}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+414 55 "The variables used as input for a procedure are called " }
+{TEXT 321 10 "parameters" }{TEXT 414 4 " or " }{TEXT 322 9 "arguments"
+ }{TEXT 414 56 ". For example, in the procedure whose definition begin
+s " }{TEXT 323 19 "f:=proc(A,s,t,n),  " }{TEXT 414 28 "A, s,t and n ar
+e called the " }{TEXT 324 9 "arguments" }{TEXT 414 4 " or " }{TEXT 
+325 10 "parameters" }{TEXT 414 45 " of the procedure. By using the spe
+cial name " }{TEXT 326 5 "args " }{TEXT 414 4 "and " }{TEXT 327 5 "nar
+gs" }{TEXT 414 65 " one need not declare any parameters when defining \+
+a procedure.  " }{TEXT 328 8 "args[1] " }{TEXT 414 23 "is the first ar
+gument, " }{TEXT 329 8 "args[2] " }{TEXT 414 56 "is the second argumen
+t, etc. The number of arguments is " }{TEXT 330 6 "nargs." }{TEXT 414 
+25 "  One advantage in using " }{TEXT 331 4 "args" }{TEXT 414 5 " and 
+" }{TEXT 332 5 "nargs" }{TEXT 414 88 " is that we don't have to specif
+y in advance the number of arguments. Here's an example:" }}{PARA 0 ""
+ 0 "" {TEXT 414 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 53 "In this p
+rocedure we use the builtin Maple procedure " }{TEXT 333 3 "add" }
+{TEXT 210 2 ".\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "Avg:=pr
+oc()\n" }{MPLTEXT 1 0 15 "  local i,A,N;\n" }{MPLTEXT 1 0 87 "  descri
+ption \"this computes the average of the arguments--all assumed to be \+
+numbers\";\n" }{MPLTEXT 1 0 21 "  if nargs = 0 then \n" }{MPLTEXT 1 0 
+46 "    error \"there are no numbers to average\"; \n" }{MPLTEXT 1 0 
+10 "  end if;\n" }{MPLTEXT 1 0 30 "  A:=add(args[i],i=1..nargs);\n" }
+{MPLTEXT 1 0 25 "  return evalf(A/nargs);\n" }{MPLTEXT 1 0 9 "end proc
+:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "Avg(1,2,1,2,1,2);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"+++++:!\"*" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 20 "Avg(10.8,2,3,3,4,5);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "$\"+LLLLY!\"*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "Avg();"
+ }}{PARA 207 "" 1 "" {TEXT 415 0 "" }{HYPERLNK 415 "Error, (in Avg) th
+ere are no numbers to average" 4 "http://www.maplesoft.com/support/hel
+p/errors/view.aspx?path=Error,%20(in%20Avg)%20there%20are%20no%20numbe
+rs%20to%20average" "" }{TEXT 415 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+414 123 "Next we show how to create a procedure to find the maximum of
+ a sequence of numbers. Actually Maple has a builtin function " }{TEXT
+ 334 3 "max" }{TEXT 414 94 " to do this, but it is useful to know how \+
+it is constructed for other purposes. Our procedure " }{TEXT 335 3 "Ma
+x" }{TEXT 414 27 " returns the largest entry " }{TEXT 336 3 "and" }
+{TEXT 414 95 " the index of the first occurrence of this entry. It doe
+s a little more than Maple's procedure " }{TEXT 337 4 "max " }{TEXT 
+414 28 "does, but it is not as fast." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "Max:=proc()\n" }{MPLTEXT 1 0 15 "  local M,w,i;\n" }
+{MPLTEXT 1 0 156 "  description `this procedure returns the list [M,w]
+ where M is the largest element in the input sequence and w is the ind
+ex of the first occurrence of M`;\n" }{MPLTEXT 1 0 14 "  M:=args[1];\n
+" }{MPLTEXT 1 0 8 "  w:=1;\n" }{MPLTEXT 1 0 27 "  for i from 2 to narg
+s do\n" }{MPLTEXT 1 0 42 "    if args[i] > M then M:=args[i]; w:=i;\n"
+ }{MPLTEXT 1 0 12 "    end if;\n" }{MPLTEXT 1 0 10 "  end do;\n" }
+{MPLTEXT 1 0 9 "  [M,w];\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "Max(10, 110 , 445, 78, 34);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "7$\"$X%\"\"$" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 413 10 "Iteratio
+n " }}{EXCHG {PARA 0 "" 0 "" {TEXT 414 32 "Given a function f : X -> Y
+ let " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(Typesetting
+:-mi(\"x\", italic = \"true\", mathvariant = \"italic\"), Typesetting:
+-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\")), subscriptshif
+t = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#
+-I%msubGF$6%-I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF
+'-F#6#-I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptshiftGF=" }{TEXT 414 
+29 " be any element of X. Define " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}
+{PARA 0 "" 0 "" {XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\")
+, Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"x\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn
+(\"1\", mathvariant = \"normal\")), subscriptshift = \"0\"), Typesetti
+ng:-mo(\":=\", mathvariant = \"normal\", fence = \"false\", separator \+
+= \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.2
+777778em\", rspace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-
+mi(\"f\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-m
+o(\"&ApplyFunction;\", font_style_name = \"CharacterStyle272\", mathva
+riant = \"normal\", fence = \"false\", separator = \"false\", stretchy
+ = \"false\", symmetric = \"false\", largeop = \"false\", movablelimit
+s = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0e
+m\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-msub(Typeset
+ting:-mi(\"x\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\")), subscript
+shift = \"0\")), mathvariant = \"normal\")), Typesetting:-mi(\"\")), T
+ypesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_s
+yslibGF'6%-I#miGF$6#Q!F'-F#6&-I%msubGF$6%-F,6%Q\"xF'/%'italicGQ%trueF'
+/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"1F'/F;Q'normalF'/%/subscrip
+tshiftGQ\"0F'-I#moGF$6-Q#:=F'FC/%&fenceGQ&falseF'/%*separatorGFN/%)str
+etchyGFN/%*symmetricGFN/%(largeopGFN/%.movablelimitsGFN/%'accentGFN/%'
+lspaceGQ,0.2777778emF'/%'rspaceGFgn-F#6%-F,6%Q\"fF'F7F:-FI6.Q0&ApplyFu
+nction;F'/%0font_style_nameGQ2CharacterStyle272F'FCFLFOFQFSFUFWFY/FfnQ
+&0.0emF'/FinFfo-I(mfencedGF$6$-F#6#-F26%F4-F#6#-F@6$FGFCFEFCF+F+" }
+{TEXT 414 4 ",   " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(
+\"\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"x\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesettin
+g:-mn(\"2\", mathvariant = \"normal\")), subscriptshift = \"0\"), Type
+setting:-mo(\":=\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mrow(Typesett
+ing:-mi(\"f\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mo(\"&ApplyFunction;\", font_style_name = \"CharacterStyle272\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-msub(T
+ypesetting:-mi(\"x\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\")), sub
+scriptshift = \"0\")), mathvariant = \"normal\")), Typesetting:-mi(\"
+\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesetti
+ngGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-I%msubGF$6%-F,6%Q\"xF'/%'italicGQ
+%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"2F'/F;Q'normalF'/%/s
+ubscriptshiftGQ\"0F'-I#moGF$6-Q#:=F'FC/%&fenceGQ&falseF'/%*separatorGF
+N/%)stretchyGFN/%*symmetricGFN/%(largeopGFN/%.movablelimitsGFN/%'accen
+tGFN/%'lspaceGQ,0.2777778emF'/%'rspaceGFgn-F#6%-F,6%Q\"fF'F7F:-FI6.Q0&
+ApplyFunction;F'/%0font_style_nameGQ2CharacterStyle272F'FCFLFOFQFSFUFW
+FY/FfnQ&0.0emF'/FinFfo-I(mfencedGF$6$-F#6#-F26%F4-F#6#-F@6$Q\"1F'FCFEF
+CF+F+" }{TEXT 414 3 ",  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesettin
+g:-mi(\"\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"x\"
+, italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Type
+setting:-mn(\"3\", mathvariant = \"normal\")), subscriptshift = \"0\")
+, Typesetting:-mo(\":=\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"false\", stretchy = \"false\", symmetric = \"false\", l
+argeop = \"false\", movablelimits = \"false\", accent = \"false\", lsp
+ace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mrow(Ty
+pesetting:-mi(\"f\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mo(\"&ApplyFunction;\", font_style_name = \"CharacterStyle27
+2\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-
+msub(Typesetting:-mi(\"x\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\"
+)), subscriptshift = \"0\")), mathvariant = \"normal\")), Typesetting:
+-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typ
+esettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-I%msubGF$6%-F,6%Q\"xF'/%'it
+alicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"3F'/F;Q'normal
+F'/%/subscriptshiftGQ\"0F'-I#moGF$6-Q#:=F'FC/%&fenceGQ&falseF'/%*separ
+atorGFN/%)stretchyGFN/%*symmetricGFN/%(largeopGFN/%.movablelimitsGFN/%
+'accentGFN/%'lspaceGQ,0.2777778emF'/%'rspaceGFgn-F#6%-F,6%Q\"fF'F7F:-F
+I6.Q0&ApplyFunction;F'/%0font_style_nameGQ2CharacterStyle272F'FCFLFOFQ
+FSFUFWFY/FfnQ&0.0emF'/FinFfo-I(mfencedGF$6$-F#6#-F26%F4-F#6#-F@6$Q\"2F
+'FCFEFCF+F+" }{TEXT 414 8 ", . . . " }}{PARA 0 "" 0 "" {TEXT 414 0 "" 
+}}{PARA 0 "" 0 "" {TEXT 414 16 "and, in general " }}{PARA 0 "" 0 "" 
+{TEXT 414 0 "" }}{PARA 0 "" 0 "" {XPPEDIT 18 0 "Typesetting:-mrow(Type
+setting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi
+(\"x\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mro
+w(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"n\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"+\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace =
+ \"0.2222222em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), \+
+Typesetting:-mi(\"\")), subscriptshift = \"0\"), Typesetting:-mo(\":=
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\",
+ rspace = \"0.2777778em\"), Typesetting:-mrow(Typesetting:-mi(\"f\", i
+talic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&ApplyF
+unction;\", font_style_name = \"CharacterStyle272\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(
+\"x\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow
+(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\")),
+ subscriptshift = \"0\")), mathvariant = \"normal\")), Typesetting:-mi
+(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typese
+ttingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-I%msubGF$6%-F,6%Q\"xF'/%'itali
+cGQ%trueF'/%,mathvariantGQ'italicF'-F#6%F+-F#6%-F,6%Q\"nF'F7F:-I#moGF$
+6-Q\"+F'/F;Q'normalF'/%&fenceGQ&falseF'/%*separatorGFL/%)stretchyGFL/%
+*symmetricGFL/%(largeopGFL/%.movablelimitsGFL/%'accentGFL/%'lspaceGQ,0
+.2222222emF'/%'rspaceGFen-I#mnGF$6$Q\"1F'FHF+/%/subscriptshiftGQ\"0F'-
+FE6-Q#:=F'FHFJFMFOFQFSFUFW/FZQ,0.2777778emF'/FgnFco-F#6%-F,6%Q\"fF'F7F
+:-FE6.Q0&ApplyFunction;F'/%0font_style_nameGQ2CharacterStyle272F'FHFJF
+MFOFQFSFUFW/FZQ&0.0emF'/FgnFap-I(mfencedGF$6$-F#6#-F26%F4-F#6#FAF\\oFH
+F+F+" }{TEXT 414 13 "  for n > 0. " }}{PARA 0 "" 0 "" {TEXT 414 1 " " 
+}}{PARA 0 "" 0 "" {TEXT 414 13 "The sequence " }{XPPEDIT 18 0 "Typeset
+ting:-mrow(Typesetting:-msub(Typesetting:-mi(\"x\", italic = \"true\",
+ mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", m
+athvariant = \"normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"
+,\", mathvariant = \"normal\", fence = \"false\", separator = \"true\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspac
+e = \"0.3333333em\"), Typesetting:-msub(Typesetting:-mi(\"x\", italic \+
+= \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-
+mn(\"1\", mathvariant = \"normal\")), subscriptshift = \"0\"), Typeset
+ting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"
+false\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0
+em\", rspace = \"0.3333333em\"), Typesetting:-msub(Typesetting:-mi(\"x
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Ty
+pesetting:-mn(\"2\", mathvariant = \"normal\")), subscriptshift = \"0
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6'-I%msub
+GF$6%-I#miGF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-
+I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptshiftGF=-I#moGF$6-Q\",F'F>/%&f
+enceGQ&falseF'/%*separatorGF4/%)stretchyGFH/%*symmetricGFH/%(largeopGF
+H/%.movablelimitsGFH/%'accentGFH/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.33333
+33emF'-F,6%F.-F#6#-F;6$Q\"1F'F>F@FB-F,6%F.-F#6#-F;6$Q\"2F'F>F@" }{TEXT
+ 414 19 ", . . ., is called " }{TEXT 338 13 "the orbit of " }{XPPEDIT 
+210 0 "Typesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"x\", ital
+ic = \"true\", font_style_name = \"CharacterStyle349\", mathvariant = \+
+\"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", font_style_name \+
+= \"CharacterStyle349\", mathvariant = \"normal\")), subscriptshift = \+
+\"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%m
+subGF$6%-I#miGF$6&Q\"xF'/%'italicGQ%trueF'/%0font_style_nameGQ2Charact
+erStyle349F'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6%Q\"0F'F5/F9Q'norma
+lF'/%/subscriptshiftGF@" }{TEXT 339 35 " under the action of the funct
+ion f" }{TEXT 414 33 ".  This  process is  also called " }{TEXT 340 
+40 "iteration of the function f starting at " }{XPPEDIT 18 0 "Typesett
+ing:-mrow(Typesetting:-msub(Typesetting:-mi(\"x\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", ma
+thvariant = \"normal\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"xF'/%'
+italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F'/F6Q'norm
+alF'/%/subscriptshiftGF=" }{TEXT 414 23 " and is an example of a" }
+{TEXT 341 19 " dynamical system. " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}
+{PARA 0 "" 0 "" {TEXT 414 4 "The " }{TEXT 342 47 "composition of a fun
+ction f with itself n times" }{TEXT 414 25 " is sometimes called the "
+ }{TEXT 343 12 "n-th iterate" }{TEXT 414 33 " of f. In Maple it is den
+oted by " }{TEXT 344 4 "f@@n" }{TEXT 414 92 ". Recall that if f and g \+
+are functions, f@g is the composition of f and g. So, for example, " }
+{TEXT 345 36 "(f@@3 )(x) = (f@f@f)(x) = f(f(f(x)))" }{TEXT 414 12 ". N
+ote that " }{TEXT 346 13 "(f@@0)(x) = x" }{TEXT 414 25 ". The parenthe
+ses around " }{TEXT 347 7 "(f@@3) " }{TEXT 414 11 "are needed." }{TEXT
+ 348 1 " " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }}}
+{PARA 0 "" 0 "" {TEXT 414 154 "Here  are some procedures that one may \+
+use to investigate the dynamics of a given function. First we define a
+ function f  that we want to experiment with." }}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 21 "f:=x->(25*x) mod 197;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"fG6\"f*6#I\"xGF$F$6$I)operatorGF$I&arrowGF$F$-I$modGF
+$6$,$*&\"#D\"\"\"F'F1F1\"$(>F$F$F$" }}}{PARA 0 "" 0 "" {TEXT 414 0 "" 
+}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 25 "The following procedure, " }
+{TEXT 349 3 "it1" }{TEXT 414 38 ",  will produce the list of the first
+ " }{TEXT 350 1 "n" }{TEXT 414 28 " iterations of any function " }
+{TEXT 351 4 "func" }{TEXT 414 25 " starting with the value " }{TEXT 
+352 5 "start" }{TEXT 414 2 ":\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 24 "it1:=proc(start,func,n)\n" }{MPLTEXT 1 0 9 "local i;\n" }
+{MPLTEXT 1 0 32 "[seq((func@@i)(start),i=0..n)];\n" }{MPLTEXT 1 0 10 "
+end proc:\n" }{MPLTEXT 1 0 1 " " }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 
+54 "We first see what the output is for undefined g and x:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "it1(x,g,5);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7(I\"xG6\"-I\"gGF$6#F#--I#@@G6$%*protectedGI(_syslibGF$6$
+F&\"\"#F'--F*6$F&\"\"$F'--F*6$F&\"\"%F'--F*6$F&\"\"&F'" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 414 37 "Let's try the function defined above." }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "it1(1,f,5);" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "7(\"\"\"\"#D\"#M\"#i\"$r\"\"$Q\"" }}}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 13 "it1(1,f,100);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7aq\"\"\"\"#D\"#M\"#i\"$r\"\"$Q\"\"$,\"\"$h\"\"#&)\"$b\"
+\"$K\"\"$[\"\"$a\"\"$2\"\"$9\"\"##*\"$L\"\"$t\"\"$)=\"$p\"\"#))\"#L\"#
+P\"$P\"\"#w\"$F\"\"#B\"$\"=\"$\">\"#Z\"$!>\"#A\"$c\"\"$d\"\"$#=\"#>\"#
+\")\"#b\"$$>\"#(*\"#h\"$Y\"\"$/\"\"#R\"$(=\"$W\"\"#a\"$o\"\"#j\"$'>\"$
+s\"\"$j\"\"$N\"\"#E\"#f\"#'*\"#O\"$7\"\"#U\"#l\"#\\\"#V\"#!*\"#$)\"$0
+\"\"#k\"#C\"\"*\"#G\"$4\"\"$k\"\"$g\"\"#g\"$@\"\"#q\"$u\"\"#;\"\"'\"$]
+\"\"\"(\"$v\"\"#T\"#S\"#:\"$y\"\"$;\"\"$U\"\"\"%\"$+\"\"$O\"\"#^\"#$*
+\"$e\"\"#5\"#`\"$V\"\"#H\"$M\"F#F$F%" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+414 1 "\n" }{TEXT 414 13 "Note that in " }{TEXT 353 3 "it1" }{TEXT 
+414 22 " each computation of  " }{TEXT 354 7 "func@@n" }{TEXT 414 98 "
+ starts from the beginning and requires n steps. A better way to write
+ the program is as follows:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 24 "it2:=proc(start,func,n)\n" }{MPLTEXT 1 0 16 " local i,x,SEQ;\n" 
+}{MPLTEXT 1 0 11 " x:=start;\n" }{MPLTEXT 1 0 10 " SEQ:=x; \n" }
+{MPLTEXT 1 0 22 " for i from 1 to n do\n" }{MPLTEXT 1 0 15 "   x:=func
+(x);\n" }{MPLTEXT 1 0 17 "   SEQ:= SEQ, x;\n" }{MPLTEXT 1 0 9 " end do
+;\n" }{MPLTEXT 1 0 8 " [SEQ];\n" }{MPLTEXT 1 0 10 "end proc:\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "it1(x,g,5);" }}{PARA 11 "" 1
+ "" {XPPMATH 20 "7(I\"xG6\"-I\"gGF$6#F#--I#@@G6$%*protectedGI(_syslibG
+F$6$F&\"\"#F'--F*6$F&\"\"$F'--F*6$F&\"\"%F'--F*6$F&\"\"&F'" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "it2(x,g,5);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7(I\"xG6\"-I\"gGF$6#F#-F&6#F%-F&6#F(-F&6#F*-F&6#F," }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 57 "We can also write a recursive ver
+sion of this procedure:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+24 "it3:=proc(start,func,n)\n" }{MPLTEXT 1 0 18 " option remember:\n" 
+}{MPLTEXT 1 0 35 " if n = 0 then return [start]; fi;\n" }{MPLTEXT 1 0 
+64 " return [op(it3(start,func,n-1)),func(it3(start,func,n-1)[n])];\n"
+ }{MPLTEXT 1 0 5 "end:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 
+"it3(x,g,5);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7(I\"xG6\"-I\"gGF$6#F#-F
+&6#F%-F&6#F(-F&6#F*-F&6#F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+11 "it1(x,g,5);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7(I\"xG6\"-I\"gGF$6#F
+#--I#@@G6$%*protectedGI(_syslibGF$6$F&\"\"#F'--F*6$F&\"\"$F'--F*6$F&\"
+\"%F'--F*6$F&\"\"&F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "it2
+(x,g,5);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7(I\"xG6\"-I\"gGF$6#F#-F&6#F
+%-F&6#F(-F&6#F*-F&6#F," }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 75 "Here's
+ another way to time a procedure--without getting the output however:"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "time(it1(1,f,300));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"#$*!\"$" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 19 "time(it2(1,f,300));" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+$\"\"!F#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 17 "For small values " }
+{TEXT 355 3 "it3" }{TEXT 414 70 " is fast, but for really large values
+ it will require too much memory." }}}{PARA 0 "" 0 "" {TEXT 414 0 "" }
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "time(it3(1,f,300));" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"\"!F#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 413 25 "The famous
+ 3x + 1 problem" }}{EXCHG {PARA 0 "" 0 "" {TEXT 210 96 "This is a famo
+us open problem in mathematics which involves iteration of a particula
+r function.\n" }{TEXT 210 1 "\n" }{TEXT 210 22 "Consider the function 
+" }{TEXT 414 1 "f" }{TEXT 210 41 " defined on positive integers by the
+ rule" }{TEXT 414 2 " \n" }{TEXT 414 1 "\n" }{TEXT 414 60 "           \+
+                    f(k) = k/2,  if k is even,  \n" }{TEXT 414 59 "   \+
+                            f(k) = 3k+1,  if k is odd. \n" }{TEXT 414 
+1 " " }{TEXT 210 1 "\n" }{TEXT 210 47 "It appears that if one starts w
+ith any integer " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msub(
+Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), T
+ypesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\")), su
+bscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvarian
+tGQ'italicF'-F#6#-I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptshiftGF=" }
+{TEXT 414 0 "" }{TEXT 210 14 " and iterates " }{TEXT 414 1 "f" }{TEXT 
+210 88 ", one always eventually reaches the number 1. This has been ve
+rified for many values of " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesett
+ing:-msub(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"it
+alic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"norm
+al\")), subscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,Types
+ettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,
+mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F'/F6Q'normalF'/%/subscriptsh
+iftGF=" }{TEXT 210 2 ", " }{TEXT 356 40 "but has not yet been proved o
+r disproved" }{TEXT 210 22 ". It was verified for " }{XPPEDIT 18 0 "Ty
+pesetting:-mrow(Typesetting:-msub(Typesetting:-mi(\"n\", italic = \"tr
+ue\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0
+\", mathvariant = \"normal\")), subscriptshift = \"0\"));" "-I%mrowG6#
+/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msubGF$6%-I#miGF$6%Q\"
+nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F'/F6
+Q'normalF'/%/subscriptshiftGF=" }{TEXT 210 24 " up to approximately  2
+*" }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesettin
+g:-mrow(Typesetting:-msup(Typesetting:-mn(\"10\", mathvariant = \"norm
+al\"), Typesetting:-mn(\"16\", mathvariant = \"normal\"), superscripts
+hift = \"0\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I
+,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6#-I%msupGF$6%-I#mnGF$6$Q#
+10F'/%,mathvariantGQ'normalF'-F56$Q#16F'F8/%1superscriptshiftGQ\"0F'F+
+" }{TEXT 414 0 "" }{TEXT 210 86 " in 1999 and apparently the computer \+
+is still running. (Search the internet  for  the " }{TEXT 357 12 "3x+1
+ problem" }{TEXT 210 8 " or the " }{TEXT 358 15 "collatz problem" }
+{TEXT 210 89 " (as it is sometimes called)--if you want more up-to-dat
+e information about the problem.)" }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}
+{PARA 0 "" 0 "" {TEXT 414 27 "For example, starting with " }{XPPEDIT 
+18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Types
+etting:-msub(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mrow(Typesetting:-mn(\"0\", mathvariant = \"
+normal\")), subscriptshift = \"0\"), Typesetting:-mo(\"=\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mn(\"6\", mathvariant = \"normal\")), Type
+setting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sysl
+ibGF'6%-I#miGF$6#Q!F'-F#6%-I%msubGF$6%-F,6%Q\"nF'/%'italicGQ%trueF'/%,
+mathvariantGQ'italicF'-F#6#-I#mnGF$6$Q\"0F'/F;Q'normalF'/%/subscriptsh
+iftGFB-I#moGF$6-Q\"=F'FC/%&fenceGQ&falseF'/%*separatorGFM/%)stretchyGF
+M/%*symmetricGFM/%(largeopGFM/%.movablelimitsGFM/%'accentGFM/%'lspaceG
+Q,0.2777778emF'/%'rspaceGFfn-F@6$Q\"6F'FCF+" }{TEXT 414 9 " we have\n"
+ }{TEXT 414 2 " \n" }{TEXT 414 93 "                        f(6)=3, f(3
+)=10, f(10)=5, f(5)=16, f(16)=8, f(8)=4, f(4)=2, f(2)=1. \n" }{TEXT 
+414 1 "\n" }}{PARA 0 "" 0 "" {TEXT 210 47 "Thus in 8 steps we reach 1 \+
+if we start from 6. " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 
+"" {TEXT 414 60 "Let's define a procedure to implement the \"3x + 1 fu
+nction\"." }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+11 "f:=proc(n)\n" }{MPLTEXT 1 0 22 " if n mod 2 = 0 then \n" }{MPLTEXT
+ 1 0 17 "   return n/2 ; \n" }{MPLTEXT 1 0 6 " else\n" }{MPLTEXT 1 0 
+17 "  return 3*n+1; \n" }{MPLTEXT 1 0 9 " end if;\n" }{MPLTEXT 1 0 9 "
+end proc:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 37 "Now let's iterate i
+t starting with 3:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "S:=[s
+eq((f@@n)(3), n=1..10)]; " }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"SG6\"7,
+\"#5\"\"&\"#;\"\")\"\"%\"\"#\"\"\"F*F+F," }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 106 "Note that we quickly reach 1 and then the sequence of i
+terates begins repeating 1, 4, 2, 1, 4, 2, 1, . . ." }}}{EXCHG {PARA 0
+ "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 29 "We use the bui
+ltin procedure " }{TEXT 359 6 "member" }{MPLTEXT 1 0 0 "" }{TEXT 414 
+103 " as follows to determine whether or not and if so what the first \+
+value of n is for which (f@@n)(3) = 1:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 18 "member(1,S,'n'); \n" }{MPLTEXT 1 0 2 "n;" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "I%trueG%*protectedG" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "\"\"(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 81 "This shows that for
+ n = 7 we get 1. So 1 is reached starting from 3 in 7 steps. \n" }
+{TEXT 414 1 "\n" }{TEXT 414 117 "Let's write a procedure that tells us
+ how many steps are required to reach 1 starting with any positive int
+eger n0: (" }{TEXT 360 36 "We could use the above method using " }
+{TEXT 361 6 "member" }{TEXT 362 5 " and " }{TEXT 363 3 "seq" }{TEXT 
+364 102 ", but that's not very efficient and anyhow we don't know how \+
+far we might have to go before getting 1." }{TEXT 414 2 ")\n" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "steps:=proc(n0)\n" }{MPLTEXT
+ 1 0 11 "local x,i;\n" }{MPLTEXT 1 0 35 "  if n0 = 1 then return 0; en
+d if;\n" }{MPLTEXT 1 0 9 "  x:=n0;\n" }{MPLTEXT 1 0 18 "  for i from 1
+ do\n" }{MPLTEXT 1 0 13 "    x:=f(x);\n" }{MPLTEXT 1 0 36 "    if x = \+
+1 then return i; end if;\n" }{MPLTEXT 1 0 10 "  end do;\n" }{MPLTEXT 
+1 0 10 "end proc:\n" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "steps
+(3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"(" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 414 23 "Let's see which number " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-msub(Typeset
+ting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mrow(Typesetting:-mn(\"0\", mathvariant = \"normal\")), subscript
+shift = \"0\"), Typesetting:-mo(\"&le;\", mathvariant = \"normal\", fe
+nce = \"false\", separator = \"false\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Type
+setting:-mn(\"1000\", mathvariant = \"normal\")), Typesetting:-mi(\"\"
+));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6
+#Q!F'-F#6%-I%msubGF$6%-F,6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'it
+alicF'-F#6#-I#mnGF$6$Q\"0F'/F;Q'normalF'/%/subscriptshiftGFB-I#moGF$6-
+Q%&le;F'FC/%&fenceGQ&falseF'/%*separatorGFM/%)stretchyGFM/%*symmetricG
+FM/%(largeopGFM/%.movablelimitsGFM/%'accentGFM/%'lspaceGQ,0.2777778emF
+'/%'rspaceGFfn-F@6$Q%1000F'FCF+" }{TEXT 414 35 " takes the largest num
+ber of steps:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "max(seq(st
+eps(n0),n0=1..1000));" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"$y\"" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "member(178,[seq(steps(n0),n0
+=1..1000)],'n0'); n0;" }}{PARA 11 "" 1 "" {XPPMATH 20 "I%trueG%*protec
+tedG" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"$r)" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 414 43 "Let's check that in fact steps(871) is 178:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "steps(871);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "\"$y\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 414 66 "Let's see
+ what the largest number reached is if we start with 871:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "L:=seq((f@@n)(871), n=1..178);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">I\"LG6\"6^v\"%9E\"%28\"%AR\"%h>\"%%)e\"
+%UH\"%r9\"%9W\"%2A\"%Am\"%6L\"%M**\"%n\\\"&-\\\"\"%^u\"&aB#\"&x6\"\"&K
+N$\"&mn\"\"%$Q)\"&]^#\"&vD\"\"&Ex$\"&j)=\"&!fc\"&&HG\"&')[)\"&VC%\"'It
+7\"&lO'\"''*4>\"&)\\&*\"&\\x%\"'[K9\"&C;(\"&7e$\"&1z\"\"%`*)\"&go#\"&I
+M\"\"%:n\"&Y,#\"&t+\"\"&?-$\"&5^\"\"%bv\"&mE#\"&L8\"\"&+S$\"&+q\"\"%+&
+)\"%]U\"%D@\"%wj\"%)=$\"%%f\"\"$(z\"%#R#\"%'>\"\"$)f\"$*H\"$)*)\"$\\%
+\"%[8\"$u'\"$P$\"%75\"$1&\"$`#\"$g(\"$!Q\"$!>\"#&*\"$'G\"$V\"\"$I%\"$:
+#\"$Y'\"$B$\"$q*\"$&[\"%c9\"$G(\"$k$\"$#=\"#\"*\"$u#\"$P\"\"$7%\"$1#\"
+$.\"\"$5$\"$b\"\"$m%\"$L#\"$+(\"$]$\"$v\"\"$E&\"$j#\"$!z\"$&R\"%'=\"\"
+$$f\"%!y\"\"$!*)\"$X%\"%O8\"$o'\"$M$\"$n\"\"$-&\"$^#\"$a(\"$x$\"%K6\"$
+m&\"$$G\"$])\"$D%\"%w7\"$Q'\"$>$\"$e*\"$z%\"%Q9\"$>(\"%e@\"%z5\"%QK\"%
+>;\"%e[\"%HC\"%)G(\"%WO\"%A=\"$6*\"%MF\"%n8\"%-T\"%^?\"%ah\"%xI\"%K#*
+\"%;Y\"%3B\"%a6\"$x&\"%K<\"$m)\"$L%\"%+8\"$]'\"$D$\"$w*\"$)[\"$W#\"$A
+\"\"#h\"$%=\"##*\"#Y\"#B\"#q\"#N\"$1\"\"#`\"$g\"\"#!)\"#S\"#?\"#5\"\"&
+\"#;\"\")\"\"%\"\"#\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 
+"max(L);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"''*4>" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 1 " " }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 413 9 "E
+xercises" }}{EXCHG {PARA 0 "" 0 "" {TEXT 210 1 "\n" }{TEXT 210 11 "Pro
+blem 1. " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 
+210 214 "If n people (numbered 1 to n) stand in a circle and someone s
+tarts going around the circle and eliminating every other person till \+
+only one person is left, the number J(n) of the person left at the end
+ is given by " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 414 48 "    J(n) = 1                           if n = 1\n" }
+{TEXT 414 56 "    J(n) = 2*J(n/2) - 1          if n > 1 and n is even
+\n" }{TEXT 414 52 "    J(n) = 2*J((n-1)/2) + 1   if  n > 1 and n is od
+d" }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 12 "(i
+) Write a " }{TEXT 365 9 "recursive" }{TEXT 366 1 " " }{TEXT 367 9 "pr
+ocedure" }{TEXT 414 115 " to compute J. [As a check the first 16 value
+s (starting with 1) of J(n) are 1,1,3,1,3,5,7,1,3,5,7,9,11,13,15,1]. \+
+\n" }{TEXT 414 35 "(ii)Compute the value of J(10000). " }}{PARA 0 "" 0
+ "" {TEXT 414 115 "(iii) Can you explain why this is so much faster th
+an our recursive procedure to compute the n-th Fibonacci number?" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 1 "[
+" }{TEXT 368 6 "Remark" }{TEXT 414 45 ". The problem above is a specia
+l case of the " }{TEXT 369 16 "Josephus Problem" }{TEXT 414 171 ". Ins
+tead of eliminating every other person, one could eliminate every 3rd \+
+person, every 4th person, etc.  For more on the history and generaliza
+tions of this problem see " }{TEXT 370 8 "Concrete" }{TEXT 414 1 " " }
+{TEXT 371 11 "Mathematics" }{TEXT 414 4 " -- " }{TEXT 372 33 "A Founda
+tion for Computer Science" }{TEXT 414 149 ", by Graham, Knuth and Pata
+shnik, Chapter 1. You will also find a number of webpages and mathemat
+ics papers devoted to this problem if you search on " }{TEXT 373 16 "J
+osephus Problem" }{TEXT 414 28 " via a search engine or via " }{TEXT 
+374 10 "MathSciNet" }{TEXT 414 13 " -- click on " }{TEXT 375 30 "Inter
+esting Mathematical Links" }{TEXT 414 92 " at the bottom of the USF Ma
+thematics Department's home page -- from a USF computer--to use " }
+{TEXT 376 10 "MathSciNet" }{TEXT 414 2 ".]" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 210 11 "Problem 2. " }}{PARA 0 
+"" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 37 "Write a procedu
+re using the variable " }{TEXT 377 4 "args" }{TEXT 414 57 " that will \+
+take an unspecified finite number of numbers, " }{TEXT 378 35 "delete \+
+the smallest and the largest" }{TEXT 414 2 ", " }{TEXT 379 62 "and ret
+urn the average of the rest as a floating point number." }{TEXT 414 
+131 " If there are fewer than 3 arguments have an error message say: \+
+\"There are not enough arguments. There should be at least three.\" \n
+" }{TEXT 414 1 "\n" }{TEXT 414 131 "You should have no input parameter
+s in the definition of the procedure. You may write it directly or you
+ may use the Maple command " }{TEXT 380 5 "sort " }{TEXT 414 30 "as a \+
+part of your program. Do " }{TEXT 381 6 "?sort " }{TEXT 414 11 "to see
+ how " }{TEXT 382 4 "sort" }{TEXT 414 77 " works. Test your procedure \+
+with each of the following argument sequences:  \n" }{TEXT 414 1 "\n" 
+}{TEXT 414 24 "   50,40,40, 40, 40, 10\n" }{TEXT 414 1 "\n" }{TEXT 
+414 7 "   1,2\n" }{TEXT 414 1 "\n" }{TEXT 414 28 "   seq(100 - i, i = \+
+1..100)\n" }{TEXT 414 1 "\n" }{TEXT 414 31 "   seq(modp(n,111), n=1..1
+000)." }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 210 
+10 "Problem 3." }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 414 15 "The expression " }{XPPEDIT 18 0 "Typesetting:-mrow(Types
+etting:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \+
+\"italic\"), superscriptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"
+I,TypesettingGI(_syslibGF'6#-I%msupGF$6%-I#miGF$6%Q\"XF'/%'italicGQ%tr
+ueF'/%,mathvariantGQ'italicF'-F/6%Q\"nF'F2F5/%1superscriptshiftGQ\"0F'
+" }{TEXT 414 24 ", for an interger power " }{TEXT 383 1 "n" }{TEXT 
+414 9 " and any " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"
+X\", italic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"XF'/%'italicGQ%tru
+eF'/%,mathvariantGQ'italicF'" }{TEXT 414 112 ", can be computed using \+
+the following formulae, which represent a negative power in terms of a
+ positive power (-" }{TEXT 384 2 "n)" }{TEXT 414 72 ", and a positive \+
+power in terms of a smaller non-negative power (either " }{TEXT 385 1 
+"n" }{TEXT 414 6 "/2 ot " }{TEXT 386 1 "n" }{TEXT 414 47 "-1), and use
+ only multiplication and division: " }}{PARA 0 "" 0 "" {TEXT 414 4 "  \+
+  " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-msup(Typesetting:-mi(\"X\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-mi(\"n\", italic = \"true\", ma
+thvariant = \"italic\"), superscriptshift = \"0\"), Typesetting:-mo(\"
+=\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em
+\", rspace = \"0.2777778em\"), Typesetting:-mn(\"1\", mathvariant = \"
+normal\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,Typ
+esettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-I%msupGF$6%-F,6%Q\"XF'/%'it
+alicGQ%trueF'/%,mathvariantGQ'italicF'-F,6%Q\"nF'F7F:/%1superscriptshi
+ftGQ\"0F'-I#moGF$6-Q\"=F'/F;Q'normalF'/%&fenceGQ&falseF'/%*separatorGF
+K/%)stretchyGFK/%*symmetricGFK/%(largeopGFK/%.movablelimitsGFK/%'accen
+tGFK/%'lspaceGQ,0.2777778emF'/%'rspaceGFZ-I#mnGF$6$Q\"1F'FGF+" }{TEXT 
+414 1 "/" }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msup(Typesett
+ing:-mi(\"X\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mrow(Typesetting:-mo(\"&uminus0;\", mathvariant = \"normal\", fenc
+e = \"false\", separator = \"false\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typese
+tting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\")), supers
+criptshift = \"0\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sy
+slibGF'6#-I%msupGF$6%-I#miGF$6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantG
+Q'italicF'-F#6$-I#moGF$6-Q*&uminus0;F'/F6Q'normalF'/%&fenceGQ&falseF'/
+%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimi
+tsGFB/%'accentGFB/%'lspaceGQ,0.2222222emF'/%'rspaceGFQ-F/6%Q\"nF'F2F5/
+%1superscriptshiftGQ\"0F'" }{TEXT 414 18 "               if " }{TEXT 
+387 1 "n" }{TEXT 414 4 " < 0" }}{PARA 0 "" 0 "" {TEXT 414 3 "   " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathva
+riant = \"italic\"), Typesetting:-mi(\"n\", italic = \"true\", mathvar
+iant = \"italic\"), superscriptshift = \"0\"), Typesetting:-mo(\"=\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rsp
+ace = \"0.2777778em\"), Typesetting:-mi(\"Id\", italic = \"true\", mat
+hvariant = \"italic\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+module
+nameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-I%msupGF$6%-F,
+6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F,6%Q\"nF'F7F:/%1s
+uperscriptshiftGQ\"0F'-I#moGF$6-Q\"=F'/F;Q'normalF'/%&fenceGQ&falseF'/
+%*separatorGFK/%)stretchyGFK/%*symmetricGFK/%(largeopGFK/%.movablelimi
+tsGFK/%'accentGFK/%'lspaceGQ,0.2777778emF'/%'rspaceGFZ-F,6%Q#IdF'F7F:F
++" }{TEXT 414 30 "                           if " }{TEXT 388 1 "n" }
+{TEXT 414 4 " = 0" }}{PARA 0 "" 0 "" {TEXT 414 3 "   " }{XPPEDIT 18 0 
+"Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesettin
+g:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathvariant = \"ital
+ic\"), Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"itali
+c\"), superscriptshift = \"0\"), Typesetting:-mo(\"=\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777
+778em\"), Typesetting:-msup(Typesetting:-mi(\"X\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-mfrac(Typesetting:-mrow(Typese
+tting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\")), Typese
+tting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\")), linethi
+ckness = \"1\", denomalign = \"center\", numalign = \"center\", bevell
+ed = \"false\"), superscriptshift = \"0\")), Typesetting:-mi(\"\"));" 
+"-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'
+-F#6%-I%msupGF$6%-F,6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF
+'-F,6%Q\"nF'F7F:/%1superscriptshiftGQ\"0F'-I#moGF$6-Q\"=F'/F;Q'normalF
+'/%&fenceGQ&falseF'/%*separatorGFK/%)stretchyGFK/%*symmetricGFK/%(larg
+eopGFK/%.movablelimitsGFK/%'accentGFK/%'lspaceGQ,0.2777778emF'/%'rspac
+eGFZ-F26%F4-I&mfracGF$6(-F#6#F=-F#6#-I#mnGF$6$Q\"2F'FG/%.linethickness
+GQ\"1F'/%+denomalignGQ'centerF'/%)numalignGFio/%)bevelledGFKF@F+" }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"X
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfrac(T
+ypesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant
+ = \"italic\")), Typesetting:-mrow(Typesetting:-mn(\"2\", mathvariant \+
+= \"normal\")), linethickness = \"1\", denomalign = \"center\", numali
+gn = \"center\", bevelled = \"false\"), superscriptshift = \"0\"));" "
+-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I%msupGF$6%-I#
+miGF$6%Q\"XF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I&mfracGF$6(-
+F#6#-F/6%Q\"nF'F2F5-F#6#-I#mnGF$6$Q\"2F'/F6Q'normalF'/%.linethicknessG
+Q\"1F'/%+denomalignGQ'centerF'/%)numalignGFM/%)bevelledGQ&falseF'/%1su
+perscriptshiftGQ\"0F'" }{TEXT 414 13 "          if " }{TEXT 389 1 "n" 
+}{TEXT 414 8 " is even" }}{PARA 0 "" 0 "" {TEXT 414 4 "    " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-msup(Typesetting:-mi(\"X\", italic = \"true\", mathva
+riant = \"italic\"), Typesetting:-mi(\"n\", italic = \"true\", mathvar
+iant = \"italic\"), superscriptshift = \"0\"), Typesetting:-mo(\"=\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rsp
+ace = \"0.2777778em\"), Typesetting:-mi(\"X\", italic = \"true\", math
+variant = \"italic\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulen
+ameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-I%msupGF$6%-F,6
+%Q\"XF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-F,6%Q\"nF'F7F:/%1su
+perscriptshiftGQ\"0F'-I#moGF$6-Q\"=F'/F;Q'normalF'/%&fenceGQ&falseF'/%
+*separatorGFK/%)stretchyGFK/%*symmetricGFK/%(largeopGFK/%.movablelimit
+sGFK/%'accentGFK/%'lspaceGQ,0.2777778emF'/%'rspaceGFZF4F+" }{XPPEDIT 
+18 0 "Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"X\", itali
+c = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(Typesetting
+:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), Typesetting:
+-mo(\"&minus;\", mathvariant = \"normal\", fence = \"false\", separato
+r = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mathva
+riant = \"normal\")), superscriptshift = \"0\"));" "-I%mrowG6#/I+modul
+enameG6\"I,TypesettingGI(_syslibGF'6#-I%msupGF$6%-I#miGF$6%Q\"XF'/%'it
+alicGQ%trueF'/%,mathvariantGQ'italicF'-F#6%-F/6%Q\"nF'F2F5-I#moGF$6-Q(
+&minus;F'/F6Q'normalF'/%&fenceGQ&falseF'/%*separatorGFE/%)stretchyGFE/
+%*symmetricGFE/%(largeopGFE/%.movablelimitsGFE/%'accentGFE/%'lspaceGQ,
+0.2222222emF'/%'rspaceGFT-I#mnGF$6$Q\"1F'FA/%1superscriptshiftGQ\"0F'"
+ }{TEXT 414 14 "           if " }{TEXT 390 1 "n" }{TEXT 414 8 " is odd
+." }}{PARA 0 "" 0 "" {TEXT 414 130 "These formulae lead to an efficien
+t recursive algorithm for computing integer powers using the minimal n
+umber of multiplications. " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0
+ "" 0 "" {TEXT 391 3 "(a)" }{TEXT 414 19 " Write a procedure " }{TEXT 
+392 6 "MatPow" }{TEXT 414 82 "(X,n::integer) to implement this algorit
+hm for computing powers of matrices. Test " }{TEXT 393 6 "MatPow" }
+{TEXT 414 23 "(<<1|2>,<3|4>>,12) and " }{TEXT 394 6 "MatPow" }{TEXT 
+414 20 "(<<1|2>,<3|4>>,-12)." }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}
+{PARA 0 "" 0 "" {TEXT 395 3 "(b)" }{TEXT 414 19 " Write a procedure " 
+}{TEXT 396 7 "PolyPow" }{TEXT 414 182 "(X,n::integer) to implement thi
+s algorithm for computing powers of numbers and polynomials. Your proc
+edure needs to exapnd each product of polynomials in order to be effec
+tive. Test " }{TEXT 397 7 "PolyPow" }{TEXT 414 10 "(123,12), " }{TEXT 
+398 7 "PolyPow" }{TEXT 414 9 "(123,-12)" }{TEXT 399 9 ", PolyPow" }
+{TEXT 414 15 "(x^2+1,12) and " }{TEXT 400 7 "PolyPow" }{TEXT 414 13 "(
+x^2+1,-12). " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT
+ 401 9 "Problem 4" }{TEXT 414 3 ".  " }}{PARA 0 "" 0 "" {TEXT 414 0 ""
+ }}{PARA 0 "" 0 "" {TEXT 402 13 "Happy numbers" }{TEXT 414 216 " are p
+ositive integers which end up at 1 under iteration of the \"sum of squ
+ares of digits map\". That is, if one defines f(x) to be the sum of th
+e squares of the decimal digits of  the positive integer x, then  x  i
+s " }{TEXT 403 5 "happy" }{TEXT 414 56 " if for some positive integer \+
+n we have (f@@n)(x) = 1.  " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0
+ "" 0 "" {TEXT 414 13 "For example, " }}{PARA 0 "" 0 "" {TEXT 414 0 ""
+ }}{PARA 0 "" 0 "" {TEXT 414 16 "f(7) = 7^2=49,  " }}{PARA 0 "" 0 "" 
+{TEXT 414 21 "f(49) = 4^2+9^2=97,  " }}{PARA 0 "" 0 "" {TEXT 414 22 "f
+(97) = 9^2+7^2=130,  " }}{PARA 0 "" 0 "" {TEXT 414 26 "f(130) = 1^2+3^
+2+0^2 = 10," }}{PARA 0 "" 0 "" {TEXT 414 21 "f(10) = 1^2+0^2 = 1. " }}
+{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 14 "So 7 is
+ happy." }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 
+33 "The first few happy numbers are \n" }}{PARA 0 "" 0 "" {TEXT 414 
+61 "1,7,10,13,19,23,28,31,32,44,49,68,70,79,82,86,91,94,97,100. \n" }}
+{PARA 0 "" 0 "" {TEXT 414 86 "Write a  procedure that will declare a p
+ositive integer  x to be happy (i.e., returns " }{TEXT 404 4 "true" }
+{TEXT 414 50 ") if the n-th iterate of f starting with x gives 1" }
+{TEXT 405 10 " for some " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesettin
+g:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\"&le;\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.277
+7778em\"), Typesetting:-mn(\"20\", mathvariant = \"normal\")), Typeset
+ting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibG
+F'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'i
+talicF'-I#moGF$6-Q%&le;F'/F8Q'normalF'/%&fenceGQ&falseF'/%*separatorGF
+B/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'accen
+tGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-I#mnGF$6$Q#20F'F>F+" }{TEXT 
+414 16 " --else returns " }{TEXT 406 5 "false" }{TEXT 414 70 ". Find t
+he first 50 such happy numbers. Print them out in a sequence. " }}
+{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 "" {TEXT 407 5 "Hints" }
+{TEXT 414 1 ":" }{TEXT 408 1 " " }{TEXT 414 10 " Note that" }{TEXT 
+409 20 " convert(x,base,10) " }{TEXT 414 139 "will give you the decima
+l digits of x in a list. It should help if you first write a procedure
+ to compute f(x) for any positive integer x. " }}{PARA 0 "" 0 "" {TEXT
+ 414 1 " " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 410 0 "" }{TEXT 210 11 "Problem 5. " }}{PARA 0 "" 0 "" {TEXT 
+414 0 "" }}{PARA 0 "" 0 "" {TEXT 414 256 "Show that if you increase th
+e upper bound for n in Problem 4  from 20 to a higher value you will n
+ot obtain any additional happy numbers less than 320. This also implie
+s that the previously computed 50 happy numbers are the first 50 happy
+ numbers, indeed. " }}{PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 "" 0 ""
+ {TEXT 414 1 " " }{TEXT 411 5 "Hints" }{TEXT 414 31 ": Show that if in
+ the sequence " }}{PARA 0 "" 0 "" {TEXT 414 1 "\n" }{TEXT 414 50 "    \+
+         n, f(n), (f@@2)(n), . . ., (f@@20)(n)" }}{PARA 0 "" 0 "" 
+{TEXT 414 0 "" }}}{PARA 0 "" 0 "" {TEXT 414 249 "a 4 is reached before
+ a 1 is reached then a 1 will never be reached, so the number n will n
+ot be happy. What happens to the sequence once 4 is reached? Look at s
+ome examples. Then show that in 20 iterations a 1 or a 4 is reached fo
+r n less than 320." }}{EXCHG {PARA 0 "" 0 "" {TEXT 414 0 "" }}{PARA 0 
+"" 0 "" {TEXT 414 0 "" }}}}{EXCHG {PARA 206 "" 0 "" {TEXT 419 7 "- End
+ -" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 0 0 0 125 100 1803 1 1 1 1 }{PAGENUMBERS 0
+ 1 2 33 1 1 }

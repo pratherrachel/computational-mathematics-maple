@@ -1,0 +1,671 @@
+{VERSION 6 0 "Windows 10" "6.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal256" -1 208 1 {CSTYLE 
+"" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Err
+or" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE ""
+ -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Author"
+ -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 
+1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "
+Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Ti
+mes" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "
+Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Time
+s" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 
+200 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary \+
+Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE 
+"Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D
+ Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Cod
+e" -1 201 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2
+D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "2D Inert Output" -1 202 "Times" 1 12 144 144 144 1 2 2 2 2 1
+ 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 203 "Times" 1 10 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small204" -1 204 "Times"
+ 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier"
+ 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Time
+s" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times"
+ 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Ti
+mes" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" 
+-1 205 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbo
+l 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math"
+ -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nontermi
+nal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annota
+tion Text" -1 206 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "H
+elp Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Text" -1 207 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 
+2 0 0 0 1 }{CSTYLE "Caption Reference" -1 208 "Times" 1 12 0 0 0 1 2 1
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder" -1 209 "Courier N
+ew" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 
+210 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 
+18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 
+42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Co
+urier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "
+Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Ti
+mes" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 
+211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 209 1 
+{CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 210 1 {CSTYLE "" -1 -1 "Times" 1 11
+ 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE ""
+ -1 211 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 212 "Times" 1 11 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 213 "Times" 1 11 0 0 0 1 2 2 1 2 2 2 
+0 0 0 1 }{PSTYLE "" -1 212 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 213 1 
+{CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 214 1 {CSTYLE "" -1 -1 "Courier" 1 11
+ 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"" -1 215 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 216 1 {CSTYLE "" -1 -1 "C
+ourier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1
+ 1 }{PSTYLE "" -1 217 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 
+2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 218 1 {CSTYLE
+ "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 219 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 
+2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 220 1
+ {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 221 1 {CSTYLE "" -1 -1 "Times" 1
+ 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 222 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 
+2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 223 1 {CSTYLE "
+" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 224 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 
+1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 225
+ 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 226 1 {CSTYLE "" -1 -1 "Times" 1
+ 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 227 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 228 1 {CSTYLE "" 
+-1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "" -1 229 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 
+2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 230 1
+ {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 
+0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 231 1 {CSTYLE "" -1 -1 "Times" 1 
+11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 232 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 
+2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 233 1 {CSTYLE "
+" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 234 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 
+1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 235
+ 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 236 1 {CSTYLE "" -1 -1 "Times" 1
+ 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 237 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 
+2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 238 1 {CSTYLE "
+" -1 -1 "Times" 1 11 0 0 255 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 239 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 
+2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 240 1
+ {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 
+0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 241 1 {CSTYLE "" -1 -1 "Courier" 1 
+11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 242 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 243 1 {CSTYLE
+ "" -1 -1 "Courier" 1 11 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 244 1 {CSTYLE "" -1 -1 "Courier" 1 11 0 
+0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" 
+-1 245 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 246 1 {CSTYLE "" -1 -1 "Time
+s" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 247 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 248 1 {CSTYLE
+ "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 249 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 
+2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 250 1
+ {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 
+0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 251 1 {CSTYLE "" -1 -1 "Courier" 1 
+11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 252 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 253 1 {CSTYLE "" 
+-1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 254 1 {CSTYLE "" -1 -1 "Courier" 1 11 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1
+ 255 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 256 1 {CSTYLE "" -1 -1 "Times"
+ 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 257 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 
+1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 258 1 {CSTYLE
+ "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 
+0 2 0 2 2 -1 1 }{PSTYLE "" -1 259 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 
+0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 
+260 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 261 1 {CSTYLE "" -1 -1 "Cou
+rier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "" -1 262 1 {CSTYLE "" -1 -1 "Courier" 1 11 0 0 255 1 2 2 2 
+2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 263 1 
+{CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 264 1 {CSTYLE "" -1 -1 "Times" 1 11 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" 
+-1 265 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1
+ }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 266 1 {CSTYLE "" -1 -1 "
+Courier" 1 11 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "" -1 267 1 {CSTYLE "" -1 -1 "Courier" 1 11 0 0 255 1 2 
+2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 268 1 
+{CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 269 1 {CSTYLE "" -1 -1 "Courier" 
+1 11 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 270 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 271 1 {CSTYLE "" 
+-1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "" -1 272 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 273 1 
+{CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 274 1 {CSTYLE "" -1 -1 "Courier" 
+1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 275 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 276 1 {CSTYLE "" 
+-1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 277 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 
+0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 
+278 1 {CSTYLE "" -1 -1 "Courier" 1 11 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 279 1 {CSTYLE "" -1 -1 "Tim
+es" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "" -1 280 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 281 1 {CSTYLE "" 
+-1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "" -1 282 1 {CSTYLE "" -1 -1 "Courier" 1 11 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1
+ 283 1 {CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 284 1 {CSTYLE "" -1 -1 "Co
+urier" 1 11 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 
+1 }{PSTYLE "" -1 285 1 {CSTYLE "" -1 -1 "Courier" 1 11 0 0 255 1 2 2 2
+ 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 286 1 
+{CSTYLE "" -1 -1 "Courier" 1 11 255 0 0 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0
+ 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 287 1 {CSTYLE "" -1 -1 "Times" 1 
+11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"" -1 288 1 {CSTYLE "" -1 -1 "Times" 1 11 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 209 "" 0 "" {TEXT 207 21 "Review Questions - 02"
+ }}{PARA 210 "" 0 "" {TEXT 214 0 "" }}{PARA 211 "" 0 "" {TEXT 212 6 "N
+ote: " }{TEXT 213 201 "Please answer the following questions to review
+ Lecture 2. You may need to try some Maple commands and answer the rev
+iew questions under the help of your lecture notes and the Maple built
+-in help menu." }}{PARA 212 "" 0 "" {TEXT 214 0 "" }}}{EXCHG {PARA 213
+ "" 0 "" {TEXT 214 63 "1. What are the outputs of the three commands i
+n the two cases?" }}}{EXCHG {PARA 214 "> " 0 "" {MPLTEXT 1 0 14 "resta
+rt:x=2:x;" }}}{EXCHG {PARA 215 "" 0 "" {TEXT 207 79 "The variable is s
+et to equal two in a boolean expression and then x is printed." }}}
+{EXCHG {PARA 216 "> " 0 "" {MPLTEXT 1 0 15 "restart:x:=2:x;" }}}
+{EXCHG {PARA 217 "" 0 "" {TEXT 207 71 "The variable x is assigned the \+
+value 2 and then the value 2 is printed." }{TEXT 207 0 "" }}}{EXCHG 
+{PARA 218 "" 0 "" {TEXT 214 0 "" }}{PARA 219 "" 0 "" {TEXT 214 112 "2.
+  Write a program using a do loop that will print out the squares of t
+he integers n where n goes from 5 to 10." }}}{EXCHG {PARA 220 "> " 0 "
+" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"for\", size = \"1
+1\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo
+(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"i\", size = \"11
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\" \+
+\", size = \"11\", mathvariant = \"normal\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"from\", size = \"11
+\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fe
+nce = \"false\", separator = \"false\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(
+\" \", size = \"11\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"false\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.0em\"), Typesetting:-mn(\"5\", size = \"11\"
+, mathvariant = \"normal\"), Typesetting:-mo(\" \", size = \"11\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.0em\"), Typesetting:-mo(\"to\", size = \"11\", bold = \"true\", mathv
+ariant = \"bold\", fontweight = \"bold\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.0em\"), Typesetting:-mn(\"10\", size = \"11\", mathvariant = \"normal
+\"), Typesetting:-mo(\" \", size = \"11\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo
+(\"do\", size = \"11\", bold = \"true\", mathvariant = \"bold\", fontw
+eight = \"bold\", fence = \"false\", separator = \"false\", stretchy =
+ \"false\", symmetric = \"false\", largeop = \"false\", movablelimits \+
+= \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em
+\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em\", depth \+
+= \"0.0ex\", linebreak = \"newline\"), Typesetting:-mo(\" \", size = \+
+\"11\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", r
+space = \"0.0em\"), Typesetting:-msup(Typesetting:-mi(\"i\", size = \"
+11\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mrow(
+Typesetting:-mn(\"2\", size = \"11\", mathvariant = \"normal\")), supe
+rscriptshift = \"0\"), Typesetting:-mo(\";\", size = \"11\", mathvaria
+nt = \"normal\", fence = \"false\", separator = \"true\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.27777
+78em\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em\", de
+pth = \"0.0ex\", linebreak = \"newline\"), Typesetting:-mo(\" \", size
+ = \"11\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"), Typesetting:-mo(\"end\", size = \"11\", bold = \+
+\"true\", mathvariant = \"bold\", fontweight = \"bold\", fence = \"fal
+se\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \", size
+ = \"11\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"), Typesetting:-mo(\"do\", size = \"11\", bold = \+
+\"true\", mathvariant = \"bold\", fontweight = \"bold\", fence = \"fal
+se\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\";\", size
+ = \"11\", mathvariant = \"normal\", fence = \"false\", separator = \"
+true\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.2777778em\"));" "-I%mrowG6#/I+modulenameG6\"I,Typesettin
+gGI(_syslibGF'69-I#moGF$60Q$forF'/%%sizeGQ#11F'/%%boldGQ%trueF'/%,math
+variantGQ%boldF'/%+fontweightGF7/%&fenceGQ&falseF'/%*separatorGF</%)st
+retchyGF</%*symmetricGF</%(largeopGF</%.movablelimitsGF</%'accentGF</%
+'lspaceGQ&0.0emF'/%'rspaceGFK-F,6.Q\"~F'F//F6Q'normalF'F:F=F?FAFCFEFGF
+IFL-I#miGF$6&Q\"iF'F//%'italicGF4/F6Q'italicF'FN-F,60Q%fromF'F/F2F5F8F
+:F=F?FAFCFEFGFIFLFN-I#mnGF$6%Q\"5F'F/FQFN-F,60Q#toF'F/F2F5F8F:F=F?FAFC
+FEFGFIFLFN-Fin6%Q#10F'F/FQFN-F,60Q#doF'F/F2F5F8F:F=F?FAFCFEFGFIFL-I'ms
+paceGF$6&/%'heightGQ&0.0exF'/%&widthGFK/%&depthGFjo/%*linebreakGQ(newl
+ineF'FN-I%msupGF$6%FS-F#6#-Fin6%Q\"2F'F/FQ/%1superscriptshiftGQ\"0F'-F
+,6.Q\";F'F/FQF:/F>F4F?FAFCFEFGFI/FMQ,0.2777778emF'FeoFN-F,60Q$endF'F/F
+2F5F8F:F=F?FAFCFEFGFIFLFNFboF]q" }}{PARA 221 "" 1 "" {XPPMATH 20 "\"#D
+" }}{PARA 222 "" 1 "" {XPPMATH 20 "\"#O" }}{PARA 223 "" 1 "" {XPPMATH 
+20 "\"#\\" }}{PARA 224 "" 1 "" {XPPMATH 20 "\"#k" }}{PARA 225 "" 1 "" 
+{XPPMATH 20 "\"#\")" }}{PARA 226 "" 1 "" {XPPMATH 20 "\"$+\"" }}}
+{EXCHG {PARA 227 "" 0 "" {TEXT 214 0 "" }}{PARA 228 "" 0 "" {TEXT 214 
+181 "3.  Write a do loop that goes from n = 1 to n = 100 and prints ou
+t those values of n that satisfy 2*n^3 mod 11 = 3. You will need to us
+e an if ... then print(..); end if; statement." }}}{EXCHG {PARA 229 ">
+ " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\"for\", size
+ = \"11\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bol
+d\", fence = \"false\", separator = \"false\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetti
+ng:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"i\", size =
+ \"11\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo
+(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"from\", size = \"
+11\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", \+
+fence = \"false\", separator = \"false\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-m
+o(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false\", s
+eparator = \"false\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mn(\"1\", size = \"11
+\", mathvariant = \"normal\"), Typesetting:-mo(\" \", size = \"11\", m
+athvariant = \"normal\", fence = \"false\", separator = \"false\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mo(\"to\", size = \"11\", bold = \"true\", ma
+thvariant = \"bold\", fontweight = \"bold\", fence = \"false\", separa
+tor = \"false\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mn(\"100\", size = \"11\", mathvariant = \"no
+rmal\"), Typesetting:-mo(\" \", size = \"11\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mo(\"do\", size = \"11\", bold = \"true\", mathvariant = \"bold\", \+
+fontweight = \"bold\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.0em\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em\", de
+pth = \"0.0ex\", linebreak = \"newline\"), Typesetting:-mo(\" \", size
+ = \"11\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\"
+, rspace = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", mathvaria
+nt = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"
+), Typesetting:-mo(\" \", size = \"11\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(
+\"n\", size = \"11\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mo(\"&coloneq;\", size = \"11\", mathvariant = \"normal\", \+
+fence = \"false\", separator = \"false\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Ty
+pesetting:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mn(\"2\",
+ size = \"11\", mathvariant = \"normal\"), Typesetting:-mo(\"&sdot;\",
+ size = \"11\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-msup(Typesetting:-mi(\"i\", \+
+size = \"11\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mrow(Typesetting:-mn(\"3\", size = \"11\", mathvariant = \"normal
+\")), superscriptshift = \"0\"), Typesetting:-mo(\":\", size = \"11\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rs
+pace = \"0.2777778em\"), Typesetting:-mspace(height = \"0.0ex\", width
+ = \"0.0em\", depth = \"0.0ex\", linebreak = \"newline\"), Typesetting
+:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false\"
+, separator = \"false\", stretchy = \"false\", symmetric = \"false\", \+
+largeop = \"false\", movablelimits = \"false\", accent = \"false\", ls
+pace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \", size = \+
+\"11\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", r
+space = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), \+
+Typesetting:-mi(\"r\", size = \"11\", italic = \"true\", mathvariant =
+ \"italic\"), Typesetting:-mo(\"&coloneq;\", size = \"11\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mi(\"modp\", size = \"11\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow
+(Typesetting:-mi(\"n\", size = \"11\", italic = \"true\", mathvariant \+
+= \"italic\"), Typesetting:-mo(\",\", size = \"11\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"true\", stretchy = \"false\"
+, symmetric = \"false\", largeop = \"false\", movablelimits = \"false
+\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"),
+ Typesetting:-mn(\"11\", size = \"11\", mathvariant = \"normal\")), si
+ze = \"11\", mathvariant = \"normal\"), Typesetting:-mo(\";\", size = \+
+\"11\", mathvariant = \"normal\", fence = \"false\", separator = \"tru
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.2777778em\"), Typesetting:-mspace(height = \"0.0ex\", width
+ = \"0.0em\", depth = \"0.0ex\", linebreak = \"newline\"), Typesetting
+:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false\"
+, separator = \"false\", stretchy = \"false\", symmetric = \"false\", \+
+largeop = \"false\", movablelimits = \"false\", accent = \"false\", ls
+pace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \", size = \+
+\"11\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", r
+space = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", mathvariant \+
+= \"normal\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), \+
+Typesetting:-mo(\"if\", size = \"11\", bold = \"true\", mathvariant = \+
+\"bold\", fontweight = \"bold\", fence = \"false\", separator = \"fals
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", mathvariant =
+ \"normal\", fence = \"false\", separator = \"false\", stretchy = \"fa
+lse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"f
+alse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), T
+ypesetting:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence =
+ \"false\", separator = \"false\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"r
+\", size = \"11\", italic = \"true\", mathvariant = \"italic\"), Types
+etting:-mo(\"=\", size = \"11\", mathvariant = \"normal\", fence = \"f
+alse\", separator = \"false\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-
+mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"false\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mn(\"3\", size = \"1
+1\", mathvariant = \"normal\"), Typesetting:-mo(\" \", size = \"11\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"false\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.0em\"), Typesetting:-mo(\"then\", size = \"11\", bold = \"true\", \+
+mathvariant = \"bold\", fontweight = \"bold\", fence = \"false\", sepa
+rator = \"false\", stretchy = \"false\", symmetric = \"false\", largeo
+p = \"false\", movablelimits = \"false\", accent = \"false\", lspace =
+ \"0.0em\", rspace = \"0.0em\"), Typesetting:-mspace(height = \"0.0ex
+\", width = \"0.0em\", depth = \"0.0ex\", linebreak = \"newline\"), Ty
+pesetting:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \",
+ size = \"11\", mathvariant = \"normal\", fence = \"false\", separator
+ = \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", mat
+hvariant = \"normal\", fence = \"false\", separator = \"false\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.0em\"), Typesetting:-mo(\" \", size = \"11\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \"false
+\", separator = \"false\", stretchy = \"false\", symmetric = \"false\"
+, largeop = \"false\", movablelimits = \"false\", accent = \"false\", \+
+lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\" \", size =
+ \"11\", mathvariant = \"normal\", fence = \"false\", separator = \"fa
+lse\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.0em\"), Typesetting:-mi(\"print\", size = \"11\", italic
+ = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetti
+ng:-mrow(Typesetting:-mi(\"i\", size = \"11\", italic = \"true\", math
+variant = \"italic\")), size = \"11\", mathvariant = \"normal\"), Type
+setting:-mo(\";\", size = \"11\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.2777778em\"), Typesetting:-mspace
+(height = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", linebreak =
+ \"newline\"), Typesetting:-mo(\" \", size = \"11\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"end\",
+ size = \"11\", bold = \"true\", mathvariant = \"bold\", fontweight = \+
+\"bold\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mo(\" \", size = \"11\", mathvariant = \"normal\", fence = \"
+false\", separator = \"false\", stretchy = \"false\", symmetric = \"fa
+lse\", largeop = \"false\", movablelimits = \"false\", accent = \"fals
+e\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mo(\"if\", \+
+size = \"11\", bold = \"true\", mathvariant = \"bold\", fontweight = \+
+\"bold\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mo(\";\", size = \"11\", mathvariant = \"normal\", fence = \"
+false\", separator = \"true\", stretchy = \"false\", symmetric = \"fal
+se\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.2777778em\"), Typesetting:-mspace
+(height = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", linebreak =
+ \"newline\"), Typesetting:-mo(\" \", size = \"11\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mo(\"end\", size = \"11\", bold = \"true\", mathvariant = \"b
+old\", fontweight = \"bold\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspac
+e = \"0.0em\"), Typesetting:-mo(\" \", size = \"11\", mathvariant = \"
+normal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Type
+setting:-mo(\"do\", size = \"11\", bold = \"true\", mathvariant = \"bo
+ld\", fontweight = \"bold\", fence = \"false\", separator = \"false\",
+ stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mov
+ablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace
+ = \"0.0em\"), Typesetting:-mo(\":\", size = \"11\", mathvariant = \"n
+ormal\", fence = \"false\", separator = \"false\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.277777
+8em\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6ao-I#
+moGF$60Q$forF'/%%sizeGQ#11F'/%%boldGQ%trueF'/%,mathvariantGQ%boldF'/%+
+fontweightGF7/%&fenceGQ&falseF'/%*separatorGF</%)stretchyGF</%*symmetr
+icGF</%(largeopGF</%.movablelimitsGF</%'accentGF</%'lspaceGQ&0.0emF'/%
+'rspaceGFK-F,6.Q\"~F'F//F6Q'normalF'F:F=F?FAFCFEFGFIFL-I#miGF$6&Q\"iF'
+F//%'italicGF4/F6Q'italicF'FN-F,60Q%fromF'F/F2F5F8F:F=F?FAFCFEFGFIFLFN
+-I#mnGF$6%Q\"1F'F/FQFN-F,60Q#toF'F/F2F5F8F:F=F?FAFCFEFGFIFLFN-Fin6%Q$1
+00F'F/FQFN-F,60Q#doF'F/F2F5F8F:F=F?FAFCFEFGFIFL-I'mspaceGF$6&/%'height
+GQ&0.0exF'/%&widthGFK/%&depthGFjo/%*linebreakGQ(newlineF'FNFNFN-FT6&Q
+\"nF'F/FWFY-F,6.Q*&coloneq;F'F/FQF:F=F?FAFCFEFG/FJQ,0.2777778emF'/FMFi
+pFN-Fin6%Q\"2F'F/FQ-F,6.Q'&sdot;F'F/FQF:F=F?FAFCFEFGFIFL-I%msupGF$6%FS
+-F#6#-Fin6%Q\"3F'F/FQ/%1superscriptshiftGQ\"0F'-F,6.Q\":F'F/FQF:F=F?FA
+FCFEFGFhpFjpFeoFNFNFN-FT6&Q\"rF'F/FWFYFep-FT6&Q%modpF'F/FWFY-I(mfenced
+GF$6%-F#6%Fbp-F,6.Q\",F'F/FQF:/F>F4F?FAFCFEFGFI/FMQ,0.3333333emF'-Fin6
+%F1F/FQF/FQ-F,6.Q\";F'F/FQF:F]sF?FAFCFEFGFIFjpFeoFNFNFN-F,60Q#ifF'F/F2
+F5F8F:F=F?FAFCFEFGFIFLFNFNF_r-F,6.Q\"=F'F/FQF:F=F?FAFCFEFGFhpFjpFNFfqF
+N-F,60Q%thenF'F/F2F5F8F:F=F?FAFCFEFGFIFLFeoFNFNFNFNFNFN-FT6&Q&printF'F
+/FWFY-Ffr6%-F#6#FSF/FQFbsFeoFNFN-F,60Q$endF'F/F2F5F8F:F=F?FAFCFEFGFIFL
+FNFesFbsFeoFNFetFNFboF\\r" }}{PARA 230 "" 1 "" {XPPMATH 20 "\"\"'" }}
+{PARA 231 "" 1 "" {XPPMATH 20 "\"#<" }}{PARA 232 "" 1 "" {XPPMATH 20 "
+\"#G" }}{PARA 233 "" 1 "" {XPPMATH 20 "\"#R" }}{PARA 234 "" 1 "" 
+{XPPMATH 20 "\"#]" }}{PARA 235 "" 1 "" {XPPMATH 20 "\"#h" }}{PARA 236 
+"" 1 "" {XPPMATH 20 "\"#s" }}{PARA 237 "" 1 "" {XPPMATH 20 "\"#$)" }}
+{PARA 238 "" 1 "" {XPPMATH 20 "\"#%*" }}}{EXCHG {PARA 239 "" 0 "" 
+{TEXT 214 0 "" }}{PARA 240 "" 0 "" {TEXT 214 107 "4. Write a procedure
+ called f whose input is x and whose output is -1 if x < 0,  0 if x = \+
+0, and 1 if x >0." }}}{EXCHG {PARA 241 "> " 0 "" {MPLTEXT 1 0 76 "f:= \+
+proc(x)\n  if x<0 then -1\n  elif x=0 then 0\n  else  1\n  end if:\nen
+d proc:" }}}{EXCHG {PARA 242 "> " 0 "" {MPLTEXT 1 0 18 "f(-1); f(0); f
+(1);" }}{PARA 243 "" 1 "" {TEXT 215 2 "-1" }}{PARA 244 "" 1 "" {TEXT 
+215 1 "0" }{TEXT 215 2 "\n1" }}}{EXCHG {PARA 245 "" 0 "" {TEXT 214 0 "
+" }}{PARA 246 "" 0 "" {TEXT 214 37 "5. What is the output of the comma
+nd " }}}{EXCHG {PARA 247 "> " 0 "" {MPLTEXT 1 0 35 "n:=3: if n<4 then \+
+n:=n+2 end if: n;" }}}{EXCHG {PARA 248 "" 0 "" {TEXT 207 166 "In this \+
+command, n will be assigned the value of 3. Then it will be determined
+ that n<4 followed by n being assigned the new value of 3+2. Fianlly, \+
+5 will be printed." }}}{EXCHG {PARA 249 "" 0 "" {TEXT 214 0 "" }}
+{PARA 250 "" 0 "" {TEXT 214 47 "6. What is the mistake in the followin
+g command" }}}{EXCHG {PARA 251 "> " 0 "" {MPLTEXT 1 0 54 "a:=5:b:=10: \+
+if a<b then return a else return b end if;" }}}{EXCHG {PARA 252 "" 0 "
+" {TEXT 207 73 "The mistake in this command is the return statement. T
+he code should read" }}}{EXCHG {PARA 253 "> " 0 "" {MPLTEXT 1 0 45 "a:
+=5: b:=10: \nif a<b then a \n else b \nend if;" }}{PARA 254 "" 1 "" 
+{TEXT 215 1 "5" }}}{EXCHG {PARA 255 "" 0 "" {TEXT 214 0 "" }}{PARA 256
+ "" 0 "" {TEXT 214 79 "7. Is this correct to test if a given natrual n
+umber n greater than 3 is prime?" }}}{EXCHG {PARA 257 "> " 0 "" 
+{MPLTEXT 1 0 17 "ISPRIME:=proc(n)\n" }{MPLTEXT 1 0 10 " local k;\n" }
+{MPLTEXT 1 0 24 " for k from 2 to n-1 do\n" }{MPLTEXT 1 0 43 " if n mo
+d k = 0 then return false end if: \n" }{MPLTEXT 1 0 9 " end do:\n" }
+{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG {PARA 258 "> " 0 "" {MPLTEXT 1 0 
+13 "ISPRIME(101);" }}}{EXCHG {PARA 259 "" 0 "" {TEXT 207 56 "The proce
+dure is not complete. The correct procedure is:" }}}{EXCHG {PARA 260 "
+> " 0 "" {MPLTEXT 1 0 133 "ISPRIME:=proc(n)\n  local k;\n  for k from \+
+2 to n-1 do\n    if n mod k = 0 then return false; end if;\n  end do:
+\n  return true;\nend proc:" }}}{EXCHG {PARA 261 "> " 0 "" {MPLTEXT 1 
+0 25 "ISPRIME(10); ISPRIME(11);" }}{PARA 262 "" 1 "" {TEXT 215 5 "fals
+e" }{TEXT 215 5 "\ntrue" }}}{EXCHG {PARA 263 "" 0 "" {TEXT 214 0 "" }}
+{PARA 264 "" 0 "" {TEXT 214 52 "8. What is the difference between the \+
+two sentences:" }}}{EXCHG {PARA 265 "> " 0 "" {MPLTEXT 1 0 28 "x:='x':
+y:='y': x:=5; y:=2*x;" }}{PARA 266 "" 1 "" {TEXT 215 6 "x := 5" }}
+{PARA 267 "" 1 "" {TEXT 215 7 "y := 10" }}}{EXCHG {PARA 268 "> " 0 "" 
+{MPLTEXT 1 0 28 "x:='x':y:='y': y:=2*x; x:=5;" }{TEXT 214 0 "" }}
+{PARA 269 "" 1 "" {TEXT 215 8 "y := 2*x" }{TEXT 215 7 "\nx := 5" }}}
+{EXCHG {PARA 270 "" 0 "" {TEXT 207 150 "The difference between the two
+ sentences is that the first one returns 10 and the second returns 5. \+
+However, the values of x and y are the same still." }}}{EXCHG {PARA 
+271 "" 0 "" {TEXT 214 0 "" }}{PARA 272 "" 0 "" {TEXT 214 119 "9. Check
+ whether the following procedure is correct or not, for computing the \+
+sum of all prime numbers between 1 and n." }}}{EXCHG {PARA 273 "> " 0 
+"" {MPLTEXT 1 0 13 "SUM:=proc(n)\n" }{MPLTEXT 1 0 15 " local SUM, k;\n
+" }{MPLTEXT 1 0 9 " SUM:=0:\n" }{MPLTEXT 1 0 22 " for k from 1 to n do
+\n" }{MPLTEXT 1 0 45 " if isprime(k)=true then SUM:=SUM+k end if: \n" 
+}{MPLTEXT 1 0 9 " end do;\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG 
+{PARA 274 "> " 0 "" {MPLTEXT 1 0 8 "SUM(10);" }}}{EXCHG {PARA 275 "" 0
+ "" {TEXT 207 30 "The correct program should be:" }}}{EXCHG {PARA 276 
+"> " 0 "" {MPLTEXT 1 0 149 "SUM:= proc(n)\n  local SUM, k;\n  SUM:= 0:
+\n    for k from 1 to n do\n    if isprime(k)=true then SUM:= SUM+k\n \+
+   end if:\n  end do;\nreturn SUM;\nend proc:" }}}{EXCHG {PARA 277 "> 
+" 0 "" {MPLTEXT 1 0 8 "SUM(10);" }}{PARA 278 "" 1 "" {TEXT 215 2 "17" 
+}}}{EXCHG {PARA 279 "" 0 "" {TEXT 214 0 "" }}{PARA 280 "" 0 "" {TEXT 
+214 62 "10. What is the difference bwtween the following two programs?
+" }}}{EXCHG {PARA 281 "> " 0 "" {MPLTEXT 1 0 15 "printlevel:=0:\n" }
+{MPLTEXT 1 0 7 "S:=\{\}:\n" }{MPLTEXT 1 0 22 "for n from 1 to 10 do\n"
+ }{MPLTEXT 1 0 43 "if n mod 2 =0 then S:=S union \{n\} end if; \n" }
+{MPLTEXT 1 0 8 "end do;\n" }{MPLTEXT 1 0 2 "S;" }}{PARA 282 "" 1 "" 
+{TEXT 215 16 "\{2, 4, 6, 8, 10\}" }}}{EXCHG {PARA 283 "> " 0 "" 
+{MPLTEXT 1 0 15 "printlevel:=2:\n" }{MPLTEXT 1 0 7 "S:=\{\}:\n" }
+{MPLTEXT 1 0 22 "for n from 1 to 10 do\n" }{MPLTEXT 1 0 43 "if n mod 2
+ =0 then S:=S union \{n\} end if; \n" }{MPLTEXT 1 0 8 "end do;\n" }
+{MPLTEXT 1 0 2 "S;" }}{PARA 284 "" 1 "" {TEXT 215 8 "S := \{2\}" }
+{TEXT 215 12 "\nS := \{2, 4\}" }}{PARA 285 "" 1 "" {TEXT 215 14 "S := \+
+\{2, 4, 6\}" }{TEXT 215 18 "\nS := \{2, 4, 6, 8\}" }{TEXT 215 22 "\nS \+
+:= \{2, 4, 6, 8, 10\}" }{TEXT 215 17 "\n\{2, 4, 6, 8, 10\}" }}}{EXCHG 
+{PARA 286 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 287 "" 0 "" 
+{TEXT 207 238 "The difference between the two programs is that the pri
+nt levels in the two programs are different. The top (interactice) lev
+el is level 0; statements within conditional/repetitions statements ar
+e level 1 or level 2 is doubly nested, etc." }}}{EXCHG {PARA 288 "" 0 
+"" {TEXT 216 7 "- End -" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 0 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

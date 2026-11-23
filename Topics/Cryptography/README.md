@@ -1,9 +1,7 @@
-# Cryptography-themed Maple worksheets
+# Educational cryptography examples
 
-This folder contains the original Maple worksheets:
+- `RSA_signature.mpl`: signs a small numerical message and verifies the signature.
+- `Pollard_rho.mpl`: demonstrates a nontrivial factor of 8051 using a polynomial iteration and GCD.
+- `ElGamal.mpl`: encrypts and decrypts a small numerical message.
 
-- `Pollard_rho.mw` — named for Pollard rho, a number-theoretic algorithm.
-- `RSA_signature.mw` — named for RSA digital signatures.
-- `ElGamal.mw` — named for ElGamal cryptography.
-
-These descriptions reflect the filenames only. The code has not been executed or audited for correctness, authorship, or security. Do **not** use these educational worksheets to protect real data. Before publishing, document what each worksheet actually implements, any references or course attribution, and any sample outputs you independently reproduce.
+Accompanying screenshots were supplied by the user and are included for context. The examples are not production-safe. No Maple runtime verification was performed.
