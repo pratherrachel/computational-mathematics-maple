@@ -1,8 +1,7 @@
 Transcription of pasted Maple worksheet text (including console output).
-Not directly executable. Name fields redacted.
+Not directly executable. 
 
 Assignment Five
-[name redacted]
  Problem 1.   
 
 Generate 8 random 3 by 3 matrices using the RandomMatrix command from the  LinearAlgebra package. As each matrix is generated use Eigenvalues to compute its eigenvalues. Then take the product of the eigenvalues, and check that for each matrix, this product is equal to the determinant of the matrix.  
