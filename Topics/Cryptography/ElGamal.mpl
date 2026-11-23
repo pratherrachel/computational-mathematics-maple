@@ -1,4 +1,3 @@
-# Educational Maple example transcribed from the supplied worksheet.
 # This text-based .mpl file is readable on GitHub.
 # Original calculation order is retained where practical; no execution verified.
 # Demonstration only, not production cryptography.
@@ -16,4 +15,4 @@ c := [c1, c2];
 my_s := c1^x mod p:
 my_m := c2 * (1/my_s mod p) mod p:
 evalb(my_m = m);
-# Supplied worksheet: c = [36,47], my_s = 84, my_m = 21.
+# Expected result: c = [36,47], my_s = 84, my_m = 21.
