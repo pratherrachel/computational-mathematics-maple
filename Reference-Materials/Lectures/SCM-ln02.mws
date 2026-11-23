@@ -1,0 +1,947 @@
+{VERSION 6 0 "Windows 10" "6.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0
+ 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Tit
+le" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 
+}3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "_pstyle2" -1 208 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 
+1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle3
+" -1 209 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pstyle1" -1 210 1 {CSTYLE "" 
+-1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 
+2 2 -1 1 }{PSTYLE "_pstyle6" -1 211 1 {CSTYLE "" -1 -1 "Times" 1 12 0 
+0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "_pst
+yle4" -1 212 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 
+2 -1 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2
+ 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 200 "Times" 1 12 175 0 175 
+1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle258" -1 201 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle259" -1 202 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle256" -1 203 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle257" -1 204 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "Code" -1 205 "Courier New" 1 12 255 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0
+ 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle260" -1 206 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 
+0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 207 "Tim
+es" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "T
+imes" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Tim
+es" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 
+"Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 208 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times"
+ 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Time
+s" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder"
+ -1 209 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "L
+aTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Em
+phasized" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equ
+ation Label" -1 210 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D \+
+Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyp
+erlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "C
+aption Text" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small222" -1 212 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "_cstyle10" -1 213 "Times" 1 12 0 0 0 1 2 2 1 2 2 
+2 0 0 0 1 }{CSTYLE "_cstyle11" -1 214 "Times" 1 12 0 0 0 1 2 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1
+ 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized265" -1 215 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 
+255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 
+14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12
+ 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 216 "Time
+s" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "_cstyle265" -1 217
+ "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle266" -1 218
+ "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33
+ "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle261" -1 219
+ "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle262" -1 220
+ "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle263" -1 221
+ "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle264" -1 222
+ "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 
+"Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Sm
+all" -1 223 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math \+
+Symbol 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D \+
+Math" -1 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Non
+terminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "A
+nnotation Text" -1 224 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 
+2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 225 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle2" -1 226 "Times" 1 18 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle1" -1 227 "Times" 1 18 0 0 0 1
+ 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle4" -1 228 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle3" -1 229 "Times" 1 18 0 0 0 1 1 1
+ 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle6" -1 230 "Courier" 1 12 255 0 0 1 2 
+1 2 2 1 2 0 0 0 1 }{CSTYLE "_cstyle5" -1 231 "Times" 1 12 0 0 0 1 2 1 
+2 2 2 2 0 0 0 1 }{CSTYLE "_cstyle8" -1 232 "Times" 1 12 0 0 0 1 2 2 1 
+2 2 2 0 0 0 1 }{CSTYLE "_cstyle7" -1 233 "Times" 1 12 0 0 0 1 1 2 2 2 
+2 2 0 0 0 1 }{CSTYLE "_cstyle9" -1 234 "Times" 1 12 0 0 0 1 2 1 1 2 2 
+2 0 0 0 1 }{PSTYLE "" -1 213 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 214 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 1 0 0 1 }1 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 235 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "" -1 236 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 237 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 238 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 239 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 240 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 241 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 242 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 243 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 244 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 245 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 246 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 247 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 248 "Times" 1 12 0 0 0 1 1
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 249 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 250 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 251 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 252 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 253 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 254 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 255 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 256 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 257 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 258 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 259 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 260 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 261 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 262 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 263 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 264 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 265 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 266 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 267 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 215 1 {CSTYLE ""
+ -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 210 "" 0 "" {TEXT 227 22 "Lecture 2 Flow Control
+" }}}{SECT 0 {PARA 208 "" 0 "" {TEXT 226 15 "Shift + Return " }{TEXT 
+229 2 "vs" }{TEXT 226 11 " the Return" }{TEXT 268 0 "" }}{EXCHG {PARA 
+209 "" 0 "" {TEXT 228 66 "If the cursor is on the same line as a Maple
+ command, hitting the " }{TEXT 231 6 "Return" }{TEXT 228 52 " key will
+ cause the command to be executed. Hitting " }{TEXT 231 14 "Shift + Re
+turn" }{TEXT 228 16 " (hold down the " }{TEXT 231 5 "Shift" }{TEXT 
+228 17 " key and then hit" }{TEXT 231 7 " Return" }{TEXT 228 107 ") wi
+ll move the cursor to the next line without executing the command and \+
+without introducing a new prompt " }{TEXT 231 1 ">" }{TEXT 228 4 ".  \+
+\n" }{TEXT 269 0 "" }}{PARA 209 "" 0 "" {TEXT 228 234 "Sometimes you d
+on't want Maple to execute a sequence of commands till you have typed \+
+in several on different lines. To do this one needs to know how to go \+
+to another output line without getting a new prompt, that is, how to s
+uppress  " }{TEXT 231 5 ">.   " }{TEXT 228 21 "In such cases use of " 
+}{TEXT 231 14 "Shift + Return" }{TEXT 228 16 " (hold down the " }{TEXT
+ 231 5 "Shift" }{TEXT 228 12 " key and hit" }{TEXT 231 7 " Return" }
+{TEXT 228 24 ") will accomplish this. " }}{PARA 209 "" 0 "" {TEXT 269 
+0 "" }}{PARA 209 "" 0 "" {TEXT 228 126 "Before continuing make sure yo
+u can type in the following in the space following without getting mor
+e than the initial prompt " }{TEXT 231 1 ">" }{TEXT 228 1 "." }}}
+{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 22 "for i from 1 to 3 do \n"
+ }{MPLTEXT 1 230 18 "  print(\"Hello\");\n" }{MPLTEXT 1 230 7 "end do:
+" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 35 "To get the indentation on \+
+the line " }{TEXT 230 16 "print(\"Hello\"); " }{TEXT 228 62 "you will \+
+have to use the space bar to insert the extra spaces." }}}{EXCHG 
+{PARA 209 "" 0 "" {TEXT 269 0 "" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 
+269 0 "" }}}}{SECT 0 {PARA 208 "" 0 "" {TEXT 226 25 "for . . . do . . \+
+. end do" }}{EXCHG {PARA 209 "" 0 "" {TEXT 233 5 "Loops" }{TEXT 228 4 
+" or " }{TEXT 233 8 "do loops" }{TEXT 228 203 " provide a way to repea
+t operations a specified number of times. They are best understood by \+
+examples.  The example in the previous section showed a way to print H
+ello three times. Execute the following:" }}}{EXCHG {PARA 209 "> " 0 "
+" {MPLTEXT 1 230 22 "for i from 1 to 4 do \n" }{MPLTEXT 1 230 13 "  i,
+i^2,i^3;\n" }{MPLTEXT 1 230 7 "end do;" }}}{EXCHG {PARA 209 "> " 0 "" 
+{MPLTEXT 1 230 22 "for x from -2 to 2 do\n" }{MPLTEXT 1 230 20 "  x, e
+valf(sin(x));\n" }{MPLTEXT 1 230 7 "end do;" }}}{EXCHG {PARA 209 "" 0 
+"" {TEXT 228 235 "Now we illustrate a common technique for adding a sp
+ecified number of terms. There is nothing special about SUM as a varia
+ble. We could use any (unprotected) name for this variable. We will fi
+nd the sum of the integers 1 through 10.   " }}{PARA 209 "" 0 "" {TEXT
+ 269 0 "" }}{PARA 209 "" 0 "" {TEXT 228 95 "We start by setting the va
+riable SUM to 0. Examine the output carefully to see what's going on."
+ }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 8 "SUM:=0;\n" }{MPLTEXT 
+1 230 22 "for i from 1 to 5 do \n" }{MPLTEXT 1 230 16 " SUM:=SUM + i; \+
+\n" }{MPLTEXT 1 230 7 "end do;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 
+53 "Note the value of i after the loop has been executed:" }}}{EXCHG 
+{PARA 209 "> " 0 "" {MPLTEXT 1 230 2 "i;" }}}{EXCHG {PARA 209 "" 0 "" 
+{TEXT 228 54 "See the value of SUM after the loop has been executed:" 
+}}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 4 "SUM;" }}}{EXCHG {PARA 
+209 "" 0 "" {TEXT 228 62 "To suppress the intermediate steps we may pl
+ace a colon after " }{TEXT 231 6 "end do" }{TEXT 228 35 " instead of a
+ semi-colon and place " }{TEXT 231 4 "SUM;" }{TEXT 228 7 " after " }
+{TEXT 231 8 "end do: " }{TEXT 228 77 "This way we just get the result \+
+desired with a minimum of unnecessary output." }}}{EXCHG {PARA 209 "> 
+" 0 "" {MPLTEXT 1 230 8 "SUM:=0:\n" }{MPLTEXT 1 230 22 "for i from 1 t
+o 5 do \n" }{MPLTEXT 1 230 17 " SUM:= SUM + i; \n" }{MPLTEXT 1 230 8 "
+end do:\n" }{MPLTEXT 1 230 4 "SUM;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 
+228 31 "For another example we compute " }{XPPEDIT 18 0 "Typesetting:-
+mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-munderover(
+Typesetting:-mo(\"&Sum;\", foreground = \"[144,144,144]\", mathvariant
+ = \"normal\", Typesetting:-msemantics = \"inert\", fence = \"false\",
+ separator = \"false\", stretchy = \"true\", symmetric = \"false\", la
+rgeop = \"true\", movablelimits = \"true\", accent = \"false\", lspace
+ = \"0.0em\", rspace = \"0.1666667em\"), Typesetting:-mrow(Typesetting
+:-mi(\"k\", italic = \"true\", mathvariant = \"italic\"), Typesetting:
+-mo(\"=\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.27777
+78em\", rspace = \"0.2777778em\"), Typesetting:-mn(\"1\", mathvariant \+
+= \"normal\")), Typesetting:-mn(\"100\", mathvariant = \"normal\"), ac
+cent = \"false\", accentunder = \"false\"), Typesetting:-mi(\"\"), Typ
+esetting:-mspace(height = \"0.0ex\", width = \"5.0\", depth = \"0.0ex
+\", linebreak = \"auto\"), Typesetting:-mfrac(Typesetting:-mrow(Typese
+tting:-mn(\"1\", mathvariant = \"normal\")), Typesetting:-mrow(Typeset
+ting:-mi(\"k\", italic = \"true\", mathvariant = \"italic\")), linethi
+ckness = \"1\", denomalign = \"center\", numalign = \"center\", bevell
+ed = \"false\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6
+\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&-I+munderoverGF$6'-I#
+moGF$6/Q&&Sum;F'/%+foregroundGQ.[144,144,144]F'/%,mathvariantGQ'normal
+F'/I+msemanticsGF$Q&inertF'/%&fenceGQ&falseF'/%*separatorGFC/%)stretch
+yGQ%trueF'/%*symmetricGFC/%(largeopGFH/%.movablelimitsGFH/%'accentGFC/
+%'lspaceGQ&0.0emF'/%'rspaceGQ,0.1666667emF'-F#6%-F,6%Q\"kF'/%'italicGF
+H/F<Q'italicF'-F56-Q\"=F'F;FAFD/FGFCFI/FLFC/FNFCFO/FRQ,0.2777778emF'/F
+UFao-I#mnGF$6$Q\"1F'F;-Fdo6$Q$100F'F;FO/%,accentunderGFCF+-I'mspaceGF$
+6&/%'heightGQ&0.0exF'/%&widthGQ$5.0F'/%&depthGFap/%*linebreakGQ%autoF'
+-I&mfracGF$6(-F#6#Fco-F#6#FY/%.linethicknessGFfo/%+denomalignGQ'center
+F'/%)numalignGFeq/%)bevelledGFCF+" }{TEXT 228 33 " : This time we use \+
+the variable " }{TEXT 231 5 "total" }{TEXT 228 60 " to keep track of t
+he sum. Of course, any variable would do." }}}{EXCHG {PARA 209 "> " 0 
+"" {MPLTEXT 1 230 10 "total:=0:\n" }{MPLTEXT 1 230 24 "for k from 1 to
+ 100 do \n" }{MPLTEXT 1 230 20 " total:=total+1/k; \n" }{MPLTEXT 1 
+230 8 "end do: " }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 6 "total
+;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 49 "If we want to see how big
+ this is we apply evalf:" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 
+230 13 "evalf(total);" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 269 0 "" }}}
+{EXCHG {PARA 209 "" 0 "" {TEXT 269 0 "" }}}}{SECT 0 {PARA 208 "" 0 "" 
+{TEXT 226 26 "if . . . then . . . end if" }}{PARA 209 "" 0 "" {TEXT 
+269 0 "" }}{EXCHG {PARA 209 "" 0 "" {TEXT 228 31 "Before giving an exa
+mple of an " }{TEXT 231 22 "if ... then ... end if" }{TEXT 228 26 " st
+atement we discuss the " }{TEXT 231 3 "mod" }{TEXT 228 23 " procedure.
+ The command" }{TEXT 231 9 " n mod d " }{TEXT 228 16 "or, equivalently
+" }{TEXT 231 12 ", modp(n,d) " }{TEXT 228 67 "gives the remainder when
+ the integer n is divided by the integer d:" }}}{EXCHG {PARA 209 "> " 
+0 "" {MPLTEXT 1 230 24 "12 mod 10 = modp(12,10);" }}}{EXCHG {PARA 209 
+"> " 0 "" {MPLTEXT 1 230 22 "12 mod 2 = modp(12,2);" }}}{EXCHG {PARA 
+209 "> " 0 "" {MPLTEXT 1 230 22 "12 mod 7 = modp(12,7);" }}}{EXCHG 
+{PARA 209 "" 0 "" {TEXT 228 13 "Note that if " }{TEXT 231 11 "n mod d \+
+= 0" }{TEXT 228 13 " then d is a " }{TEXT 231 6 "factor" }{TEXT 228 4 
+" or " }{TEXT 231 7 "divisor" }{TEXT 228 38 " of n. Let's find all div
+isors of 28. " }{TEXT 232 62 "Notice the way we indent here, so it is \+
+easier to identify the" }{TEXT 228 1 " " }{TEXT 234 9 "do....end" }
+{TEXT 232 1 " " }{TEXT 234 2 "do" }{TEXT 232 6 "  and " }{TEXT 234 13 
+"if ... end if" }{TEXT 232 15 " constructions." }}}{EXCHG {PARA 213 ">
+ " 0 "" {MPLTEXT 1 230 7 "n:=28;\n" }{MPLTEXT 1 230 22 "for d from 1 t
+o n do \n" }{MPLTEXT 1 230 23 "  if n mod d = 0 then \n" }{MPLTEXT 1 
+230 15 "    print(d); \n" }{MPLTEXT 1 230 10 "  end if;\n" }{MPLTEXT 
+1 230 7 "end do:" }{MPLTEXT 1 228 1 "\n" }}}{EXCHG {PARA 209 "" 0 "" 
+{TEXT 228 58 "Change the value of n above and re-execute the procedure
+. " }}{PARA 209 "" 0 "" {TEXT 269 0 "" }}{PARA 209 "" 0 "" {TEXT 228 
+33 "Here's another example using the " }{TEXT 231 22 "if ... then ... \+
+end if" }{TEXT 228 47 " construction. Read it carefully. You should be
+" }}{PARA 209 "" 0 "" {TEXT 228 29 "able to see what's happening." }}}
+{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 22 "for k from 1 to 50 do\n"
+ }{MPLTEXT 1 230 23 "  a:=3*k^2 + 10*k + 1:\n" }{MPLTEXT 1 230 18 "  r
+:= modp(a,31);\n" }{MPLTEXT 1 230 20 "  if r  <  3 then  \n" }{MPLTEXT
+ 1 230 17 "    print(k,r); \n" }{MPLTEXT 1 230 10 "  end if;\n" }
+{MPLTEXT 1 230 7 "end do:" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 55 "N
+ote that the same task can be accomplished as follows:" }}}{EXCHG 
+{PARA 209 "> " 0 "" {MPLTEXT 1 230 22 "for k from 1 to 50 do\n" }
+{MPLTEXT 1 230 32 "  r:=modp(3*k^2 + 10*k + 1,31);\n" }{MPLTEXT 1 230 
+38 "  if r  <  3 then print(k,r); end if;\n" }{MPLTEXT 1 230 7 "end do
+:" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 269 0 "" }}}{EXCHG {PARA 209 "" 0
+ "" {TEXT 269 0 "" }}}}{SECT 0 {PARA 208 "" 0 "" {TEXT 226 42 "The set
+ of positive divisors of an integer" }}{PARA 209 "" 0 "" {TEXT 269 0 "
+" }}{EXCHG {PARA 209 "" 0 "" {TEXT 228 28 "Now we show how to form the
+ " }{TEXT 233 3 "set" }{TEXT 228 113 " of all positive divisors of 28.
+ A student of number theory will easily see how to improve this little
+ program.  " }}{PARA 209 "" 0 "" {TEXT 269 0 "" }}{PARA 209 "" 0 "" 
+{TEXT 228 4 "The " }{TEXT 231 10 "printlevel" }{TEXT 228 75 " is 1 by \+
+default. Changing it to 2 allows us to see what's happening below:" }}
+}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 14 "printlevel:=2:" }}}
+{EXCHG {PARA 214 "> " 0 "" {MPLTEXT 1 230 7 "n:=28:\n" }{MPLTEXT 1 
+230 7 "S:=\{\}; " }{MPLTEXT 1 228 49 "Start with the empty set which i
+s denoted by \{ \}." }{MPLTEXT 1 230 1 "\n" }{MPLTEXT 1 230 21 "for d \+
+from 1 to n do\n" }{MPLTEXT 1 230 22 " if n mod d = 0 then \n" }
+{MPLTEXT 1 230 21 "   S:= S union \{d\}; \n" }{MPLTEXT 1 230 9 " end i
+f;\n" }{MPLTEXT 1 230 7 "end do;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 
+228 39 "Let's see what values d and S have now." }}}{EXCHG {PARA 209 "
+> " 0 "" {MPLTEXT 1 230 4 "d,S;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 
+269 0 "" }}{PARA 209 "" 0 "" {TEXT 228 260 "Now move the cursor back t
+o printlevel:=2; , change the 2 to a 1 and re-execute all the above co
+mmands. Note that the intermediate steps are now suppressed. Note that
+ you may also change the assignment n:=28; to n:=1284; or anything you
+ please and re-execute. " }}{PARA 209 "" 0 "" {TEXT 269 0 "" }}{PARA 
+209 "" 0 "" {TEXT 228 61 "A simpler way to handle the problem in gener
+al is to build a " }{TEXT 233 9 "procedure" }{TEXT 228 89 " to find th
+e set of all positive divisors  of any integer n. We will call this pr
+ocedure " }{TEXT 231 8 "Divisors" }{TEXT 228 120 ". Examine this proce
+dure closely. Note the use of return on the next to last line of the d
+efinition of this procedure.  " }{TEXT 232 11 "DO NOT USE " }{TEXT 
+234 5 "print" }{TEXT 232 13 " in place of " }{TEXT 234 6 "return" }
+{TEXT 232 40 ".  We will explain the difference later." }}{PARA 0 "" 0
+ "" {TEXT 270 0 "" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 18 "Di
+visors:=proc(n)\n" }{MPLTEXT 1 230 7 "S:=\{\}:\n" }{MPLTEXT 1 230 21 "
+for d from 1 to n do\n" }{MPLTEXT 1 230 22 " if n mod d = 0 then \n" }
+{MPLTEXT 1 230 20 "   S:=S union \{d\}; \n" }{MPLTEXT 1 230 9 " end if
+;\n" }{MPLTEXT 1 230 8 "end do;\n" }{MPLTEXT 1 230 10 "return S;\n" }
+{MPLTEXT 1 230 9 "end proc;" }}}{EXCHG {PARA 212 "" 0 "" {TEXT 271 0 "
+" }}{PARA 212 "" 0 "" {TEXT 213 249 "Notice the warning messages when \+
+you execute the statement defining the above procedure. Also notice th
+at Maple reprints the procedure if you end the definition with a semi-
+colon . We remedy both of these problems in the following corrected ve
+rsion." }}{PARA 209 "" 0 "" {TEXT 269 0 "" }}}{EXCHG {PARA 209 "> " 0 
+"" {MPLTEXT 1 230 18 "Divisors:=proc(n)\n" }{MPLTEXT 1 230 11 "local S
+,d;\n" }{MPLTEXT 1 230 7 "S:=\{\}:\n" }{MPLTEXT 1 230 21 "for d from 1
+ to n do\n" }{MPLTEXT 1 230 45 " if n mod d = 0 then S:=S union \{d\};
+ end if;\n" }{MPLTEXT 1 230 8 "end do;\n" }{MPLTEXT 1 230 10 "return S
+;\n" }{MPLTEXT 1 230 10 "end proc:\n" }}}{EXCHG {PARA 209 "" 0 "" 
+{TEXT 234 10 "Important:" }{TEXT 232 190 " Make it a habit to end a pr
+ocedure with a colon instead of a semi-colon to save output--especiall
+y when printing your worksheet. Also ALWAYS declare all variables used
+ in a procedure to be " }{TEXT 234 5 "local" }{TEXT 232 61 " as we do \+
+above, unless there is a good reason not to do so. " }{TEXT 228 45 "La
+ter we will discuss the difference between " }{TEXT 231 5 "local" }
+{TEXT 228 5 " and " }{TEXT 231 6 "global" }{TEXT 228 12 " variables.\n
+" }{TEXT 228 1 "\n" }{TEXT 228 29 "Now let's test the procedure " }
+{TEXT 231 8 "Divisors" }{TEXT 228 186 ": Try some things first that we
+ know the answer to in order to make some check on the correctness. Of
+ course, this doesn't prove it works always but often such checks will
+ catch errors. " }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 12 "Divi
+sors(1);" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 12 "Divisors(2)
+;" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 12 "Divisors(6);" }}}
+{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 14 "Divisors(126);" }}}
+{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 16 "Divisors(12345);" }}}
+{EXCHG {PARA 209 "" 0 "" {TEXT 269 0 "" }}}}{SECT 0 {PARA 208 "" 0 "" 
+{TEXT 226 28 "More examples of procedures " }}{EXCHG {PARA 209 "" 0 ""
+ {TEXT 228 49 "Let's look again at how to compute a sum such as " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-munderover(Typesetting:-mo(\"&Sum;\", foreground = \"
+[144,144,144]\", mathvariant = \"normal\", Typesetting:-msemantics = \+
+\"inert\", fence = \"false\", separator = \"false\", stretchy = \"true
+\", symmetric = \"false\", largeop = \"true\", movablelimits = \"true
+\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.1666667em\"),
+ Typesetting:-mrow(Typesetting:-mi(\"i\", italic = \"true\", mathvaria
+nt = \"italic\"), Typesetting:-mo(\"=\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Types
+etting:-mn(\"1\", mathvariant = \"normal\")), Typesetting:-mn(\"4\", m
+athvariant = \"normal\"), accent = \"false\", accentunder = \"false\")
+, Typesetting:-mi(\"\"), Typesetting:-mspace(height = \"0.0ex\", width
+ = \"5.0\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mro
+w(Typesetting:-msup(Typesetting:-mi(\"i\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mn(\"2\", mathvariant = \"normal\"), s
+uperscriptshift = \"0\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF
+$6#Q!F'-F#6'-I+munderoverGF$6'-I#moGF$6/Q&&Sum;F'/%+foregroundGQ.[144,
+144,144]F'/%,mathvariantGQ'normalF'/I+msemanticsGF$Q&inertF'/%&fenceGQ
+&falseF'/%*separatorGFC/%)stretchyGQ%trueF'/%*symmetricGFC/%(largeopGF
+H/%.movablelimitsGFH/%'accentGFC/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.16666
+67emF'-F#6%-F,6%Q\"iF'/%'italicGFH/F<Q'italicF'-F56-Q\"=F'F;FAFD/FGFCF
+I/FLFC/FNFCFO/FRQ,0.2777778emF'/FUFao-I#mnGF$6$Q\"1F'F;-Fdo6$Q\"4F'F;F
+O/%,accentunderGFCF+-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGQ$5.0F'/
+%&depthGFap/%*linebreakGQ%autoF'-F#6#-I%msupGF$6%FY-Fdo6$Q\"2F'F;/%1su
+perscriptshiftGQ\"0F'F+F+" }{TEXT 228 96 " . Let's try to make it gene
+ral by introducing a variable n.  We start by setting it equal to 4:" 
+}}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 6 "n:=4:\n" }{MPLTEXT 1 
+230 10 "Total:=0:\n" }{MPLTEXT 1 230 21 "for i from 1 to n do\n" }
+{MPLTEXT 1 230 20 "  Total:=Total+i^2:\n" }{MPLTEXT 1 230 8 "end do:\n
+" }{MPLTEXT 1 230 7 "Total;\n" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 
+152 "We could simply change the assignment of n:=4 to n:=10 or any oth
+er value and re-execute to find other sums. Instead, let's make a proc
+edure to compute " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(
+\"\"), Typesetting:-mrow(Typesetting:-munderover(Typesetting:-mo(\"&Su
+m;\", foreground = \"[144,144,144]\", mathvariant = \"normal\", Typese
+tting:-msemantics = \"inert\", fence = \"false\", separator = \"false
+\", stretchy = \"true\", symmetric = \"false\", largeop = \"true\", mo
+vablelimits = \"true\", accent = \"false\", lspace = \"0.0em\", rspace
+ = \"0.1666667em\"), Typesetting:-mrow(Typesetting:-mi(\"i\", italic =
+ \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"=\", mathvaria
+nt = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mn(\"1\", mathvariant = \"normal\")), Type
+setting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), accen
+t = \"false\", accentunder = \"false\"), Typesetting:-mi(\"\"), Typese
+tting:-mspace(height = \"0.0ex\", width = \"5.0\", depth = \"0.0ex\", \+
+linebreak = \"auto\"), Typesetting:-mrow(Typesetting:-msup(Typesetting
+:-mi(\"i\", italic = \"true\", mathvariant = \"italic\"), Typesetting:
+-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")), Type
+setting:-mi(\"\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG
+6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6'-I+munderoverGF$6'-I
+#moGF$6/Q&&Sum;F'/%+foregroundGQ.[144,144,144]F'/%,mathvariantGQ'norma
+lF'/I+msemanticsGF$Q&inertF'/%&fenceGQ&falseF'/%*separatorGFC/%)stretc
+hyGQ%trueF'/%*symmetricGFC/%(largeopGFH/%.movablelimitsGFH/%'accentGFC
+/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.1666667emF'-F#6%-F,6%Q\"iF'/%'italicG
+FH/F<Q'italicF'-F56-Q\"=F'F;FAFD/FGFCFI/FLFC/FNFCFO/FRQ,0.2777778emF'/
+FUFao-I#mnGF$6$Q\"1F'F;-F,6%Q\"nF'FfnFhnFO/%,accentunderGFCF+-I'mspace
+GF$6&/%'heightGQ&0.0exF'/%&widthGQ$5.0F'/%&depthGFap/%*linebreakGQ%aut
+oF'-F#6#-I%msupGF$6%FY-Fdo6$Q\"2F'F;/%1superscriptshiftGQ\"0F'F+F+" }
+{TEXT 228 66 "  for any given positive integer n. We will call this pr
+ocedure F:" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 11 "F:=proc(n
+)\n" }{MPLTEXT 1 230 17 "  local i,Total;\n" }{MPLTEXT 1 230 12 "  Tot
+al:=0:\n" }{MPLTEXT 1 230 23 "  for i from 1 to n do\n" }{MPLTEXT 1 
+230 22 "    Total:=Total+i^2:\n" }{MPLTEXT 1 230 10 "  end do;\n" }
+{MPLTEXT 1 230 16 "  return Total;\n" }{MPLTEXT 1 230 10 "end proc:\n"
+ }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 36 "We apply this to n = 4 and \+
+n = 1000:" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 6 "F(4);\n" }}
+}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 8 "F(1000);" }}}{EXCHG 
+{PARA 209 "" 0 "" {TEXT 228 42 "Now we make a procedure that will comp
+ute " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typeset
+ting:-mrow(Typesetting:-munderover(Typesetting:-mo(\"&Sum;\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"false\", stretchy =
+ \"true\", symmetric = \"false\", largeop = \"true\", movablelimits = \+
+\"true\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.1666667
+em\"), Typesetting:-mrow(Typesetting:-mi(\"i\", italic = \"true\", mat
+hvariant = \"italic\"), Typesetting:-mo(\"=\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\")
+, Typesetting:-mi(\"a\", italic = \"true\", mathvariant = \"italic\"))
+, Typesetting:-mi(\"b\", italic = \"true\", mathvariant = \"italic\"),
+ accent = \"false\", accentunder = \"false\"), Typesetting:-mi(\"\"), \+
+Typesetting:-mspace(height = \"0.0ex\", width = \"5.0\", depth = \"0.0
+ex\", linebreak = \"auto\"), Typesetting:-mrow(Typesetting:-mi(\"f\", \+
+italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&Apply
+Function;\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Typese
+tting:-mi(\"i\", italic = \"true\", mathvariant = \"italic\")), mathva
+riant = \"normal\")), Typesetting:-mi(\"\")), Typesetting:-mi(\"\"));"
+ "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F
+'-F#6'-I+munderoverGF$6'-I#moGF$6-Q&&Sum;F'/%,mathvariantGQ'normalF'/%
+&fenceGQ&falseF'/%*separatorGF=/%)stretchyGQ%trueF'/%*symmetricGF=/%(l
+argeopGFB/%.movablelimitsGFB/%'accentGF=/%'lspaceGQ&0.0emF'/%'rspaceGQ
+,0.1666667emF'-F#6%-F,6%Q\"iF'/%'italicGFB/F9Q'italicF'-F56-Q\"=F'F8F;
+F>/FAF=FC/FFF=/FHF=FI/FLQ,0.2777778emF'/FOF[o-F,6%Q\"aF'FVFX-F,6%Q\"bF
+'FVFXFI/%,accentunderGF=F+-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGQ$
+5.0F'/%&depthGFjo/%*linebreakGQ%autoF'-F#6%-F,6%Q\"fF'FVFX-F56-Q0&Appl
+yFunction;F'F8F;F>FgnFCFhnFinFIFK/FOFM-I(mfencedGF$6$-F#6#FSF8F+F+" }
+{TEXT 228 114 "  where a and b are any integers and f is any function.
+ We will call the procedure S. Note that it requires three " }{TEXT 
+233 9 "arguments" }{TEXT 228 13 ": f, a and b:" }}}{EXCHG {PARA 209 ">
+ " 0 "" {MPLTEXT 1 230 15 "S:=proc(f,a,b)\n" }{MPLTEXT 1 230 16 "local
+ i, Total;\n" }{MPLTEXT 1 230 10 "Total:=0;\n" }{MPLTEXT 1 230 21 "for
+ i from a to b do\n" }{MPLTEXT 1 230 23 "  Total:=Total + f(i);\n" }
+{MPLTEXT 1 230 8 "end do;\n" }{MPLTEXT 1 230 14 "return Total;\n" }
+{MPLTEXT 1 230 10 "end proc:\n" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 
+37 "Some applications of our procedure S:" }}}{EXCHG {PARA 209 "> " 0 
+"" {MPLTEXT 1 230 11 "S(sin,1,5);" }}}{EXCHG {PARA 209 "> " 0 "" 
+{MPLTEXT 1 230 16 "S(x->x^2, 1, 6);" }}}{EXCHG {PARA 209 "> " 0 "" 
+{MPLTEXT 1 230 10 "S(f,-3,5);" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 269 
+0 "" }}{PARA 209 "" 0 "" {TEXT 228 70 "Next we make a procedure we cal
+l H which has the property that H(n) = " }{XPPEDIT 18 0 "Typesetting:-
+mrow(Typesetting:-mi(\"&infin;\", italic = \"false\", mathvariant = \"
+normal\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-
+I#miGF$6%Q(&infin;F'/%'italicGQ&falseF'/%,mathvariantGQ'normalF'" }
+{TEXT 228 49 "  if  n is greater than 100 and H(n) =  0 if not." }}
+{PARA 209 "" 0 "" {TEXT 269 0 "" }}}{EXCHG {PARA 209 "> " 0 "" 
+{MPLTEXT 1 230 11 "H:=proc(n)\n" }{MPLTEXT 1 230 17 "if n > 100 then \+
+\n" }{MPLTEXT 1 230 20 "  return infinity; \n" }{MPLTEXT 1 230 4 "fi;
+\n" }{MPLTEXT 1 230 10 "return 0;\n" }{MPLTEXT 1 230 4 "end:" }}}
+{EXCHG {PARA 209 "" 0 "" {TEXT 269 0 "" }}{PARA 209 "" 0 "" {TEXT 228 
+66 "Note that if n > 100 is true then H immediately returns the value 
+" }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"&infin;\", itali
+c = \"false\", mathvariant = \"normal\"));" "-I%mrowG6#/I+modulenameG6
+\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q(&infin;F'/%'italicGQ&falseF'
+/%,mathvariantGQ'normalF'" }{TEXT 228 149 "  and therefore does not pr
+oceed to the next statement. On the other hand, if n > 100 is false th
+en Maple skips down to the last line and returns 0. " }}{PARA 209 "" 0
+ "" {TEXT 269 0 "" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 7 "H(2
+21);" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 6 "H(11);" }}}
+{EXCHG {PARA 209 "" 0 "" {TEXT 228 98 "As another example, the factori
+al fuction on the non-negative integers can be achieved as follows " }
+}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 23 "Factorialproc:=proc(n)
+\n" }{MPLTEXT 1 230 14 "local Fac, i:\n" }{MPLTEXT 1 230 8 "Fac:=1:\n"
+ }{MPLTEXT 1 230 27 "if n=0 then Fac:=1 end if;\n" }{MPLTEXT 1 230 13 
+"if n>0 then \n" }{MPLTEXT 1 230 21 "for i from 1 to n do\n" }{MPLTEXT
+ 1 230 15 "   Fac:=i*Fac:\n" }{MPLTEXT 1 230 11 "   end do \n" }
+{MPLTEXT 1 230 11 "   end if;\n" }{MPLTEXT 1 230 11 "return Fac\n" }
+{MPLTEXT 1 230 10 "end proc; " }}{PARA 209 "> " 0 "" {MPLTEXT 1 230 
+52 "Factorialproc(0),Factorialproc(5),Factorialproc(10);" }}}{EXCHG 
+{PARA 209 "" 0 "" {TEXT 269 0 "" }}}}{SECT 0 {PARA 208 "" 0 "" {TEXT 
+226 34 "Making a program into a procedure." }}{PARA 209 "" 0 "" {TEXT 
+228 134 "When constructing a procedure it is a good idea to test the c
+ommands individually first so you can be sure what is happening. One m
+ay " }{TEXT 231 3 "cut" }{TEXT 228 2 ", " }{TEXT 231 4 "copy" }{TEXT 
+228 5 " and " }{TEXT 231 5 "paste" }{TEXT 228 187 " text and Maple inp
+ut and output pretty much at will.  This is useful when constructing a
+ procedure from some program that you have already tested. You may ill
+ustrate this by copying the " }{TEXT 232 7 "program" }{TEXT 228 28 " b
+elow and making it into a " }{TEXT 232 9 "procedure" }{TEXT 228 19 " a
+s we did above.  " }{TEXT 232 204 "To perform calculations with Maple \+
+one need not always write a  procedure. Writing a procedure is really \+
+only necessary if you need to use some program repeatedly with differe
+nt values of the parameters. " }}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 
+1 230 7 "n:=4: \n" }{MPLTEXT 1 230 10 "Total:=0:\n" }{MPLTEXT 1 230 
+21 "for i from 1 to n do\n" }{MPLTEXT 1 230 20 "  Total:=Total+i^2:\n"
+ }{MPLTEXT 1 230 8 "end do:\n" }{MPLTEXT 1 230 6 "Total;" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#\"#I" }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 
+230 7 "n:=10:\n" }{MPLTEXT 1 230 18 "Factorialloop:=1:\n" }{MPLTEXT 1 
+230 21 "for i from 1 to n do\n" }{MPLTEXT 1 230 34 "  Factorialloop:=F
+actorialloop*i:\n" }{MPLTEXT 1 230 8 "end do:\n" }{MPLTEXT 1 230 14 "F
+actorialloop;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 269 0 "" }}}}{SECT 0 
+{PARA 208 "" 0 "" {TEXT 226 39 "Order of execution of commands in Mapl
+e" }}{PARA 209 "" 0 "" {TEXT 269 0 "" }}{EXCHG {PARA 209 "" 0 "" {TEXT
+ 228 347 "In a single execution group Maple executes the commands in o
+rder from top to bottom. However, if you go back and change some compu
+tation in a different execution group then it does not change the foll
+owing results unless the entire worksheet is executed once more. Here \+
+is a simple example. First execute the following commands in the order
+ given." }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 5 "x:=2;" }}}
+{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 5 "y:=3;" }}}{EXCHG {PARA 
+209 "> " 0 "" {MPLTEXT 1 230 7 "z:=x*y;" }}}{EXCHG {PARA 209 "> " 0 ""
+ {MPLTEXT 1 230 2 "z;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 190 "Now \+
+go back and change the 2 in the line x:=2 to a 5 and execute that comm
+and. Notice that the value of z has not changed.  To change the value \+
+of z to 15 we must re-execute the line z:=x*y." }}}{EXCHG {PARA 209 ">
+ " 0 "" {MPLTEXT 1 230 2 "z;" }}}{EXCHG {PARA 209 "" 0 "" {TEXT 228 
+227 "Of course, we would not have this problem if we put all the three
+ commands in a single execution group as we do below. But after changi
+ng the 2 to a 5 in x:=2; we must execute the execution group for the c
+hanges to take effect." }}}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 
+6 "x:=2:\n" }{MPLTEXT 1 230 6 "y:=3:\n" }{MPLTEXT 1 230 7 "z:=x*y:" }}
+}{EXCHG {PARA 209 "> " 0 "" {MPLTEXT 1 230 2 "z;" }}}{EXCHG {PARA 212 
+"" 0 "" {TEXT 213 176 "The moral of this is that when executing the li
+nes in a Maple worksheet it is important which order they are executed
+ in rather than the order in which they appear on the page." }}}
+{EXCHG {PARA 209 "" 0 "" {TEXT 269 0 "" }{TEXT 214 0 "" }}}}{SECT 0 
+{PARA 3 "" 0 "" {TEXT 272 9 "Exercises" }}{EXCHG {PARA 0 "" 0 "" {TEXT
+ 270 0 "" }}{PARA 0 "" 0 "" {TEXT 235 10 "Problem 1." }{TEXT 270 3 "  \+
+\n" }{TEXT 270 58 "(a) Write a program (not necessarily a procedure) u
+sing a " }{TEXT 236 7 "do loop" }{TEXT 270 20 " to compute the sum " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-munderover(Typesetting:-mo(\"&Sum;\", mathvariant = \+
+\"normal\", fence = \"false\", separator = \"false\", stretchy = \"tru
+e\", symmetric = \"false\", largeop = \"true\", movablelimits = \"true
+\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.1666667em\"),
+ Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvaria
+nt = \"italic\"), Typesetting:-mo(\"=\", mathvariant = \"normal\", fen
+ce = \"false\", separator = \"false\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Types
+etting:-mn(\"2\", mathvariant = \"normal\")), Typesetting:-mn(\"100\",
+ mathvariant = \"normal\"), accent = \"false\", accentunder = \"false
+\"), Typesetting:-mi(\"\"), Typesetting:-mspace(height = \"0.0ex\", wi
+dth = \"5.0\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-
+msup(Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mfrac(Typeset
+ting:-mrow(Typesetting:-mn(\"2\", mathvariant = \"normal\")), Typesett
+ing:-mrow(Typesetting:-mn(\"3\", mathvariant = \"normal\")), linethick
+ness = \"1\", denomalign = \"center\", numalign = \"center\", bevelled
+ = \"false\")), mathvariant = \"normal\"), Typesetting:-mi(\"n\", ital
+ic = \"true\", mathvariant = \"italic\"), superscriptshift = \"0\")), \+
+Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6%-I#miGF$6#Q!F'-F#6&-I+munderoverGF$6'-I#moGF$6-Q&&Sum;F'/%,
+mathvariantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF=/%)stretchyGQ%t
+rueF'/%*symmetricGF=/%(largeopGFB/%.movablelimitsGFB/%'accentGF=/%'lsp
+aceGQ&0.0emF'/%'rspaceGQ,0.1666667emF'-F#6%-F,6%Q\"nF'/%'italicGFB/F9Q
+'italicF'-F56-Q\"=F'F8F;F>/FAF=FC/FFF=/FHF=FI/FLQ,0.2777778emF'/FOF[o-
+I#mnGF$6$Q\"2F'F8-F^o6$Q$100F'F8FI/%,accentunderGF=F+-I'mspaceGF$6&/%'
+heightGQ&0.0exF'/%&widthGQ$5.0F'/%&depthGF[p/%*linebreakGQ%autoF'-I%ms
+upGF$6%-I(mfencedGF$6$-F#6#-I&mfracGF$6(-F#6#F]o-F#6#-F^o6$Q\"3F'F8/%.
+linethicknessGQ\"1F'/%+denomalignGQ'centerF'/%)numalignGF[r/%)bevelled
+GF=F8FS/%1superscriptshiftGQ\"0F'F+" }{TEXT 270 9 ".  Apply " }{TEXT 
+237 5 "evalf" }{TEXT 270 54 " to obtain a floating point approximation
+ to the sum.\n" }{MPLTEXT 1 0 0 "" }{TEXT 270 1 "\n" }{TEXT 270 69 "(b
+) Write a program (not necessarily a procedure) that will find the " }
+{TEXT 238 3 "set" }{TEXT 270 107 " S of all positive integers less tha
+n 1000 that have 11 as a factor.  [n has 11 as a factor if and only if
+ " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesettin
+g:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"n\"
+, italic = \"true\", mathvariant = \"italic\"), Typesetting:-mspace(he
+ight = \"0.0ex\", width = \"0.5em\", depth = \"0.0ex\", linebreak = \"
+auto\"), Typesetting:-mo(\"mod\", bold = \"true\", mathvariant = \"bol
+d\", fontweight = \"bold\", fence = \"false\", separator = \"false\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.0em\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.5em
+\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mn(\"11\", \+
+mathvariant = \"normal\")), Typesetting:-mo(\"=\", mathvariant = \"nor
+mal\", fence = \"false\", separator = \"false\", stretchy = \"false\",
+ symmetric = \"false\", largeop = \"false\", movablelimits = \"false\"
+, accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em
+\"), Typesetting:-mn(\"0\", mathvariant = \"normal\")), Typesetting:-m
+i(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#
+miGF$6#Q!F'-F#6&F+-F#6'-F,6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'i
+talicF'-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGQ&0.5emF'/%&depthGFA/
+%*linebreakGQ%autoF'-I#moGF$6/Q$modF'/%%boldGF8/F:Q%boldF'/%+fontweigh
+tGFQ/%&fenceGQ&falseF'/%*separatorGFV/%)stretchyGFV/%*symmetricGFV/%(l
+argeopGFV/%.movablelimitsGFV/%'accentGFV/%'lspaceGQ&0.0emF'/%'rspaceGF
+_oF<-I#mnGF$6$Q#11F'/F:Q'normalF'-FK6-Q\"=F'FfoFTFWFYFenFgnFinF[o/F^oQ
+,0.2777778emF'/FaoF\\p-Fco6$Q\"0F'FfoF+" }{TEXT 270 2 ".]" }}{PARA 0 "
+" 0 "" {TEXT 270 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 239 11 "Problem \+
+2. " }{TEXT 270 1 "\n" }{TEXT 270 1 "\n" }{TEXT 270 18 "Write a proced
+ure " }{TEXT 240 7 "ISPRIME" }{TEXT 270 57 " whose input is a positive
+ integer n and whose output is " }{TEXT 241 4 "true" }{TEXT 270 19 " i
+f n is prime and " }{TEXT 242 5 "false" }{TEXT 270 58 " otherwise.  Te
+st the procedure on the following numbers: " }}{PARA 0 "" 0 "" {TEXT 
+270 0 "" }}{PARA 0 "" 0 "" {TEXT 270 45 "1, 2, 3, 4, 11, 111, 531, 791
+9, 15689, 262681" }}{PARA 0 "" 0 "" {TEXT 270 0 "" }}{PARA 0 "" 0 "" 
+{TEXT 270 21 "The answers should be" }}{PARA 0 "" 0 "" {TEXT 270 0 "" 
+}}{PARA 0 "" 0 "" {XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"f
+alse\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(
+\",\", mathvariant = \"normal\", fence = \"false\", separator = \"true
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.3333333em\"), Typesetting:-mi(\"true\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"norma
+l\", fence = \"false\", separator = \"true\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Type
+setting:-mi(\"true\", italic = \"true\", mathvariant = \"italic\"), Ty
+pesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", sepa
+rator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"false\", itali
+c = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathva
+riant = \"normal\", fence = \"false\", separator = \"true\", stretchy \+
+= \"false\", symmetric = \"false\", largeop = \"false\", movablelimits
+ = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333
+3333em\"), Typesetting:-mi(\"true\", italic = \"true\", mathvariant = \+
+\"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \+
+\"false\", separator = \"true\", stretchy = \"false\", symmetric = \"f
+alse\", largeop = \"false\", movablelimits = \"false\", accent = \"fal
+se\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(
+\"false\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-
+mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \"t
+rue\", stretchy = \"false\", symmetric = \"false\", largeop = \"false
+\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\",
+ rspace = \"0.3333333em\"), Typesetting:-mi(\"false\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"
+normal\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\")
+, Typesetting:-mi(\"true\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false
+\", separator = \"true\", stretchy = \"false\", symmetric = \"false\",
+ largeop = \"false\", movablelimits = \"false\", accent = \"false\", l
+space = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"false
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",
+\", mathvariant = \"normal\", fence = \"false\", separator = \"true\",
+ stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mov
+ablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace
+ = \"0.3333333em\"), Typesetting:-mi(\"true\", italic = \"true\", math
+variant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'65-I#miGF$6%Q&falseF'/%'italicGQ%trueF'/%,mathvariantGQ'itali
+cF'-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGF./%*separatorGF1/%)stretchyG
+F./%*symmetricGF./%(largeopGF./%.movablelimitsGF./%'accentGF./%'lspace
+GQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%F1F/F2F5FOF5F+F5FOF5F+F5F+F5FO
+F5F+F5FO" }{TEXT 243 1 "." }}{PARA 0 "" 0 "" {TEXT 244 1 "\n" }{TEXT 
+245 5 "Hint:" }{TEXT 270 33 " Here's a start for the program:\n" }
+{TEXT 270 1 "\n" }{TEXT 270 2 "> " }{MPLTEXT 1 0 18 " ISPRIME:=proc(n)
+\n" }{MPLTEXT 1 0 12 "   local d;\n" }{MPLTEXT 1 0 39 "   if n < 2 the
+n return false; end if;\n" }{MPLTEXT 1 0 38 "   if n = 2 then return t
+rue; end if;\n" }{MPLTEXT 1 0 4 "   \n" }{TEXT 270 13 "Note that if " 
+}{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"tr
+ue\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Types
+ettingGI(_syslibGF'6#-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantG
+Q'italicF'" }{TEXT 270 33 " < 2 then the third  line causes " }{TEXT 
+246 10 "ISPRIME(n)" }{TEXT 270 21 " to return false. If " }{XPPEDIT 18
+ 0 "Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathva
+riant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sy
+slibGF'6#-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" 
+}{TEXT 270 33 " = 2 then the fourth line causes " }{TEXT 247 7 "ISPRIM
+E" }{TEXT 270 246 " to return true. If neither is true then n is at le
+ast 3.  So now you only need to handle in the rest of the program the \+
+case that n is at least 3. This can be done by using a loop to check w
+hether or not n is divisible by an integer d from 2 to " }{XPPEDIT 18 
+0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesett
+ing:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mo(\"&minus;\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mn(\"1\", mat
+hvariant = \"normal\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+module
+nameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"nF'/%'i
+talicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q(&minus;F'/F8Q'norma
+lF'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(la
+rgeopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2222222emF'/%'rsp
+aceGFQ-I#mnGF$6$Q\"1F'F>F+" }{TEXT 270 175 ". If you find such a value
+ of d you want to return false. If the loop is completed without findi
+ng any such d then you should return true. You may be able to improve \+
+on this.\n" }}{PARA 0 "" 0 "" {TEXT 248 6 "Remark" }{TEXT 270 48 ". Ma
+ple actually has a built-in procedure named " }{TEXT 249 7 "isprime" }
+{TEXT 270 47 " which performs the same task as the procedure " }{TEXT 
+250 7 "ISPRIME" }{TEXT 270 16 " in Problem 2.  " }}{PARA 0 "" 0 "" 
+{TEXT 270 0 "" }}{PARA 0 "" 0 "" {TEXT 270 18 "Maple's procedure " }
+{TEXT 251 7 "isprime" }{TEXT 270 13 " is really a " }{TEXT 252 31 "pro
+babilistic primality tester." }{TEXT 270 5 " See " }{TEXT 253 8 "?ispr
+ime" }{TEXT 270 28 ".  To see how the procedure " }{TEXT 254 7 "isprim
+e" }{TEXT 270 36 " is constructed execute the command " }{TEXT 255 19 
+"showstat(isprime); " }{TEXT 270 145 "However, it is not easy to see w
+hat the program is doing. So I don't recommend spending a lot of time \+
+on trying to figure it out unless you have " }{TEXT 256 4 "lots" }
+{TEXT 270 48 " of experience in programming and number theory." }}
+{PARA 0 "" 0 "" {TEXT 270 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 257 10 
+"Problem 3." }{TEXT 270 2 " \n" }{TEXT 270 3 "If " }{XPPEDIT 18 0 "Typ
+esetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant =
+ \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'
+6#-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 
+270 53 " is a positive integer greater than 2 that satisfies " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-m
+row(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"modp\",
+ italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&Appl
+yFunction;\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"false\", stretchy = \"false\", symmetric = \"false\", largeop = \"f
+alse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0e
+m\", rspace = \"0.0em\"), Typesetting:-mfenced(Typesetting:-mrow(Types
+etting:-msup(Typesetting:-mn(\"2\", mathvariant = \"normal\"), Typeset
+ting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"i
+talic\"), Typesetting:-mo(\"&minus;\", mathvariant = \"normal\", fence
+ = \"false\", separator = \"false\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.2222222em\", rspace = \"0.2222222em\"), Typese
+tting:-mn(\"1\", mathvariant = \"normal\")), superscriptshift = \"0\")
+, Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"true\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"n\", itali
+c = \"true\", mathvariant = \"italic\")), mathvariant = \"normal\")), \+
+Typesetting:-mo(\"=\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mn(\"1\", \+
+mathvariant = \"normal\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6&F+-F#6%-F,6%
+Q%modpF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q0&ApplyF
+unction;F'/F:Q'normalF'/%&fenceGQ&falseF'/%*separatorGFD/%)stretchyGFD
+/%*symmetricGFD/%(largeopGFD/%.movablelimitsGFD/%'accentGFD/%'lspaceGQ
+&0.0emF'/%'rspaceGFS-I(mfencedGF$6$-F#6%-I%msupGF$6%-I#mnGF$6$Q\"2F'F@
+-F#6%-F,6%Q\"nF'F6F9-F=6-Q(&minus;F'F@FBFEFGFIFKFMFO/FRQ,0.2222222emF'
+/FUFeo-Fin6$Q\"1F'F@/%1superscriptshiftGQ\"0F'-F=6-Q\",F'F@FB/FFF8FGFI
+FKFMFOFQ/FUQ,0.3333333emF'F^oF@-F=6-Q\"=F'F@FBFEFGFIFKFMFO/FRQ,0.27777
+78emF'/FUFgpFgoF+" }{TEXT 270 5 " and " }{XPPEDIT 18 0 "Typesetting:-m
+row(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\"
+));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6
+%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 270 19 " is
+ not prime then " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"
+n\", italic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+mod
+ulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF$6%Q\"nF'/%'italicGQ%tru
+eF'/%,mathvariantGQ'italicF'" }{TEXT 270 13 " is called a " }{TEXT 
+258 13 "2-pseudoprime" }{TEXT 270 95 ". Find all 2-pseudoprimes less t
+han 2000 and give the factorization of each one that you find. " }
+{TEXT 259 4 "Hint" }{TEXT 270 44 ": The smallest 2-pseudoprime is 341 \+
+= 11x31." }}{PARA 0 "" 0 "" {TEXT 270 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 260 10 "Problem 4." }{TEXT 270 3 "  \n" }{TEXT 270 1 "\n" }{TEXT
+ 270 23 "(a) Write a procedure, " }{TEXT 261 8 "primesum" }{TEXT 270 
+36 ", whose input is a positive integer " }{XPPEDIT 18 0 "Typesetting:
+-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#miGF
+$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 270 43 " \+
+and whose output is the sum of all primes " }{XPPEDIT 18 0 "Typesettin
+g:-mrow(Typesetting:-mi(\"p\", italic = \"true\", mathvariant = \"ital
+ic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#mi
+GF$6%Q\"pF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 270 11 
+" such that " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"),
+ Typesetting:-mrow(Typesetting:-mi(\"p\", italic = \"true\", mathvaria
+nt = \"italic\"), Typesetting:-mo(\"&le;\", mathvariant = \"normal\", \+
+fence = \"false\", separator = \"false\", stretchy = \"false\", symmet
+ric = \"false\", largeop = \"false\", movablelimits = \"false\", accen
+t = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Ty
+pesetting:-mi(\"n\", italic = \"true\", mathvariant = \"italic\")), Ty
+pesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_sy
+slibGF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"pF'/%'italicGQ%trueF'/%,mathvarian
+tGQ'italicF'-I#moGF$6-Q%&le;F'/F8Q'normalF'/%&fenceGQ&falseF'/%*separa
+torGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'
+accentGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-F,6%Q\"nF'F4F7F+" }
+{TEXT 270 37 ". You may use either your procedure  " }{TEXT 262 7 "ISP
+RIME" }{TEXT 270 42 " from problem 2 or the built-in procedure " }
+{TEXT 263 9 "isprime. " }{TEXT 270 23 "Test the procedure for " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"tru
+e\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Typese
+ttingGI(_syslibGF'6#-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ
+'italicF'" }{TEXT 270 22 " = 2, 4, 10, and 1000." }}{PARA 0 "" 0 "" 
+{TEXT 270 1 "\n" }{TEXT 270 24 " (b) Write a procedure, " }{TEXT 264 
+8 "primeset" }{TEXT 270 37 ", whose input is  a positive integer " }
+{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"tru
+e\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Typese
+ttingGI(_syslibGF'6#-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ
+'italicF'" }{TEXT 270 43 " and whose output is the set of all primes "
+ }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"p\", italic = \"t
+rue\", mathvariant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,Type
+settingGI(_syslibGF'6#-I#miGF$6%Q\"pF'/%'italicGQ%trueF'/%,mathvariant
+GQ'italicF'" }{TEXT 270 11 " such that " }{XPPEDIT 18 0 "Typesetting:-
+mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(\"p\", i
+talic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&le;\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rs
+pace = \"0.2777778em\"), Typesetting:-mi(\"n\", italic = \"true\", mat
+hvariant = \"italic\")), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+module
+nameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-F,6%Q\"pF'/%'i
+talicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q%&le;F'/F8Q'normalF'
+/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(large
+opGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'rspace
+GFQ-F,6%Q\"nF'F4F7F+" }{TEXT 270 87 ". You may use either your procedu
+re  ISPRIME from problem 2  or the built-in procedure " }{TEXT 265 9 "
+isprime. " }{TEXT 270 23 "Test the procedure for " }{XPPEDIT 18 0 "Typ
+esetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant =
+ \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'
+6#-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 
+270 22 " = 2, 4, 10, and 1000." }}{PARA 0 "" 0 "" {TEXT 270 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 270 0 "" }{TEXT 266 10 "Problem 5." }
+{TEXT 270 2 " \n" }{TEXT 270 24 "Three positive integers " }{XPPEDIT 
+18 0 "Typesetting:-mrow(Typesetting:-mi(\"x\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mo(\",\", mathvariant = \"normal\"
+, fence = \"false\", separator = \"true\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typeset
+ting:-mi(\"y\", italic = \"true\", mathvariant = \"italic\"));" "-I%mr
+owG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6%Q\"xF'/%'i
+talicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\",F'/F3Q'normalF'/%
+&fenceGQ&falseF'/%*separatorGF1/%)stretchyGF=/%*symmetricGF=/%(largeop
+GF=/%.movablelimitsGF=/%'accentGF=/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.333
+3333emF'-F,6%Q\"yF'F/F2" }{TEXT 270 5 " and " }{XPPEDIT 18 0 "Typesett
+ing:-mrow(Typesetting:-mi(\"z\", italic = \"true\", mathvariant = \"it
+alic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#
+miGF$6%Q\"zF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'" }{TEXT 270 
+28 " form a Pathagorean triple (" }{XPPEDIT 18 0 "Typesetting:-mrow(Ty
+pesetting:-mi(\"x\", italic = \"true\", mathvariant = \"italic\"), Typ
+esetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop \+
+= \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"y\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\"), Typesetting:-mi(\"z\", italic = \"true\", mathvariant = \"ital
+ic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6'-I#mi
+GF$6%Q\"xF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q\",F'
+/F3Q'normalF'/%&fenceGQ&falseF'/%*separatorGF1/%)stretchyGF=/%*symmetr
+icGF=/%(largeopGF=/%.movablelimitsGF=/%'accentGF=/%'lspaceGQ&0.0emF'/%
+'rspaceGQ,0.3333333emF'-F,6%Q\"yF'F/F2F5-F,6%Q\"zF'F/F2" }{TEXT 270 5 
+") if " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Types
+etting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-mi(
+\"\"), Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"x\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2\", mathv
+ariant = \"normal\"), superscriptshift = \"0\")), Typesetting:-mo(\"+
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.2222222em\",
+ rspace = \"0.2222222em\"), Typesetting:-mrow(Typesetting:-msup(Typese
+tting:-mi(\"y\", italic = \"true\", mathvariant = \"italic\"), Typeset
+ting:-mn(\"2\", mathvariant = \"normal\"), superscriptshift = \"0\")),
+ Typesetting:-mi(\"\")), Typesetting:-mo(\"=\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\")
+, Typesetting:-mrow(Typesetting:-msup(Typesetting:-mi(\"z\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mn(\"2\", mathvarian
+t = \"normal\"), superscriptshift = \"0\")), Typesetting:-mi(\"\")), T
+ypesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_s
+yslibGF'6%-I#miGF$6#Q!F'-F#6'F+-F#6'F+-F#6#-I%msupGF$6%-F,6%Q\"xF'/%'i
+talicGQ%trueF'/%,mathvariantGQ'italicF'-I#mnGF$6$Q\"2F'/F?Q'normalF'/%
+1superscriptshiftGQ\"0F'-I#moGF$6-Q\"+F'FE/%&fenceGQ&falseF'/%*separat
+orGFP/%)stretchyGFP/%*symmetricGFP/%(largeopGFP/%.movablelimitsGFP/%'a
+ccentGFP/%'lspaceGQ,0.2222222emF'/%'rspaceGFin-F#6#-F66%-F,6%Q\"yF'F;F
+>FAFGF+-FK6-Q\"=F'FEFNFQFSFUFWFYFen/FhnQ,0.2777778emF'/F[oFgo-F#6#-F66
+%-F,6%Q\"zF'F;F>FAFGF+F+" }{TEXT 270 66 ". For example, (3,4,5) is a P
+athagorean triple. Write a procedure " }{TEXT 267 20 "Pathagoreantripl
+eset" }{TEXT 270 36 ", whose input is a positive integer " }{XPPEDIT 
+18 0 "Typesetting:-mrow(Typesetting:-mi(\"n\", italic = \"true\", math
+variant = \"italic\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_
+syslibGF'6#-I#miGF$6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'
+" }{TEXT 270 57 " and whose output is the set of all Pathagorean tripl
+es (" }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"x\", italic \+
+= \"true\", mathvariant = \"italic\"), Typesetting:-mo(\",\", mathvari
+ant = \"normal\", fence = \"false\", separator = \"true\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.33333
+33em\"), Typesetting:-mi(\"y\", italic = \"true\", mathvariant = \"ita
+lic\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"fal
+se\", separator = \"true\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"z\"
+, italic = \"true\", mathvariant = \"italic\"));" "-I%mrowG6#/I+module
+nameG6\"I,TypesettingGI(_syslibGF'6'-I#miGF$6%Q\"xF'/%'italicGQ%trueF'
+/%,mathvariantGQ'italicF'-I#moGF$6-Q\",F'/F3Q'normalF'/%&fenceGQ&false
+F'/%*separatorGF1/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.movablel
+imitsGF=/%'accentGF=/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'-F,6%Q
+\"yF'F/F2F5-F,6%Q\"zF'F/F2" }{TEXT 270 7 ") with " }{XPPEDIT 18 0 "Typ
+esetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetting:-m
+i(\"z\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mo
+(\"&le;\", mathvariant = \"normal\", fence = \"false\", separator = \"
+false\", stretchy = \"false\", symmetric = \"false\", largeop = \"fals
+e\", movablelimits = \"false\", accent = \"false\", lspace = \"0.27777
+78em\", rspace = \"0.2777778em\"), Typesetting:-mi(\"n\", italic = \"t
+rue\", mathvariant = \"italic\")), Typesetting:-mi(\"\"));" "-I%mrowG6
+#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6%-I#miGF$6#Q!F'-F#6%-F,6%
+Q\"zF'/%'italicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q%&le;F'/F8
+Q'normalF'/%&fenceGQ&falseF'/%*separatorGFB/%)stretchyGFB/%*symmetricG
+FB/%(largeopGFB/%.movablelimitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF
+'/%'rspaceGFQ-F,6%Q\"nF'F4F7F+" }{TEXT 270 25 ". Test the procedure fo
+r " }{XPPEDIT 18 0 "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetti
+ng:-mrow(Typesetting:-mi(\"n\", italic = \"true\", mathvariant = \"ita
+lic\"), Typesetting:-mo(\"=\", mathvariant = \"normal\", fence = \"fal
+se\", separator = \"false\", stretchy = \"false\", symmetric = \"false
+\", largeop = \"false\", movablelimits = \"false\", accent = \"false\"
+, lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mn
+(\"10\", mathvariant = \"normal\")), Typesetting:-mo(\",\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\"), Typesetting:-mn(\"20\", mathvariant = \"normal\"), Typesetting
+:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fal
+se\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mn(\"30\", mathvariant = \+
+\"normal\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6
+(-I#miGF$6#Q!F'-F#6%-F,6%Q\"nF'/%'italicGQ%trueF'/%,mathvariantGQ'ital
+icF'-I#moGF$6-Q\"=F'/F8Q'normalF'/%&fenceGQ&falseF'/%*separatorGFB/%)s
+tretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablelimitsGFB/%'accentGFB/
+%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-I#mnGF$6$Q#10F'F>-F;6-Q\",F'F>F@/
+FDF6FEFGFIFKFM/FPQ&0.0emF'/FSQ,0.3333333emF'-FU6$Q#20F'F>FX-FU6$Q#30F'
+F>" }{TEXT 270 1 "." }}}}{PARA 211 "" 0 "" {TEXT 273 0 "" }}{EXCHG 
+{PARA 215 "" 0 "" {TEXT 214 7 "- End -" }{TEXT 208 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 0 0 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

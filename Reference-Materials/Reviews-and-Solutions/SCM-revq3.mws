@@ -1,0 +1,305 @@
+{VERSION 2018 1 "Windows 10" "2018.1" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal256" -1 208 1 {CSTYLE 
+"" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Err
+or" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE ""
+ -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Author"
+ -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 
+1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variable" -1 25 "Courier" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "
+Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Ti
+mes" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "
+Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Time
+s" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 
+200 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary \+
+Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE 
+"Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D
+ Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Cod
+e" -1 201 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2
+D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "2D Inert Output" -1 202 "Times" 1 12 144 144 144 1 2 2 2 2 1
+ 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 203 "Times" 1 10 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 0 0 0 
+1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 
+1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 
+0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 204 "Time
+s" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "
+Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times
+" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "
+Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" 
+-1 205 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Maple N
+ame" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Text
+" -1 206 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title
+" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underl
+ined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "
+Caption Reference" -1 207 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Maple Input Placeholder" -1 208 "Courier New" 1 12 200 0
+ 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 0
+ 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 209 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 
+0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 
+0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 
+128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 210 "Times" 1 12 
+0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 212 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 213 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 214 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 215 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 216 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 217 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 218 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 219 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 220 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 221 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 222 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 223 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 224 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 225 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 226 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 227 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 228 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 229 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 230 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 231 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 232 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 233 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 234 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 235 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 236 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 237 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 238 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 239 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 240 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 241 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 242 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 243 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 244 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 245 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 246 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 247 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 248 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 249 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 250 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 251 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 252 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 253 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 254 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 255 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 256 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 257 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 258 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 209 "" 0 "" {TEXT 206 21 "Review Questions - 03"
+ }}{PARA 0 "" 0 "" {TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 211 6 "Note:
+ " }{TEXT 212 201 "Please answer the following questions to review Lec
+ture 3. You may need to try some Maple commands and answer the review \+
+questions under the help of your lecture notes and the Maple built-in \+
+help menu." }}{PARA 0 "" 0 "" {TEXT 259 0 "" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 259 2 "1." }{TEXT 213 1 " " }{TEXT 259 59 " What is the output \+
+of the following sequence of commands?\n" }{TEXT 259 4 "    " }{TEXT 
+214 17 "> (x, y):=(1,1):\n" }{TEXT 215 17 "    > f:=proc(n)\n" }{TEXT 
+216 21 "            local x;\n" }{TEXT 217 22 "            global y;\n
+" }{TEXT 218 19 "            x:=10;\n" }{TEXT 219 19 "            y:=1
+0;\n" }{TEXT 220 25 "           return n*x*y;\n" }{TEXT 221 17 "      \+
+ end proc:\n" }{TEXT 222 17 "   >  f(2), x, y;" }}{PARA 0 "" 0 "" 
+{TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 10 "Solution: " }}{PARA 0 "
+" 0 "" {TEXT 259 25 "The output is 200, 1, 10." }}{PARA 0 "" 0 "" 
+{TEXT 259 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "(x,y):=(1,
+1):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "f:=proc(n)\n" }
+{MPLTEXT 1 0 12 "   local x;\n" }{MPLTEXT 1 0 13 "   global y;\n" }
+{MPLTEXT 1 0 10 "   x:=10;\n" }{MPLTEXT 1 0 10 "   y:=10;\n" }{MPLTEXT
+ 1 0 17 "   return n*x*y;\n" }{MPLTEXT 1 0 9 "end proc:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "f(2),x,y;" }}{PARA 6 "" 1 "" {TEXT 
+260 10 "200, 1, 10" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 206 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 206 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 62 "2.  What is the output of the
+ following sequence of commands:\n" }{TEXT 259 2 "  " }{TEXT 223 23 ">
+ for n from 3 to 7 do\n" }{TEXT 224 20 "        print(n^2);\n" }{TEXT 
+225 38 "        if n >= 4 then break; end if;\n" }{TEXT 226 13 "     e
+nd do;\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 206 10 "Solution: " }}{PARA 
+0 "" 0 "" {TEXT 206 51 "The output of the sequence of commands is 9 an
+d 16." }}{PARA 0 "" 0 "" {TEXT 206 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "for n from 3 to 7 do\n" }{MPLTEXT 1 0 14 "  print(n^2
+);\n" }{MPLTEXT 1 0 32 "  if n >= 4 then break; end if;\n" }{MPLTEXT 
+1 0 7 "end do;" }}{PARA 6 "" 1 "" {TEXT 260 1 "9" }}{PARA 6 "" 1 "" 
+{TEXT 260 2 "16" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 61 "
+3. What is the output of the following sequence of commands:\n" }{TEXT
+ 259 2 "  " }{TEXT 227 23 "> for n from 3 to 7 do\n" }{TEXT 228 38 "  \+
+      if n >= 4 then break; end if;\n" }{TEXT 229 20 "        print(n^
+2);\n" }{TEXT 230 12 "    end do;\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+206 10 "Solution: " }}{PARA 0 "" 0 "" {TEXT 206 45 "The out of the seq
+uence of commands is just 9" }}{PARA 0 "" 0 "" {TEXT 206 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "for n from 3 to 7 do\n" }
+{MPLTEXT 1 0 32 "  if n >= 4 then break; end if;\n" }{MPLTEXT 1 0 14 "
+  print(n^2);\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 6 "" 1 "" {TEXT 
+260 1 "9" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 75 "4. Test
+ the following two sequences of commands to find their difference: \n"
+ }{TEXT 259 2 "  " }{TEXT 231 23 "> for n from 1 to 4 do\n" }{TEXT 
+232 37 "        if n >= 2 then next; end if;\n" }{TEXT 233 20 "       \+
+ print(n^2);\n" }{TEXT 234 12 "    end do;\n" }{TEXT 259 1 " " }{TEXT 
+235 23 "> for n from 1 to 4 do\n" }{TEXT 236 20 "        print(n^2);\n
+" }{TEXT 237 37 "        if n >= 2 then next; end if;\n" }{TEXT 238 
+11 "    end do;" }}{PARA 0 "" 0 "" {TEXT 259 0 "" }}}{EXCHG {PARA 0 ""
+ 0 "" {TEXT 206 11 "Solution: \n" }{TEXT 206 167 "The position of the \+
+phrase next changes the sequences, the first sequences ends after the \+
+inital input while the second is able to continue on until the limitin
+g term." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "for n from 1 to \+
+4 do\n" }{MPLTEXT 1 0 31 "  if n >= 2 then next; end if;\n" }{MPLTEXT 
+1 0 14 "  print(n^2);\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 6 "" 1 "" 
+{TEXT 260 1 "1" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "for n fro
+m 1 to 4 do\n" }{MPLTEXT 1 0 14 "  print(n^2);\n" }{MPLTEXT 1 0 31 "  \+
+if n >= 2 then next; end if;\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 6 ""
+ 1 "" {TEXT 260 1 "1" }}{PARA 6 "" 1 "" {TEXT 260 2 "4\n" }{TEXT 260 
+2 "9\n" }{TEXT 260 2 "16" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 259 0 "" }}
+{PARA 0 "" 0 "" {TEXT 259 75 "5. Find the smallest integer n between 1
+ and 100 which satisfies 3^n>10^5.\n" }{TEXT 259 1 " " }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 206 10 "Solution: " }}{PARA 0 "" 0 "" {TEXT 206 
+72 "The smallest integer n between 1 and 100 which satisfies 3^n?10^5 \+
+is 11." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "for n from 1 to 1
+00 do\n" }{MPLTEXT 1 0 46 "  if 3^n > 10^5 then print(n); break; end i
+f;\n" }{MPLTEXT 1 0 7 "end do;" }}{PARA 6 "" 1 "" {TEXT 260 2 "11" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 206 3 "The" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 259 0 "" }}{PARA 0 "
+" 0 "" {TEXT 259 87 "6. What are the outputs of the following two comm
+ands involving the logical operators, " }{TEXT 239 3 "xor" }{TEXT 259 
+5 " and " }{TEXT 240 7 "implies" }{TEXT 259 1 ":" }{TEXT 241 1 "\n" }
+{TEXT 242 20 "  >1<2 xor 1+a<2+a;\n" }{TEXT 243 23 "  >2>3 implies 2+a
+>1+a;" }}{PARA 0 "" 0 "" {TEXT 259 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT 206 10 "Solution: " }}{PARA 0 "" 0 "" {TEXT 206 71 "These are re
+lation operators where the output is given out differently." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "1<2 xor 1+a<2+a;" }}{PARA 6 
+"" 1 "" {TEXT 260 11 "not a < 1+a" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "2>3 implies 2+a>1+a;" }}{PARA 6 "" 1 "" {TEXT 260 4 "
+true" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 139 "7. Write a sho
+rt program whose output will be the set of all 2 element sets \{i,j\} \+
+where i < j  and  i,j are in the set \{1, 2, . . . , 10\}:\n" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 206 10 "Solution: " }}{PARA 0 "" 0 "" 
+{TEXT 206 17 "See program below" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 7 "S:=\{\}:\n" }{MPLTEXT 1 0 22 "for i from 1 to 10 do\n" }
+{MPLTEXT 1 0 24 "  for j from 1 to 10 do\n" }{MPLTEXT 1 0 38 "    if i
+<j then S:= S union \{[i,j]\}; \n" }{MPLTEXT 1 0 12 "    end if;\n" }
+{MPLTEXT 1 0 10 "  end do;\n" }{MPLTEXT 1 0 8 "end do;\n" }{MPLTEXT 1 
+0 9 "print(S);" }}{PARA 6 "" 1 "" {TEXT 260 369 "\{[1, 2], [1, 3], [1,
+ 4], [1, 5], [1, 6], [1, 7], [1, 8], [1, 9], [1, 10], [2, 3], [2, 4], \+
+[2, 5], [2, 6], [2, 7], [2, 8], [2, 9], [2, 10], [3, 4], [3, 5], [3, 6
+], [3, 7], [3, 8], [3, 9], [3, 10], [4, 5], [4, 6], [4, 7], [4, 8], [4
+, 9], [4, 10], [5, 6], [5, 7], [5, 8], [5, 9], [5, 10], [6, 7], [6, 8]
+, [6, 9], [6, 10], [7, 8], [7, 9], [7, 10], [8, 9], [8, 10], [9, 10]\}
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0
+ "" {TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 66 "8. Which of the fol
+lowing are legitimate variable names in Maple:\n" }{TEXT 259 27 "  a. \+
+ temperature of water\n" }{TEXT 259 27 "  b. `temperature of water`" }
+}{PARA 0 "" 0 "" {TEXT 259 27 "  c.  temperature_of_water\n" }{TEXT 
+259 15 "  d. 3variable\n" }{TEXT 259 16 "  e.  variable3\n" }{TEXT 
+259 8 "  f.   D" }}{PARA 0 "" 0 "" {TEXT 259 9 "  g.   I\n" }{TEXT 
+259 91 "Note that the symbol in g is not \"one\" or \"el\", rather the
+ capital letter pronounced \"eye\"." }}{PARA 0 "" 0 "" {TEXT 259 0 "" 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT 206 10 "Solution: " }}{PARA 0 "" 0 "" 
+{TEXT 206 29 "The variables are B, C, and E" }}}{EXCHG {PARA 0 "" 0 ""
+ {TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 51 "9. What are the output
+s of the following programs:\n" }{TEXT 259 2 "  " }{TEXT 244 11 "> res
+tart:\n" }{TEXT 245 18 "     assigned(x);\n" }{TEXT 246 14 "   > resta
+rt:\n" }{TEXT 247 12 "      x:=1:\n" }{TEXT 248 18 "      assigned(x);
+" }{TEXT 259 1 "\n" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 206 10 "Solution: 
+" }}{PARA 0 "" 0 "" {TEXT 206 196 "The first program clears the variab
+le of x and then doesn't assign a value so the output if false. The se
+cond program clears the variables but then gives x an assigned value s
+o the output is true." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "res
+tart:\n" }{MPLTEXT 1 0 12 "assigned(x);" }}{PARA 6 "" 1 "" {TEXT 260 
+5 "false" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }
+{MPLTEXT 1 0 6 "x:=1:\n" }{MPLTEXT 1 0 12 "assigned(x);" }}{PARA 6 "" 
+1 "" {TEXT 260 4 "true" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" 
+}}}{EXCHG {PARA 0 "" 0 "" {TEXT 259 0 "" }}{PARA 0 "" 0 "" {TEXT 259 
+10 "10. Apply " }{TEXT 249 4 "T[m]" }{TEXT 259 36 " determined by the \+
+following program" }{TEXT 250 1 " " }{TEXT 259 110 "to find integers l
+ess than 100 which can be expressed as a sum of square in two and only
+ two different ways: \n" }{TEXT 259 4 "    " }{TEXT 251 24 ">for i fro
+m 1 to 10 do \n" }{TEXT 252 32 "         for j from i to 10 do \n" }
+{TEXT 253 23 "           m:=i^2+j^2;\n" }{TEXT 254 60 "           if a
+ssigned(T[m]) then T[m]:=T[m] union \{[i,j]\};\n" }{TEXT 255 31 "     \+
+      else T[m]:=\{[i,j]\};\n" }{TEXT 256 19 "           end if;\n" }
+{TEXT 257 16 "        end do:\n" }{TEXT 258 11 "    end do:" }}{PARA 0
+ "" 0 "" {TEXT 206 1 " " }}}{EXCHG {PARA 0 "" 0 "" {TEXT 206 11 "Solut
+ion: \n" }{TEXT 206 15 "This is correct" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 206 20 "psquaresum:=proc(n)\n" }{MPLTEXT 1 206 18 "local i,
+ j, T, m;\n" }{MPLTEXT 1 206 23 "for i from 1 to 10 do \n" }{MPLTEXT 
+1 206 31 "        for j from i to 10 do \n" }{MPLTEXT 1 206 23 "      \+
+     m:=i^2+j^2;\n" }{MPLTEXT 1 206 60 "           if assigned(T[m]) t
+hen T[m]:=T[m] union \{[i,j]\};\n" }{MPLTEXT 1 206 31 "           else
+ T[m]:=\{[i,j]\};\n" }{MPLTEXT 1 206 19 "           end if;\n" }
+{MPLTEXT 1 206 16 "        end do:\n" }{MPLTEXT 1 206 9 "  end do:" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 6 "T[n];\n" }{MPLTEXT 1 0 9 "end pro
+c:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "psquaresum(100);" }}
+{PARA 6 "" 1 "" {TEXT 260 8 "\{[6, 8]\}" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 206 20 "psquaresum:=proc(n)\n" }{MPLTEXT 1 206 18 "local i,
+ j, T, m;\n" }{MPLTEXT 1 206 43 "for i from 1 to ceil(evalf(sqrt(n/2))
+) do \n" }{MPLTEXT 1 206 28 "        for j from i to ceil" }{MPLTEXT 
+1 0 18 "(evalf(sqrt(n/2)))" }{MPLTEXT 1 206 5 " do \n" }{MPLTEXT 1 
+206 23 "           m:=i^2+j^2;\n" }{MPLTEXT 1 206 60 "           if as
+signed(T[m]) then T[m]:=T[m] union \{[i,j]\};\n" }{MPLTEXT 1 206 31 " \+
+          else T[m]:=\{[i,j]\};\n" }{MPLTEXT 1 206 19 "           end \+
+if;\n" }{MPLTEXT 1 206 16 "        end do:\n" }{MPLTEXT 1 206 9 "  end
+ do:" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 6 "T[n];\n" }{MPLTEXT 1 0 9 "
+end proc:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "psquaresum(34)
+;" }}{PARA 6 "" 1 "" {TEXT 260 8 "\{[3, 5]\}" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 208 "" 0 "" {TEXT 261 7 "- End -
+" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 0 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
