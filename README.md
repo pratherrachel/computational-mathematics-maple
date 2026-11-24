@@ -8,7 +8,7 @@ GitHub can display the **`.mpl` text files** directly. Those are the easiest fil
 
 | Folder | Contents |
 | --- | --- |
-| `Topics/Cryptography/` | Readable RSA signatures, Pollard rho, and ElGamal examples |
+| `Topics/Cryptography` | Readable RSA signatures, Pollard rho, and ElGamal examples |
 | `Coursework` | Arithmetic, procedures, strings, bits, modular operations, selected review and homework text transcriptions |
 | `Projects/MAD4471/` | Integer factorization and RSA-related project calculations |
 
