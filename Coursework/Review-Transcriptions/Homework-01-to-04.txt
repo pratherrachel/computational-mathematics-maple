@@ -1,8 +1,7 @@
 Transcription of pasted Maple worksheet text (including console output).
-Not directly executable. Name fields redacted.
+Not directly executable. 
 
 Assignment One
-[name redacted]
 Problem 1.
 It is easy to compute 
 Int(x^2*sqrt(-x^2 + 1), x = 0 .. 1);

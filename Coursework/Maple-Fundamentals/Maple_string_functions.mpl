@@ -1,4 +1,4 @@
-# Maple bitwise and string processing — selected source commands, outputs omitted
+# Maple bitwise and string processing
 restart:
 with(Bits):
 naive_OTP := proc(m, key)
